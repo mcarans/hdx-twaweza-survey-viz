@@ -9,7 +9,7 @@ var config = {
 	locations:'Location',
 	datafile:'data/resultslearningleveltanzania.csv',
 	geomfile:'data/tanzaniaadmin3wardsmapshaper.geojson',
-	joinAttr:'Ward_Code',
+	joinAttr:'District_N',
 	confidenceinterval:true
 }
 
