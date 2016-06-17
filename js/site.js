@@ -116,7 +116,7 @@ function genQuestion(data){
 	cf.locationsGroup = cf.aggs[config.locations].dim.group().reduceSum(function(d){return d['Count']});
 
 	// drop down generated for graphs (map has answers, but not locations in dropdown)
-	genDropdowns(cf,[config.locationnames].concat(config.aggregators));
+	genDropdowns(cf,[config.locations].concat(config.aggregators));
 
 	// data for graph
 	var data = cf.answersGroup.all();
