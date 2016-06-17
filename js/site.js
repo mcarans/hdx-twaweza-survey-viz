@@ -10,6 +10,7 @@ var config = {
 	datafile:'data/resultslearningleveltanzania.csv',
 	geomfile:'data/tanzaniaadmin3wardsmapshaper.geojson',
 	joinAttr:'Ward_Code',
+	joinNameAttr:'Ward_Name',
 	confidenceinterval:true
 }
 
@@ -637,7 +638,7 @@ function createMap(geom){
 	};
 
 	info.update = function (props) {
-	    this._div.innerHTML = (props ?'<b>' + props[config.joinAttr] + '</b><br />' + Math.round(props.Svalue*100)+'%': 'Hover location for details');
+	    this._div.innerHTML = (props ?'<b>' + props[config.joinNameAttr] + '</b><br />' + Math.round(props.Svalue*100)+'%': 'Hover location for details');
 	};
 
 	info.addTo(map);
