@@ -7,7 +7,7 @@ var config = {
 	colorfont:'#ffffff',
 	mapcolors:['#cccccc','#FFCDD2','#E57373','#F44336','#B71C1C'],
 	locations:'LocationCode',
-	locationnames:'LocationName'
+	locationnames:'LocationName',
 	datafile:'data/resultslearningleveltanzania.csv',
 	geomfile:'data/tanzaniaadmin3wardsmapshaper.geojson',
 	joinAttr:'Ward_Code',
