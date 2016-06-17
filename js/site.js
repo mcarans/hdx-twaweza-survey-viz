@@ -617,7 +617,7 @@ function createMap(geom){
 	legend.onAdd = function (map) {
 
 	    var div = L.DomUtil.create('div', 'info legend'),
-	        labels = ['No survey','0% <= x < 3%','3% <= x < 6%','6% <= x < 12%' ,'12% <= x'];
+	        labels = ['No survey','0% <= x < 3.5%','3.5% <= x < 7%','7% <= x < 14%' ,'14% <= x'];
 
 	    for (var i = 0; i < labels.length; i++) {
 	        div.innerHTML +='<i style="background:' + config.mapcolors[i] + '"></i> ' + labels[i] + '<br />';
@@ -698,11 +698,11 @@ function updateMap(data,cf){
 		if(feature.properties[config.joinAttr] in hash){
 			feature.properties.Svalue = hash[feature.properties[config.joinAttr]]/totalperlocation[feature.properties[config.joinAttr]];
 			var num = hash[feature.properties[config.joinAttr]]/totalperlocation[feature.properties[config.joinAttr]];
-			if(num>0.12){
+			if(num>0.14){
 				var color = config.mapcolors[4];
-			} else if (num>0.06) {
+			} else if (num>0.07) {
 				var color = config.mapcolors[3];
-			} else if (num>0.03){
+			} else if (num>0.035){
 				var color = config.mapcolors[2];
 			} else{
 				var color = config.mapcolors[1];
