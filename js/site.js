@@ -1,4 +1,4 @@
-//Nepal
+//twaweza
 
 var config = {
 	aggregators: [''],
@@ -9,7 +9,7 @@ var config = {
 	locations:'Location',
 	datafile:'data/resultslearningleveltanzania.csv',
 	geomfile:'data/tanzaniaadmin3wardsmapshaper.geojson',
-	joinAttr:'District_N',
+	joinAttr:'Ward_Code',
 	confidenceinterval:true
 }
 
