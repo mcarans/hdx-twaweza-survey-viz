@@ -233,7 +233,7 @@ function genDropdowns(cf,aggs){
 
 // function to change dropdown on graph/map switch
 
-function updateDropdowns(cf,agg,aggnames=null){
+function updateDropdowns(cf,agg,aggname=null){
 
 	// clear filters
 
@@ -243,10 +243,11 @@ function updateDropdowns(cf,agg,aggnames=null){
 	// list of values created
 	answers = cf.aggs[agg].values;
 
-	if (aggnames==null) {
+	if (aggname==null) {
 		answernames = answers;
+		aggname = agg;
 	} else {
-		answernames = cf.aggs[aggnames].values;
+		answernames = cf.aggs[aggname].values;
 	}
 
 	// if locations include answer for no filter otherwise filter to first answer
@@ -258,7 +259,7 @@ function updateDropdowns(cf,agg,aggnames=null){
   }
 
 	// create html drop down
-	var html = agg+': <select id="aggchange" class="rightspace">';
+	var html = aggname+': <select id="aggchange" class="rightspace">';
 
 	answers.forEach(function(a, i){
 		html = html + '<option value="'+a+'">'+answernames[i]+'</option> ';
@@ -308,7 +309,7 @@ function createDropdown(answers,cf,i,agg){
   } else {
     cf.aggs[agg].dim.filter(answers[0]);
   }
-	 
+
 	if(agg=="Answer" || agg==config.locations){
 		var html = '<div class="col-md-4"><span id="changeagg">'+aggname+': <select id="aggchange" class="rightspace">';
 		var id = 'change';
