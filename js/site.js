@@ -396,8 +396,15 @@ function drawGraph(data,percent){
 		    return "rotate(-50)"
 		});
 
+	sortItems = function(a, b) {
+		if (isNaN(a) || isNaN(b)) {
+			return d3.descending(a, b);
+		}
+		return parseInt(b) - parseInt(a);
+	}
+
 	svg.append("g").selectAll("rect")
-	    .data(data)
+	    .data(data.sort(sortItems))
 			.enter()
 	    .append("rect")
 	    .attr("x", function(d,i) { return x(d.key)+3; })
@@ -407,7 +414,7 @@ function drawGraph(data,percent){
 	    .attr("fill",config.color);
 
 	svg.append("g").selectAll("text")
-	    .data(data)
+	    .data(data.sort(sortItems))
 	    .enter()
 	    .append("text")
 	    .attr("x", function(d){return x(d.key)+x.rangeBand()/2})
@@ -443,10 +450,6 @@ function drawGraph(data,percent){
 	    	return '#ffffff';
 	    });
 
-		sortItems = function(a, b) {
-			return 0;
-		}
-		svg.selectAll("rect").sort(sortItems);
 }
 
 function confidenceGraph(data,confidence){
