@@ -397,14 +397,13 @@ function drawGraph(data,percent){
 		});
 
 	svg.append("g").selectAll("rect")
-	    .data(data)
-			.sort(function(a, b) {
+	    .data(data.sort(function(a, b) {
 	      if (typeof a === 'number') {
-	        return a - b;
+	        return b - a;
 	      } else {
 	        return d3.ascending(a, b);
 	      }
-	    })
+	    }))
 			.enter()
 	    .append("rect")
 	    .attr("x", function(d,i) { return x(d.key)+3; })
