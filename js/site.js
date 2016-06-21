@@ -402,7 +402,7 @@ function drawGraph(data,percent){
 		} else {
 			return d3.ascending(a, b);
 		}
-	})
+	}
 	svg.append("g").selectAll("rect")
 	    .data(data)
 			.enter()
