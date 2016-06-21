@@ -102,7 +102,7 @@ function genQuestion(data){
 	cf.answersDim = cf.dimension(function(d){return d['Answer']});
 
 	// aggregators are the dimensions for filtering.  These include the location, answers and aggregators element
-	aggregators = [config.locations,'Answer'].concat(config.aggregators);
+	aggregators = [config.locations,config.locationnames,'Answer'].concat(config.aggregators);
 
 	//create crossfilter dimension for each aggregator
 	aggregators.forEach(function(agg,i){
