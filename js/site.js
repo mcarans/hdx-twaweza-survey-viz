@@ -410,8 +410,7 @@ function drawGraph(data,percent){
 	    .attr("width", x.rangeBand()-6)
 	    .attr("y", function(d){return y(d.value);})
 	    .attr("height", function(d) {return height-y(d.value);})
-	    .attr("fill",config.color)
-			.sort(sortItems);
+	    .attr("fill",config.color);
 
 	svg.append("g").selectAll("text")
 	    .data(data)
@@ -448,8 +447,10 @@ function drawGraph(data,percent){
 	    		return '#000000'
 	    	}
 	    	return '#ffffff';
-	    })
-			.sort(sortItems);
+	    });
+
+		svg.selectAll(".bar")
+      .sort(sortItems);
 }
 
 function confidenceGraph(data,confidence){
