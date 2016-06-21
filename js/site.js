@@ -398,7 +398,14 @@ function drawGraph(data,percent){
 
 	svg.append("g").selectAll("rect")
 	    .data(data)
-	    .enter()
+			.sort(function(a, b) {
+	      if (typeof a === 'number') {
+	        return a - b;
+	      } else {
+	        return d3.ascending(a, b);
+	      }
+	    })
+			.enter()
 	    .append("rect")
 	    .attr("x", function(d,i) { return x(d.key)+3; })
 	    .attr("width", x.rangeBand()-6)
