@@ -364,13 +364,20 @@ function drawGraph(data,percent){
  	var x = d3.scale.ordinal()
         .rangeRoundBands([0, width]);
 
-    var y = d3.scale.linear()
-        .range([height,0]);
+  var y = d3.scale.linear()
+      .range([height,0]);
 
-    var xAxis = d3.svg.axis()
-        .scale(x)
-        .orient("bottom");
+  var xAxis = d3.svg.axis()
+      .scale(x)
+      .orient("bottom");
 
+	sortItems = function(a, b) {
+		if (isNaN(a) || isNaN(b)) {
+			return d3.descending(a, b);
+		}
+		return parseInt(b) - parseInt(a);
+	}
+	data.sort(sortItems);
 	x.domain(data.map(function(d) {return d.key; }));
 
 	var maxy = d3.max(data,function(d){
@@ -396,14 +403,6 @@ function drawGraph(data,percent){
 		    return "rotate(-50)"
 		});
 
-	sortItems = function(a, b) {
-		if (isNaN(a) || isNaN(b)) {
-			return d3.descending(a, b);
-		}
-		return parseInt(b) - parseInt(a);
-	}
-
-	data = data.sort(sortItems)
 	svg.append("g").selectAll("rect")
 	    .data(data)
 			.enter()
