@@ -398,7 +398,7 @@ function drawGraph(data,percent){
 
   sortItems = function(a, b) {
 		if (isNaN(a) || isNaN(b)) {
-			return d3.ascending(a, b);
+			return d3.descending(a, b);
 		}
 		return parseInt(b) - parseInt(a)
 	}
