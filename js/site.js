@@ -404,7 +404,7 @@ function drawGraph(data,percent){
 	}
 
 	svg.append("g").selectAll("rect")
-	    .data(data.sort(sortItems))
+	    .data(data)
 			.enter()
 	    .append("rect")
 	    .attr("x", function(d,i) { return x(d.key)+3; })
@@ -414,7 +414,7 @@ function drawGraph(data,percent){
 	    .attr("fill",config.color);
 
 	svg.append("g").selectAll("text")
-	    .data(data.sort(sortItems))
+	    .data(data)
 	    .enter()
 	    .append("text")
 	    .attr("x", function(d){return x(d.key)+x.rangeBand()/2})
@@ -450,7 +450,32 @@ function drawGraph(data,percent){
 	    	return '#ffffff';
 	    });
 
-}
+		var sortOrder = false;
+
+    var sortBars = function() {
+      svg.selectAll("rect")
+        .sort(function(a, b) {
+          if (sortOrder) {
+            return d3.descending(a, b);
+          } else {
+            return d3;
+          }
+         })
+        .transition()
+        .duration(1000)
+        .attr("transform", function(d, i) { return "translate(" + i * barWidth + ",0)"; })
+
+    $("#descending").on("click", function(){
+     sortOrder = true;
+     sortBars();
+    });
+
+    $("#chronological").on("click", function(){
+      sortOrder = false;
+      sortBars();
+     });
+    };
+	}
 
 function confidenceGraph(data,confidence){
 	var total = 0;
