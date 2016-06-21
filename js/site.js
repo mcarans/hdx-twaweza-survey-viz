@@ -381,7 +381,7 @@ function drawGraph(data,percent){
 		}
 		return parseInt(a) - parseInt(b);
 	}
-	data.sort(sortItems);
+	//data.sort(sortItems);
 	x.domain(data.map(function(d) {return d.key; }));
 
 	var maxy = d3.max(data,function(d){
