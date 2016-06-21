@@ -381,7 +381,8 @@ function drawGraph(data,percent){
 		}
 		return parseInt(a) - parseInt(b);
 	}
-	x.domain(data.map(function(d) {return d.key; }));
+	sortdata = data.slice(0).sort(sortItems);
+	x.domain(sortdata.map(function(d) {return d.key; }));
 
 	var maxy = d3.max(data,function(d){
 		return d.value;
@@ -408,7 +409,6 @@ function drawGraph(data,percent){
 
 	svg.append("g").selectAll("rect")
 	    .data(data)
-			.sort(sortItems)
 			.enter()
 	    .append("rect")
 	    .attr("x", function(d,i) { return x(d.key)+3; })
