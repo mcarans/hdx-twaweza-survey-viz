@@ -396,12 +396,6 @@ function drawGraph(data,percent){
 		    return "rotate(-50)"
 		});
 
-  sortItems = function(a, b) {
-		if (isNaN(a) || isNaN(b)) {
-			return d3.descending(a, b);
-		}
-		return parseInt(b) - parseInt(a)
-	}
 	svg.append("g").selectAll("rect")
 	    .data(data)
 			.enter()
@@ -449,8 +443,13 @@ function drawGraph(data,percent){
 	    	return '#ffffff';
 	    });
 
-		svg.selectAll(".bar")
-      .sort(sortItems);
+		sortItems = function(a, b) {
+			if (isNaN(a) || isNaN(b)) {
+				return d3.descending(a, b);
+			}
+			return parseInt(b) - parseInt(a)
+		}
+		svg.selectAll("rect").sort(sortItems);
 }
 
 function confidenceGraph(data,confidence){
