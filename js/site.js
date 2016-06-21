@@ -403,6 +403,7 @@ function drawGraph(data,percent){
 		return parseInt(b) - parseInt(a);
 	}
 
+	data = data.sort(sortItems)
 	svg.append("g").selectAll("rect")
 	    .data(data)
 			.enter()
@@ -450,32 +451,7 @@ function drawGraph(data,percent){
 	    	return '#ffffff';
 	    });
 
-		var sortOrder = false;
-
-    var sortBars = function() {
-      svg.selectAll("rect")
-        .sort(function(a, b) {
-          if (sortOrder) {
-            return d3.descending(a, b);
-          } else {
-            return d3;
-          }
-         })
-        .transition()
-        .duration(1000)
-        .attr("transform", function(d, i) { return "translate(" + i * barWidth + ",0)"; })
-
-    $("#descending").on("click", function(){
-     sortOrder = true;
-     sortBars();
-    });
-
-    $("#chronological").on("click", function(){
-      sortOrder = false;
-      sortBars();
-     });
-    };
-	}
+}
 
 function confidenceGraph(data,confidence){
 	var total = 0;
