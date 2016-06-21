@@ -397,14 +397,10 @@ function drawGraph(data,percent){
 		});
 
   sortItems = function(a, b) {
-		numbera = parseInt(a)
-		if not isNaN(numbera) {
-			numberb = parseInt(b)
-			if not isNaN(numberb) {
-				return b-a;
-			}
+		if (isNaN(a) || isNaN(b)) {
+			return d3.ascending(a, b);
 		}
-		return d3.ascending(a, b);
+		return parseInt(b) - parseInt(a)
 	}
 	svg.append("g").selectAll("rect")
 	    .data(data)
