@@ -252,6 +252,7 @@ function updateDropdowns(cf,agg,aggnames=null){
 	// if locations include answer for no filter otherwise filter to first answer
 	if(agg!="Answer"){
 		answers = ['No filter'].concat(answers);
+		answernames = ['No filter'].concat(answernames);
 	} else {
 		cf.aggs[agg].dim.filter(answers[0]);
 	}
@@ -294,15 +295,17 @@ function updateDropdowns(cf,agg,aggnames=null){
 
 
 function createDropdown(answers,cf,i,agg){
-	if(agg!="Answer"){
-		answers = ['No filter'].concat(answers);
-	} else {
-		cf.aggs[agg].dim.filter(answers[0]);
-	}
 	if(agg==config.locations) {
 		aggname = config.locationnames
 	} else {
 		aggname = agg
+	}
+	answernames = cf.aggs[aggname].values;
+	if(agg!="Answer"){
+		answers = ['No filter'].concat(answers);
+		answernames = ['No filter'].concat(answernames);
+	} else {
+		cf.aggs[agg].dim.filter(answers[0]);
 	}
 
 	if(agg=="Answer" || agg==config.locations){
@@ -312,8 +315,6 @@ function createDropdown(answers,cf,i,agg){
 		var html = '<div class="col-md-4">'+aggname+': <select id="agg'+i+'" class="rightspace">';
 		var id = i;
 	}
-
-	answernames = cf.aggs[aggname].values;
 
 	answers.forEach(function(a, i){
 		html = html + '<option value="'+a+'">'+answernames[i]+'</option> ';
