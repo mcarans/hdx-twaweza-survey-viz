@@ -177,7 +177,7 @@ function changeChart(cf,chart){
 			$('#map').hide();
 			if(mapon){
 				mapon = false;
-				updateDropdowns(cf,config.locations);
+				updateDropdowns(cf,config.locations,config.locationnames);
 			}
 			confidenceGraph(data);
 			$(window).on('resize',function(){
@@ -188,7 +188,7 @@ function changeChart(cf,chart){
 			$('#map').hide();
 			if(mapon){
 				mapon = false;
-				updateDropdowns(cf,config.locations);
+				updateDropdowns(cf,config.locations,config.locationnames);
 			}
 			drawGraph(data,false);
 			$(window).on('resize',function(){
@@ -199,7 +199,7 @@ function changeChart(cf,chart){
 			$('#map').hide();
 			if(mapon){
 				mapon = false;
-				updateDropdowns(cf,config.locations);
+				updateDropdowns(cf,config.locations,config.locationnames);
 			}
 			drawGraph(data,true);
 			$(window).on('resize',function(){
@@ -233,7 +233,7 @@ function genDropdowns(cf,aggs){
 
 // function to change dropdown on graph/map switch
 
-function updateDropdowns(cf,agg){
+function updateDropdowns(cf,agg,aggnames=null){
 
 	// clear filters
 
@@ -242,6 +242,12 @@ function updateDropdowns(cf,agg){
 
 	// list of values created
 	answers = cf.aggs[agg].values;
+
+	if (aggnames==null) {
+		answernames = answers;
+	} else {
+		answernames = cf.aggs[aggnames].values;
+	}
 
 	// if locations include answer for no filter otherwise filter to first answer
 	if(agg!="Answer"){
@@ -253,8 +259,8 @@ function updateDropdowns(cf,agg){
 	// create html drop down
 	var html = agg+': <select id="aggchange" class="rightspace">';
 
-	answers.forEach(function(a){
-		html = html + '<option value="'+a+'">'+a+'</option> ';
+	answers.forEach(function(a, i){
+		html = html + '<option value="'+a+'">'+answernames[i]+'</option> ';
 	});
 
 	html = html + '</option>';
