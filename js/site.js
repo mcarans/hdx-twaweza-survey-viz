@@ -307,8 +307,14 @@ function createDropdown(answers,cf,i,agg){
 		var id = i;
 	}
 
-	answers.forEach(function(a){
-		html = html + '<option value="'+a+'">'+a+'</option> ';
+	if (agg==config.locations) {
+		answernames = config.locationnames.values;
+	} else {
+		answernames = answers;
+	}
+
+	answers.forEach(function(a, i){
+		html = html + '<option value="'+a+'">'+answernames[i]+'</option> ';
 	});
 
 	html = html + '</select>';
