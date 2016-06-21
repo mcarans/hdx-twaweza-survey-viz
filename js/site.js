@@ -397,11 +397,7 @@ function drawGraph(data,percent){
 		});
 
   sortItems = function(a, b) {
-		if (typeof a === 'number') {
-			return b - a;
-		} else {
-			return d3.ascending(a, b);
-		}
+		return b - a;
 	}
 	svg.append("g").selectAll("rect")
 	    .data(data)
