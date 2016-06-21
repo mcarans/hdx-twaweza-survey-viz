@@ -308,7 +308,7 @@ function createDropdown(answers,cf,i,agg){
 	}
 
 	if (agg==config.locations) {
-		answernames = config.locationnames.values;
+		answernames = answernames = cf.aggs[config.locationnames].values;
 	} else {
 		answernames = answers;
 	}
