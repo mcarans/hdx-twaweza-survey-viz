@@ -1,7 +1,7 @@
 //twaweza
 
 var config = {
-	aggregators: [''],
+	aggregators: [locationnames],
 	color:'#b71c1c',
 	colorbutton:'#EF5350',
 	colorfont:'#ffffff',
