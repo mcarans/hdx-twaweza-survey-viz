@@ -396,21 +396,23 @@ function drawGraph(data,percent){
 		    return "rotate(-50)"
 		});
 
+  sortItems = function(a, b) {
+		if (typeof a === 'number') {
+			return b - a;
+		} else {
+			return d3.ascending(a, b);
+		}
+	})
 	svg.append("g").selectAll("rect")
-	    .data(data.sort(function(a, b) {
-	      if (typeof a === 'number') {
-	        return b - a;
-	      } else {
-	        return d3.ascending(a, b);
-	      }
-	    }))
+	    .data(data)
 			.enter()
 	    .append("rect")
 	    .attr("x", function(d,i) { return x(d.key)+3; })
 	    .attr("width", x.rangeBand()-6)
 	    .attr("y", function(d){return y(d.value);})
 	    .attr("height", function(d) {return height-y(d.value);})
-	    .attr("fill",config.color);
+	    .attr("fill",config.color)
+			.sort(sortItems);
 
 	svg.append("g").selectAll("text")
 	    .data(data)
@@ -447,7 +449,8 @@ function drawGraph(data,percent){
 	    		return '#000000'
 	    	}
 	    	return '#ffffff';
-	    });
+	    })
+			.sort(sortItems);
 }
 
 function confidenceGraph(data,confidence){
