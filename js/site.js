@@ -371,11 +371,13 @@ function drawGraph(data,percent){
       .scale(x)
       .orient("bottom");
 
-	sortItems = function(a, b) {
+	sortItems = function(x, y) {
+		a = x.key
+		b = y.key
 		if (isNaN(a) || isNaN(b)) {
-			return d3.descending(a, b);
+			return a - b;
 		}
-		return parseInt(b) - parseInt(a);
+		return parseInt(a) - parseInt(b);
 	}
 	data.sort(sortItems);
 	x.domain(data.map(function(d) {return d.key; }));
