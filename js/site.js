@@ -299,19 +299,21 @@ function createDropdown(answers,cf,i,agg){
 	} else {
 		cf.aggs[agg].dim.filter(answers[0]);
 	}
+	if(agg==config.locations) {
+		aggname = config.locationnames
+	} else {
+		aggname = agg
+	}
+
 	if(agg=="Answer" || agg==config.locations){
-		var html = '<div class="col-md-4"><span id="changeagg">'+agg+': <select id="aggchange" class="rightspace">';
+		var html = '<div class="col-md-4"><span id="changeagg">'+aggname+': <select id="aggchange" class="rightspace">';
 		var id = 'change';
 	} else {
-		var html = '<div class="col-md-4">'+agg+': <select id="agg'+i+'" class="rightspace">';
+		var html = '<div class="col-md-4">'+aggname+': <select id="agg'+i+'" class="rightspace">';
 		var id = i;
 	}
 
-	if (agg==config.locations) {
-		answernames = answernames = cf.aggs[config.locationnames].values;
-	} else {
-		answernames = answers;
-	}
+	answernames = cf.aggs[aggname].values;
 
 	answers.forEach(function(a, i){
 		html = html + '<option value="'+a+'">'+answernames[i]+'</option> ';
