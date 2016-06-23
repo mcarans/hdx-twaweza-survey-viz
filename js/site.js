@@ -9,11 +9,11 @@ var config = {
 	locations:'Location Code',
 	locationnames:'Location Name',
 	datafile:'data/resultslearningleveltanzania.csv',
-	geomfile:'data/tanzaniaadmin3wardsmapshaper.geojson',
-	joinAttr:'Ward_Code',
-	joinNameAttr:'Ward_Name',
+	geomfile:'data/tanzaniaadmin3wards_simplified_addloccode.geojson',
+	joinAttr:'LocationCode',
+	joinNameAttr:'LocationName',
 	confidenceinterval:true
-}
+};
 
 
 var map;
@@ -354,7 +354,7 @@ function drawGraph(data,percent){
 
 	data = shortenKey(data);
 
-	var total=0
+	var total=0;
 	data.forEach(function(d){
 		total += d.value;
 	});
@@ -374,13 +374,13 @@ function drawGraph(data,percent){
       .orient("bottom");
 
 	sortItems = function(x, y) {
-		a = x.key
-		b = y.key
+		a = x.key;
+		b = y.key;
 		if (isNaN(a) || isNaN(b)) {
 			return a - b;
 		}
 		return parseInt(a) - parseInt(b);
-	}
+	};
 	sortdata = data.slice(0).sort(sortItems);
 	x.domain(sortdata.map(function(d) {return d.key; }));
 
@@ -469,7 +469,7 @@ function confidenceGraph(data,confidence){
 	data.forEach(function(d){
 		var p = d.value/total;
 		var se = Math.pow((p*(1-p)/total),0.5);
-		ci = d.value/total - confidence*se
+		ci = d.value/total - confidence*se;
 		ci3 = 1-1/(total/3);
 		d.lower = Math.min(ci,ci3);
 		if(d.lower<0){d.lower=0};
@@ -694,7 +694,7 @@ function shortenKey(data){
 		if(d.key.length>32){
 			d.key = d.key.substring(0,30)+'...';
 		}
-	})
+	});
 	return data
 }
 
