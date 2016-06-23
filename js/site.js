@@ -6,11 +6,11 @@ var config = {
 	colorbutton:'#EF5350',
 	colorfont:'#ffffff',
 	mapcolors:['#cccccc','#FFCDD2','#E57373','#F44336','#B71C1C'],
-	locations:'Location Code',
+	locations:'Location Name',
 	locationnames:'Location Name',
 	datafile:'data/resultslearningleveltanzania.csv',
 	geomfile:'data/tanzaniaadmin3wards_simplified_addloccode.geojson',
-	joinAttr:'LocationCode',
+	joinAttr:'LocationName',
 	joinNameAttr:'LocationName',
 	confidenceinterval:true
 };
