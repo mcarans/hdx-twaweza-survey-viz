@@ -233,7 +233,7 @@ function genDropdowns(cf,aggs){
 
 // function to change dropdown on graph/map switch
 
-function updateDropdowns(cf,agg,aggname=null){
+function updateDropdowns(cf,agg,aggname = null){
 
 	// clear filters
 
