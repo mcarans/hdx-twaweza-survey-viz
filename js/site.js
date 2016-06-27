@@ -434,7 +434,7 @@ function drawGraph(data,percent){
 	    	if(percent){
 	    		return d3.format(".1%")(d.value/total);
 	    	} else {
-	    		return d3.format(".3d")(d.value);
+				return d3.format(".3d")(Math.round(d.value));
 	    	}
 	    })
 	    .style("text-anchor", "middle")
