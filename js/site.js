@@ -358,7 +358,7 @@ function drawGraph(data,percent){
 	data.forEach(function(d){
 		total += d.value;
 	});
-	$('#total').html(total+' respondants');
+	$('#total').html(Math.round(total) + ' respondents');
 	var margin = {top: 40, right: 30, bottom: 200, left: 50},
 		width = $("#graph").width() - margin.left - margin.right,
 		height =  430 - margin.top - margin.bottom;
@@ -465,18 +465,22 @@ function confidenceGraph(data,confidence){
 	data.forEach(function(d){
 		total += d.value;
 	});
-	$('#total').html(total+' respondants');
+	$('#total').html(Math.round(total) + ' respondents');
 	data.forEach(function(d){
 		var p = d.value/total;
 		var se = Math.pow((p*(1-p)/total),0.5);
 		ci = d.value/total - confidence*se;
 		ci3 = 1-1/(total/3);
 		d.lower = Math.min(ci,ci3);
-		if(d.lower<0){d.lower=0};
+		if (d.lower < 0) {
+			d.lower = 0
+		}
 		ci = d.value/total + confidence*se;
 		ci3 = 1/(total/3);
 		d.upper = Math.max(ci,ci3);
-		if(d.upper>1){d.upper=1};
+		if (d.upper > 1) {
+			d.upper = 1
+		}
 	});
 	$('#graph').html('');
 
@@ -705,7 +709,7 @@ function updateMap(data,cf){
 		total+=d.value
 	});
 
-	$('#total').html(total+' respondants');
+	$('#total').html(Math.round(total) + ' respondents');
 
 	confidence = 1.96;
 	var hash = {};
@@ -756,8 +760,7 @@ function stickydiv(){
     else{
         $('#analysis').removeClass('sticky');
     }
-};
-
+}
 var cf;
 var currentChart='barchart';
 
