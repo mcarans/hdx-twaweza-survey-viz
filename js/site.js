@@ -358,7 +358,7 @@ function drawGraph(data,percent){
 	data.forEach(function(d){
 		total += d.value;
 	});
-	$('#total').html(Math.round(total) + ' respondents');
+	$('#total').html(Math.max(0, Math.round(total)) + ' respondents');
 	var margin = {top: 40, right: 30, bottom: 200, left: 50},
 		width = $("#graph").width() - margin.left - margin.right,
 		height =  430 - margin.top - margin.bottom;
@@ -434,7 +434,7 @@ function drawGraph(data,percent){
 	    	if(percent){
 	    		return d3.format(".1%")(d.value/total);
 	    	} else {
-				return d3.format(".3d")(Math.round(d.value));
+				return d3.format(".3d")(Math.max(0, Math.round(d.value)));
 	    	}
 	    })
 	    .style("text-anchor", "middle")
@@ -465,7 +465,7 @@ function confidenceGraph(data,confidence){
 	data.forEach(function(d){
 		total += d.value;
 	});
-	$('#total').html(Math.round(total) + ' respondents');
+	$('#total').html(Math.max(0, Math.round(total)) + ' respondents');
 	data.forEach(function(d){
 		var p = d.value/total;
 		var se = Math.pow((p*(1-p)/total),0.5);
@@ -709,7 +709,7 @@ function updateMap(data,cf){
 		total+=d.value
 	});
 
-	$('#total').html(Math.round(total) + ' respondents');
+	$('#total').html(Math.max(0, Math.round(total)) + ' respondents');
 
 	confidence = 1.96;
 	var hash = {};
