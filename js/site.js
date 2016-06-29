@@ -18,7 +18,7 @@ var config = {
 
 var map;
 var overlay;
-var mapon = false;
+var mapon = true;
 
 // load data for dashboard
 
@@ -93,7 +93,6 @@ function initDash(data,geom){
 function genQuestion(data){
 
 	// create crossfilter of subset
-	currentChart='barchart';
 	var cf = crossfilter(data);
 	cf.data = data;
 	cf.aggs = [];
@@ -125,17 +124,22 @@ function genQuestion(data){
 	$("input[type=radio][name=chart][value=bar]").prop('checked',true);
 
 	//make sure graphs is showing and map isn't
-	$('#graph').show();
-	$('#map').hide();
+	$('#graph').hide();
+	$('#map').show();
 
 	// draw default graph
 	drawGraph(data,false);
 
+	updateDropdowns(cf, 'Answer');
+	updateMap(cf.locationsGroup.all(), cf);
+	map.invalidateSize();
+	map.fitBounds(overlay.getBounds());
+
 	//add radio buttons for chart type
 	if(config.confidenceinterval){
-		$('#charts').html('<div><button id="barchart" class="chartbutton btn btn-default">Bar chart</button><button id="barper" class="chartbutton btn btn-default">Bar chart (percent)</button><button id="cichart" class="chartbutton btn btn-default">Confidence intervals</button><button id="mapchart" class="chartbutton btn btn-default">Map</button></div>');
+		$('#charts').html('<div><button id="mapchart" class="chartbutton btn btn-default">Map</button><button id="barchart" class="chartbutton btn btn-default">Bar chart</button><button id="barper" class="chartbutton btn btn-default">Bar chart (percent)</button><button id="cichart" class="chartbutton btn btn-default">Confidence intervals</button></div>');
 	} else {
-		$('#charts').html('<div><button id="barchart" class="chartbutton btn btn-default">Bar chart</button><button id="barper" class="chartbutton btn btn-default">Bar chart (percent)</button><button id="mapchart" class="chartbutton btn btn-default">Map</button></div>');
+		$('#charts').html('<div><button id="mapchart" class="chartbutton btn btn-default">Map</button><button id="barchart" class="chartbutton btn btn-default">Bar chart</button><button id="barper" class="chartbutton btn btn-default">Bar chart (percent)</button></div>');
 	}
 
 	$('.chartbutton').css({
@@ -762,7 +766,7 @@ function stickydiv(){
     }
 }
 var cf;
-var currentChart='barchart';
+var currentChart = 'mapchart';
 
 $(window).scroll(function(){
     stickydiv();
