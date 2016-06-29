@@ -12,7 +12,7 @@ var config = {
 	geomfile:'data/tanzaniaadmin3wards_simplified_addloccode.geojson',
 	joinAttr:'LocationName',
 	joinNameAttr:'LocationName',
-	confidenceinterval:true
+	confidenceinterval: false
 };
 
 
