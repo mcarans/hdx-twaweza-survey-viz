@@ -190,10 +190,8 @@ function changeChart(cf,chart){
 		} else if(chart=='barchart'){
 			$('#graph').show();
 			$('#map').hide();
-			if(mapon){
-				mapon = false;
-				updateDropdowns(cf,config.locations,config.locationnames);
-			}
+			mapon = false;
+			updateDropdowns(cf, config.locations, config.locationnames);
 			drawGraph(data,false);
 			$(window).on('resize',function(){
 				drawGraph(data,false);
@@ -201,10 +199,8 @@ function changeChart(cf,chart){
 		} else if(chart=='barper'){
 			$('#graph').show();
 			$('#map').hide();
-			if(mapon){
-				mapon = false;
-				updateDropdowns(cf,config.locations,config.locationnames);
-			}
+			mapon = false;
+			updateDropdowns(cf, config.locations, config.locationnames);
 			drawGraph(data,true);
 			$(window).on('resize',function(){
 				console.log('resize');
