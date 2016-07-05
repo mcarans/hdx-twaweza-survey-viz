@@ -1,20 +1,31 @@
 //twaweza
 
+var country = getParameterByName('country');
+
+function getParameterByName(name, url) {
+	if (!url) url = window.location.href;
+	name = name.replace(/[\[\]]/g, "\\$&");
+	var regex = new RegExp("[?&]" + name + "(=([^&#]*)|&|#|$)"),
+		results = regex.exec(url);
+	if (!results) return null;
+	if (!results[2]) return '';
+	return decodeURIComponent(results[2].replace(/\+/g, " "));
+}
+
 var config = {
 	aggregators: [],
-	color:'#b71c1c',
-	colorbutton:'#EF5350',
-	colorfont:'#ffffff',
-	mapcolors:['#cccccc','#FFCDD2','#E57373','#F44336','#B71C1C'],
-	locations:'Location Name',
-	locationnames:'Location Name',
-	datafile:'data/resultslearningleveltanzania.csv',
-	geomfile:'data/tanzaniaadmin3wards_simplified_addloccode.geojson',
-	joinAttr:'LocationName',
-	joinNameAttr:'LocationName',
+	color: '#b71c1c',
+	colorbutton: '#EF5350',
+	colorfont: '#ffffff',
+	mapcolors: ['#cccccc', '#FFCDD2', '#E57373', '#F44336', '#B71C1C'],
+	locations: 'Location Name',
+	locationnames: 'Location Name',
+	datafile: 'data/resultslearninglevel_' + country + '.csv',
+	geomfile: 'data/locations_' + country + '.geojson',
+	joinAttr: 'LocationName',
+	joinNameAttr: 'LocationName',
 	confidenceinterval: false
 };
-
 
 var map;
 var overlay;
