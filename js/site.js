@@ -228,6 +228,26 @@ function changeChart(cf,chart){
 		}
 	}
 
+sortKeyValueList = function (x, y) {
+	var a = x.key;
+	var b = y.key;
+	if (isNaN(a) || isNaN(b)) {
+		return a - b;
+	}
+	return parseInt(a) - parseInt(b);
+};
+
+function makeKeyValueList(keys, values) {
+	var list = [];
+
+	for (i = 0; i < keys.length; i++) {
+		var obj = {};
+		obj.key = keys[i];
+		obj.value = values[i];
+		list.push(obj);
+	}
+	return list;
+}
 // generate drop downs
 
 function genDropdowns(cf,aggs){
@@ -252,7 +272,7 @@ function updateDropdowns(cf,agg,aggname = null){
 	cf.aggs[config.locations].dim.filter();
 
 	// list of values created
-	answers = cf.aggs[agg].values;
+	var answers = cf.aggs[agg].values;
 
 	if (aggname==null) {
 		answernames = answers;
@@ -261,19 +281,22 @@ function updateDropdowns(cf,agg,aggname = null){
 		answernames = cf.aggs[aggname].values;
 	}
 
+	var answersandnames = makeKeyValueList(answernames, answers);
+
+	var sortanswersandnames = answersandnames.sort(sortKeyValueList);
 	// if locations include answer for no filter otherwise filter to first answer
-  if(agg!="Answer"){
-    answers = ['No filter'].concat(answers);
-    answernames = ['No filter'].concat(answernames);
-  } else {
-    cf.aggs[agg].dim.filter(answers[0]);
-  }
+	if (agg != "Answer") {
+		obj = {key: 'No filter', value: 'No filter'};
+		sortanswersandnames = [obj].concat(sortanswersandnames);
+	} else {
+		cf.aggs[agg].dim.filter(sortanswersandnames[0].value);
+	}
 
 	// create html drop down
 	var html = aggname+': <select id="aggchange" class="rightspace">';
 
-	answers.forEach(function(a, i){
-		html = html + '<option value="'+a+'">'+answernames[i]+'</option> ';
+	sortanswersandnames.forEach(function (a, i) {
+		html = html + '<option value="' + a.value + '">' + a.key + '</option> ';
 	});
 
 	html = html + '</option>';
@@ -312,14 +335,18 @@ function createDropdown(answers,cf,i,agg){
 	} else {
 		aggname = agg
 	}
-	answernames = cf.aggs[aggname].values;
+	var answernames = cf.aggs[aggname].values;
 
-	if(agg!="Answer"){
-    answers = ['No filter'].concat(answers);
-    answernames = ['No filter'].concat(answernames);
-  } else {
-    cf.aggs[agg].dim.filter(answers[0]);
-  }
+	var answersandnames = makeKeyValueList(answernames, answers);
+
+	var sortanswersandnames = answersandnames.sort(sortKeyValueList);
+
+	if (agg != "Answer") {
+		obj = {key: 'No filter', value: 'No filter'};
+		sortanswersandnames = [obj].concat(sortanswersandnames);
+	} else {
+		cf.aggs[agg].dim.filter(sortanswersandnames[0].value);
+	}
 
 	if(agg=="Answer" || agg==config.locations){
 		var html = '<div class="col-md-4"><span id="changeagg">'+aggname+': <select id="aggchange" class="rightspace">';
@@ -329,8 +356,8 @@ function createDropdown(answers,cf,i,agg){
 		var id = i;
 	}
 
-	answers.forEach(function(a, i){
-		html = html + '<option value="'+a+'">'+answernames[i]+'</option> ';
+	sortanswersandnames.forEach(function (a, i) {
+		html = html + '<option value="' + a.value + '">' + a.key + '</option> ';
 	});
 
 	html = html + '</select>';
@@ -377,22 +404,14 @@ function drawGraph(data,percent){
  	var x = d3.scale.ordinal()
         .rangeRoundBands([0, width]);
 
-  var y = d3.scale.linear()
-      .range([height,0]);
+	var y = d3.scale.linear()
+		.range([height, 0]);
 
-  var xAxis = d3.svg.axis()
-      .scale(x)
-      .orient("bottom");
+	var xAxis = d3.svg.axis()
+		.scale(x)
+		.orient("bottom");
 
-	sortItems = function(x, y) {
-		a = x.key;
-		b = y.key;
-		if (isNaN(a) || isNaN(b)) {
-			return a - b;
-		}
-		return parseInt(a) - parseInt(b);
-	};
-	sortdata = data.slice(0).sort(sortItems);
+	sortdata = data.slice(0).sort(sortKeyValueList);
 	x.domain(sortdata.map(function(d) {return d.key; }));
 
 	var maxy = d3.max(data,function(d){

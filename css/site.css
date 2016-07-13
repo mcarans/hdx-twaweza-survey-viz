@@ -6,6 +6,11 @@
 	width:800px;
 }
 
+#questions {
+    height: 100%;
+    overflow: scroll;
+}
+
 .axis path,
 .axis line {
   fill: none;
@@ -15,7 +20,7 @@
 }
 
 .questionbox {
-	min-height:80;
+    min-height: 80px;
 	border-bottom-width:1px;
 	border-bottom-color:#ddd;
 	border-bottom-style:solid;
@@ -73,7 +78,7 @@
 
 .radio {
   display:inline-block;
-  margin-top:0px !important;
+    margin-top: 0 !important;
 }
 
 .chartbutton{
@@ -82,8 +87,9 @@
   width:150px;
 }
 
+/*
 .sticky {
     position: fixed;
     top: 0px;
     margin-right:120px;
-}
+}*/
