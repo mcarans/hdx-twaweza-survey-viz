@@ -17,7 +17,8 @@ var config = {
 	color: '#b71c1c',
 	colorbutton: '#EF5350',
 	colorfont: '#ffffff',
-	mapcolors: ['#cccccc', '#FFCDD2', '#E57373', '#F44336', '#B71C1C'],
+//	mapcolors: ['#cccccc', '#FFCDD2', '#E57373', '#F44336', '#B71C1C'],
+	mapcolors: ['white', 'blue', 'green', 'orange', 'red'],
 	locations: 'Location Name',
 	locationnames: 'Location Name',
 	datafile: 'data/resultslearninglevel_' + country + '.csv',
@@ -678,9 +679,8 @@ function createMap(geom){
 	var legend = L.control({position: 'bottomright'});
 
 	legend.onAdd = function (map) {
-
 	    var div = L.DomUtil.create('div', 'info legend'),
-	        labels = ['No survey','0% <= x < 10%','10% <= x < 20%','20% <= x < 40%' ,'40% <= x'];
+			labels = ['0% <= x < 20%', '20% <= x < 40%', '40% <= x < 60%', '60% <= x < 80%', '80% <= x < 100%'];
 
 	    for (var i = 0; i < labels.length; i++) {
 	        div.innerHTML +='<i style="background:' + config.mapcolors[i] + '"></i> ' + labels[i] + '<br />';
@@ -761,14 +761,16 @@ function updateMap(data,cf){
 		if(feature.properties[config.joinAttr] in hash){
 			feature.properties.Svalue = hash[feature.properties[config.joinAttr]]/totalperlocation[feature.properties[config.joinAttr]];
 			var num = hash[feature.properties[config.joinAttr]]/totalperlocation[feature.properties[config.joinAttr]];
-			if(num>0.4){
+			if (num > 0.8) {
 				var color = config.mapcolors[4];
-			} else if (num>0.2) {
+			} else if (num > 0.6) {
 				var color = config.mapcolors[3];
-			} else if (num>0.1){
+			} else if (num > 0.4) {
 				var color = config.mapcolors[2];
-			} else{
+			} else if (num > 0.2) {
 				var color = config.mapcolors[1];
+			} else{
+				var color = config.mapcolors[0];
 			}
 
 		} else {
