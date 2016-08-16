@@ -11,6 +11,12 @@
     overflow: scroll;
 }
 
+#notes {
+    font-size: 10px;
+    font-weight: 400;
+}
+
+
 .axis path,
 .axis line {
   fill: none;

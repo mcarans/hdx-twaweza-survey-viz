@@ -1,52 +1,52 @@
 Question,Location Name,Answer,Count
-Ability in English,CENTRAL,Competent,38552.473574
-Ability in English,CENTRAL,Not Competent,679.22202
-Ability in English,COAST,Competent,53987.900685
-Ability in English,COAST,Not Competent,5601.803719
-Ability in English,EASTERN,Competent,90879.793332
-Ability in English,EASTERN,Not Competent,9930.659433
-Ability in English,NAIROBI,Competent,7657.387731
-Ability in English,NAIROBI,Not Competent,162.913451
-Ability in English,NORTH EASTERN,Competent,31992.082258
-Ability in English,NORTH EASTERN,Not Competent,9069.416048
-Ability in English,NYANZA,Competent,88833.482176
-Ability in English,NYANZA,Not Competent,6310.644143
-Ability in English,RIFT VALLEY,Competent,196105.264928
-Ability in English,RIFT VALLEY,Not Competent,27114.316218
-Ability in English,WESTERN,Competent,83172.956844
-Ability in English,WESTERN,Not Competent,8280.167959
-Ability in Mathematics,CENTRAL,Competent,38215.86696
-Ability in Mathematics,CENTRAL,Not Competent,707.077469
-Ability in Mathematics,COAST,Competent,54544.779988
-Ability in Mathematics,COAST,Not Competent,4191.898588
-Ability in Mathematics,EASTERN,Competent,90373.4259
-Ability in Mathematics,EASTERN,Not Competent,8794.335915
-Ability in Mathematics,NAIROBI,Competent,7456.387949
-Ability in Mathematics,NAIROBI,Not Competent,132.56942
-Ability in Mathematics,NORTH EASTERN,Competent,31381.634475
-Ability in Mathematics,NORTH EASTERN,Not Competent,7943.018099
-Ability in Mathematics,NYANZA,Competent,90054.971603
-Ability in Mathematics,NYANZA,Not Competent,4121.364626
-Ability in Mathematics,RIFT VALLEY,Competent,197500.429364
-Ability in Mathematics,RIFT VALLEY,Not Competent,22607.357161
-Ability in Mathematics,WESTERN,Competent,84606.564668
-Ability in Mathematics,WESTERN,Not Competent,5481.780965
-Ability in Swahili,CENTRAL,Competent,37843.323234
-Ability in Swahili,CENTRAL,Not Competent,1050.262264
-Ability in Swahili,COAST,Competent,52262.18212
-Ability in Swahili,COAST,Not Competent,6411.261511
-Ability in Swahili,EASTERN,Competent,87689.170427
-Ability in Swahili,EASTERN,Not Competent,11366.304891
-Ability in Swahili,NAIROBI,Competent,7398.235908
-Ability in Swahili,NAIROBI,Not Competent,243.983632
-Ability in Swahili,NORTH EASTERN,Competent,30702.767277
-Ability in Swahili,NORTH EASTERN,Not Competent,8260.623745
-Ability in Swahili,NYANZA,Competent,85399.939131
-Ability in Swahili,NYANZA,Not Competent,7849.802052
-Ability in Swahili,RIFT VALLEY,Competent,190433.016846
-Ability in Swahili,RIFT VALLEY,Not Competent,28597.199929
-Ability in Swahili,WESTERN,Competent,79341.437801
-Ability in Swahili,WESTERN,Not Competent,10288.944031
+Ability in English,CENTRAL,Competent,25184.196939
+Ability in English,CENTRAL,Not Competent,14047.498655
+Ability in English,COAST,Competent,27198.673327
+Ability in English,COAST,Not Competent,32391.031077
+Ability in English,EASTERN,Competent,49894.875076
+Ability in English,EASTERN,Not Competent,50915.577689
+Ability in English,NAIROBI,Competent,5486.832724
+Ability in English,NAIROBI,Not Competent,2333.468458
+Ability in English,NORTH EASTERN,Competent,14877.73939
+Ability in English,NORTH EASTERN,Not Competent,26183.758916
+Ability in English,NYANZA,Competent,50095.411789
+Ability in English,NYANZA,Not Competent,45048.71453
+Ability in English,RIFT VALLEY,Competent,103459.973818
+Ability in English,RIFT VALLEY,Not Competent,119759.607328
+Ability in English,WESTERN,Competent,43128.466641
+Ability in English,WESTERN,Not Competent,48324.658162
+Ability in Mathematics,CENTRAL,Competent,24232.740229
+Ability in Mathematics,CENTRAL,Not Competent,14690.2042
+Ability in Mathematics,COAST,Competent,28565.301246
+Ability in Mathematics,COAST,Not Competent,30171.37733
+Ability in Mathematics,EASTERN,Competent,53918.336887
+Ability in Mathematics,EASTERN,Not Competent,45249.424928
+Ability in Mathematics,NAIROBI,Competent,4789.886321
+Ability in Mathematics,NAIROBI,Not Competent,2799.071048
+Ability in Mathematics,NORTH EASTERN,Competent,13992.477396
+Ability in Mathematics,NORTH EASTERN,Not Competent,25332.175178
+Ability in Mathematics,NYANZA,Competent,52538.551128
+Ability in Mathematics,NYANZA,Not Competent,41637.785101
+Ability in Mathematics,RIFT VALLEY,Competent,107505.764606
+Ability in Mathematics,RIFT VALLEY,Not Competent,112602.021919
+Ability in Mathematics,WESTERN,Competent,45363.199391
+Ability in Mathematics,WESTERN,Not Competent,44725.146242
+Ability in Swahili,CENTRAL,Competent,25793.997917
+Ability in Swahili,CENTRAL,Not Competent,13099.587581
+Ability in Swahili,COAST,Competent,31418.622187
+Ability in Swahili,COAST,Not Competent,27254.821444
+Ability in Swahili,EASTERN,Competent,53283.670731
+Ability in Swahili,EASTERN,Not Competent,45771.804587
+Ability in Swahili,NAIROBI,Competent,5415.409202
+Ability in Swahili,NAIROBI,Not Competent,2226.810338
+Ability in Swahili,NORTH EASTERN,Competent,14666.950923
+Ability in Swahili,NORTH EASTERN,Not Competent,24296.440099
+Ability in Swahili,NYANZA,Competent,52254.567607
+Ability in Swahili,NYANZA,Not Competent,40995.173576
+Ability in Swahili,RIFT VALLEY,Competent,110325.149509
+Ability in Swahili,RIFT VALLEY,Not Competent,108705.067266
+Ability in Swahili,WESTERN,Competent,47385.350771
+Ability in Swahili,WESTERN,Not Competent,42245.031061
 House Wall Material,CENTRAL,Iron sheet,9402.473503
 House Wall Material,CENTRAL,Mud,5381.09486
 House Wall Material,CENTRAL,Polythene,130.73332

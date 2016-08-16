@@ -1,0 +1,1 @@
+<p>(Survey totals are multiplied by weights)</p>

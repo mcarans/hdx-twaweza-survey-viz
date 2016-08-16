@@ -23,6 +23,7 @@ var config = {
 	locationnames: 'Location Name',
 	datafile: 'data/resultslearninglevel_' + country + '.csv',
 	geomfile: 'data/locations_' + country + '.geojson',
+	notesfile: 'data/notes_' + country + '.txt',
 	joinAttr: 'LocationName',
 	joinNameAttr: 'LocationName',
 	confidenceinterval: false
@@ -48,8 +49,14 @@ function loadData(){
 	    dataType: 'json',
 	});
 
-	$.when(dataCall,geomCall).then(function(dataArgs,geomArgs){
-		initDash(d3.csv.parse(dataArgs[0]),geomArgs[0]);
+	var notesCall = $.ajax({
+		type: 'GET',
+		url: config.notesfile,
+		dataType: 'text',
+	});
+
+	$.when(dataCall, geomCall, notesCall).then(function (dataArgs, geomArgs, notesArgs) {
+		initDash(d3.csv.parse(dataArgs[0]), geomArgs[0], notesArgs[0]);
 	});
 
 }
@@ -57,7 +64,7 @@ function loadData(){
 // loaded data pass to dash and crossfilter created to obtain questions
 // crossfilter also used to get subset of filtered question
 
-function initDash(data,geom){
+function initDash(data, geom, notes) {
 
 	// crossfilter of data
 	cf = crossfilter(data);
@@ -94,6 +101,7 @@ function initDash(data,geom){
 	// render first question be default
 
 	cf.questionsDim.filter(questions[0]);
+	$('#notes').html(notes);
 	$('#question').html(questions[0]);
 	createMap(geom);
 	genQuestion(cf.questionsDim.top(Infinity));
