@@ -18,7 +18,7 @@ var config = {
 	colorbutton: '#EF5350',
 	colorfont: '#ffffff',
 //	mapcolors: ['#cccccc', '#FFCDD2', '#E57373', '#F44336', '#B71C1C'],
-	mapcolors: ['white', 'blue', 'green', 'orange', 'red'],
+	mapcolors: ['#ffffff', '#e92227', '#f9bc12', '#f6ec21', '#14aa67'],
 	locations: 'Location Name',
 	locationnames: 'Location Name',
 	datafile: 'data/resultslearninglevel_' + country + '.csv',
