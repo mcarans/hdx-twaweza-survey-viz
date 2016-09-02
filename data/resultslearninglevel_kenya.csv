@@ -1,257 +1,1505 @@
 Question,Location Name,Answer,Count
-Ability in English,CENTRAL,Competent,1073915.351550
-Ability in English,CENTRAL,Not Competent,556432.365780
-Ability in English,COAST,Competent,632553.338590
-Ability in English,COAST,Not Competent,633890.082080
-Ability in English,EASTERN,Competent,1111181.830180
-Ability in English,EASTERN,Not Competent,936090.620020
-Ability in English,NAIROBI,Competent,779167.936800
-Ability in English,NAIROBI,Not Competent,326258.599500
-Ability in English,NORTH EASTERN,Competent,200411.268390
-Ability in English,NORTH EASTERN,Not Competent,305599.370470
-Ability in English,NYANZA,Competent,1153821.884690
-Ability in English,NYANZA,Not Competent,1035695.806930
-Ability in English,RIFT VALLEY,Competent,1883947.948280
-Ability in English,RIFT VALLEY,Not Competent,1730341.365800
-Ability in English,WESTERN,Competent,874869.424670
-Ability in English,WESTERN,Not Competent,950657.251920
-Ability in Mathematics,CENTRAL,Competent,1057231.824330
-Ability in Mathematics,CENTRAL,Not Competent,558201.460890
-Ability in Mathematics,COAST,Competent,663430.776520
-Ability in Mathematics,COAST,Not Competent,586917.882200
-Ability in Mathematics,EASTERN,Competent,1189180.182130
-Ability in Mathematics,EASTERN,Not Competent,828915.616210
-Ability in Mathematics,NAIROBI,Competent,688237.935400
-Ability in Mathematics,NAIROBI,Not Competent,385451.406500
-Ability in Mathematics,NORTH EASTERN,Competent,188834.854540
-Ability in Mathematics,NORTH EASTERN,Not Competent,299850.126770
-Ability in Mathematics,NYANZA,Competent,1206951.114900
-Ability in Mathematics,NYANZA,Not Competent,961895.566050
-Ability in Mathematics,RIFT VALLEY,Competent,1936926.956120
-Ability in Mathematics,RIFT VALLEY,Not Competent,1612360.277580
-Ability in Mathematics,WESTERN,Competent,918126.495240
-Ability in Mathematics,WESTERN,Not Competent,884832.590510
-Ability in Swahili,CENTRAL,Competent,1105500.054840
-Ability in Swahili,CENTRAL,Not Competent,513219.652230
-Ability in Swahili,COAST,Competent,713896.102950
-Ability in Swahili,COAST,Not Competent,534318.702690
-Ability in Swahili,EASTERN,Competent,1184633.565100
-Ability in Swahili,EASTERN,Not Competent,831614.659200
-Ability in Swahili,NAIROBI,Competent,767772.100200
-Ability in Swahili,NAIROBI,Not Competent,307295.447300
-Ability in Swahili,NORTH EASTERN,Competent,198438.883890
-Ability in Swahili,NORTH EASTERN,Not Competent,290463.685090
-Ability in Swahili,NYANZA,Competent,1197270.080080
-Ability in Swahili,NYANZA,Not Competent,951648.124000
-Ability in Swahili,RIFT VALLEY,Competent,1995858.995180
-Ability in Swahili,RIFT VALLEY,Not Competent,1541621.180030
-Ability in Swahili,WESTERN,Competent,960945.919130
-Ability in Swahili,WESTERN,Not Competent,833475.203630
-House Wall Material,CENTRAL,Iron sheet,479786.006980
-House Wall Material,CENTRAL,Mud,262830.762620
-House Wall Material,CENTRAL,Polythene,4321.587260
-House Wall Material,CENTRAL,Stone/Bricks,941789.978290
-House Wall Material,CENTRAL,Timber,709313.694320
-House Wall Material,COAST,Iron sheet,52382.627640
-House Wall Material,COAST,Mud,1009595.490360
-House Wall Material,COAST,Polythene,1322.896690
-House Wall Material,COAST,Stone/Bricks,916460.740520
-House Wall Material,COAST,Timber,10975.397430
-House Wall Material,EASTERN,Iron sheet,90882.146180
-House Wall Material,EASTERN,Mud,627745.119320
-House Wall Material,EASTERN,Polythene,19610.012940
-House Wall Material,EASTERN,Stone/Bricks,1583168.228030
-House Wall Material,EASTERN,Timber,682671.337380
-House Wall Material,NAIROBI,Iron sheet,413906.749200
-House Wall Material,NAIROBI,Mud,141563.628100
-House Wall Material,NAIROBI,Polythene,0.0
-House Wall Material,NAIROBI,Stone/Bricks,1253157.111100
-House Wall Material,NAIROBI,Timber,10037.716100
-House Wall Material,NORTH EASTERN,Iron sheet,38205.433060
-House Wall Material,NORTH EASTERN,Mud,709879.994700
-House Wall Material,NORTH EASTERN,Polythene,48204.599620
-House Wall Material,NORTH EASTERN,Stone/Bricks,83597.148180
-House Wall Material,NORTH EASTERN,Timber,32771.501210
-House Wall Material,NYANZA,Iron sheet,127821.448420
-House Wall Material,NYANZA,Mud,2445062.407160
-House Wall Material,NYANZA,Polythene,1303.273540
-House Wall Material,NYANZA,Stone/Bricks,630896.768450
-House Wall Material,NYANZA,Timber,9397.494540
-House Wall Material,RIFT VALLEY,Iron sheet,323831.098320
-House Wall Material,RIFT VALLEY,Mud,3395920.557310
-House Wall Material,RIFT VALLEY,Polythene,46756.522450
-House Wall Material,RIFT VALLEY,Stone/Bricks,1189860.393310
-House Wall Material,RIFT VALLEY,Timber,740992.113540
-House Wall Material,WESTERN,Iron sheet,81731.827880
-House Wall Material,WESTERN,Mud,2236953.709820
-House Wall Material,WESTERN,Polythene,4004.814440
-House Wall Material,WESTERN,Stone/Bricks,377405.539200
-House Wall Material,WESTERN,Timber,7181.001470
-Household Education Level,CENTRAL,None,124568.901290
-Household Education Level,CENTRAL,Post secondary,281955.094190
-Household Education Level,CENTRAL,Some primary,1216073.558560
-Household Education Level,CENTRAL,Some secondary,733034.861390
-Household Education Level,COAST,None,538960.887070
-Household Education Level,COAST,Post secondary,119693.715580
-Household Education Level,COAST,Some primary,913317.279690
-Household Education Level,COAST,Some secondary,345183.172250
-Household Education Level,EASTERN,None,483307.272800
-Household Education Level,EASTERN,Post secondary,162008.800140
-Household Education Level,EASTERN,Some primary,1755980.928180
-Household Education Level,EASTERN,Some secondary,520630.178140
-Household Education Level,NAIROBI,None,97282.511800
-Household Education Level,NAIROBI,Post secondary,459420.477400
-Household Education Level,NAIROBI,Some primary,530491.639000
-Household Education Level,NAIROBI,Some secondary,706969.239000
-Household Education Level,NORTH EASTERN,None,821314.069370
-Household Education Level,NORTH EASTERN,Post secondary,6612.845560
-Household Education Level,NORTH EASTERN,Some primary,30875.035260
-Household Education Level,NORTH EASTERN,Some secondary,8576.148800
-Household Education Level,NYANZA,None,250457.965550
-Household Education Level,NYANZA,Post secondary,186270.708940
-Household Education Level,NYANZA,Some primary,1960831.544240
-Household Education Level,NYANZA,Some secondary,729591.486830
-Household Education Level,RIFT VALLEY,None,1252788.838990
-Household Education Level,RIFT VALLEY,Post secondary,493268.642170
-Household Education Level,RIFT VALLEY,Some primary,2588718.942260
-Household Education Level,RIFT VALLEY,Some secondary,1228991.977770
-Household Education Level,WESTERN,None,225411.318050
-Household Education Level,WESTERN,Post secondary,157151.863870
-Household Education Level,WESTERN,Some primary,1581606.068560
-Household Education Level,WESTERN,Some secondary,663755.930660
-Meals Per Day,CENTRAL,1,28320.907890
-Meals Per Day,CENTRAL,2,260749.381940
-Meals Per Day,CENTRAL,3,2048120.978780
-Meals Per Day,COAST,1,44013.997520
-Meals Per Day,COAST,2,341949.163240
-Meals Per Day,COAST,3,1560729.893070
-Meals Per Day,EASTERN,1,80276.819220
-Meals Per Day,EASTERN,2,425071.777990
-Meals Per Day,EASTERN,3,2429568.214460
-Meals Per Day,NAIROBI,1,43825.876300
-Meals Per Day,NAIROBI,2,325128.192500
-Meals Per Day,NAIROBI,3,1400527.570300
-Meals Per Day,NORTH EASTERN,1,13883.432720
-Meals Per Day,NORTH EASTERN,2,244462.872040
-Meals Per Day,NORTH EASTERN,3,599950.150320
-Meals Per Day,NYANZA,1,50656.954970
-Meals Per Day,NYANZA,2,432676.323290
-Meals Per Day,NYANZA,3,2645753.954530
-Meals Per Day,RIFT VALLEY,1,209823.585400
-Meals Per Day,RIFT VALLEY,2,651003.628040
-Meals Per Day,RIFT VALLEY,3,4627484.704600
-Meals Per Day,WESTERN,1,45434.609740
-Meals Per Day,WESTERN,2,443676.524970
-Meals Per Day,WESTERN,3,2144367.245850
-Number of Children in Household,CENTRAL,0-2 people,1324196.085220
-Number of Children in Household,CENTRAL,3-4 people,935137.519880
-Number of Children in Household,CENTRAL,5+ people,163272.174770
-Number of Children in Household,COAST,0-2 people,600776.978360
-Number of Children in Household,COAST,3-4 people,804187.179400
-Number of Children in Household,COAST,5+ people,604551.016100
-Number of Children in Household,EASTERN,0-2 people,1195589.467930
-Number of Children in Household,EASTERN,3-4 people,1240016.825860
-Number of Children in Household,EASTERN,5+ people,594221.600730
-Number of Children in Household,NAIROBI,0-2 people,980991.511800
-Number of Children in Household,NAIROBI,3-4 people,665693.246500
-Number of Children in Household,NAIROBI,5+ people,189799.058900
-Number of Children in Household,NORTH EASTERN,0-2 people,130726.947400
-Number of Children in Household,NORTH EASTERN,3-4 people,384515.010620
-Number of Children in Household,NORTH EASTERN,5+ people,425537.910380
-Number of Children in Household,NYANZA,0-2 people,922877.376300
-Number of Children in Household,NYANZA,3-4 people,1510701.503960
-Number of Children in Household,NYANZA,5+ people,808113.777430
-Number of Children in Household,RIFT VALLEY,0-2 people,1678694.167200
-Number of Children in Household,RIFT VALLEY,3-4 people,2532675.128690
-Number of Children in Household,RIFT VALLEY,5+ people,1557765.842590
-Number of Children in Household,WESTERN,0-2 people,609437.442290
-Number of Children in Household,WESTERN,3-4 people,1193515.684610
-Number of Children in Household,WESTERN,5+ people,922079.745340
-Number of Females in Household,CENTRAL,0-2 people,1319659.645380
-Number of Females in Household,CENTRAL,3-4 people,910610.052430
-Number of Females in Household,CENTRAL,5+ people,160192.830300
-Number of Females in Household,COAST,0-2 people,652194.314440
-Number of Females in Household,COAST,3-4 people,824076.223370
-Number of Females in Household,COAST,5+ people,500737.494120
-Number of Females in Household,EASTERN,0-2 people,1232353.923210
-Number of Females in Household,EASTERN,3-4 people,1288224.958360
-Number of Females in Household,EASTERN,5+ people,463637.528920
-Number of Females in Household,NAIROBI,0-2 people,885894.297600
-Number of Females in Household,NAIROBI,3-4 people,715685.991400
-Number of Females in Household,NAIROBI,5+ people,204823.238900
-Number of Females in Household,NORTH EASTERN,0-2 people,330776.509660
-Number of Females in Household,NORTH EASTERN,3-4 people,413037.207310
-Number of Females in Household,NORTH EASTERN,5+ people,163619.282680
-Number of Females in Household,NYANZA,0-2 people,1212223.349680
-Number of Females in Household,NYANZA,3-4 people,1461244.740340
-Number of Females in Household,NYANZA,5+ people,515821.938770
-Number of Females in Household,RIFT VALLEY,0-2 people,2112973.562310
-Number of Females in Household,RIFT VALLEY,3-4 people,2581748.471360
-Number of Females in Household,RIFT VALLEY,5+ people,972074.203740
-Number of Females in Household,WESTERN,0-2 people,817715.689900
-Number of Females in Household,WESTERN,3-4 people,1225265.295760
-Number of Females in Household,WESTERN,5+ people,627938.383430
-Number of Males in Household,CENTRAL,0-2 people,1362954.665070
-Number of Males in Household,CENTRAL,3-4 people,813180.082440
-Number of Males in Household,CENTRAL,5+ people,118412.632700
-Number of Males in Household,COAST,0-2 people,728743.933510
-Number of Males in Household,COAST,3-4 people,813179.961760
-Number of Males in Household,COAST,5+ people,406459.953350
-Number of Males in Household,EASTERN,0-2 people,1372984.912440
-Number of Males in Household,EASTERN,3-4 people,1179505.110010
-Number of Males in Household,EASTERN,5+ people,353559.733390
-Number of Males in Household,NAIROBI,0-2 people,1108839.017900
-Number of Males in Household,NAIROBI,3-4 people,535141.797200
-Number of Males in Household,NAIROBI,5+ people,109688.434200
-Number of Males in Household,NORTH EASTERN,0-2 people,261209.771040
-Number of Males in Household,NORTH EASTERN,3-4 people,431910.941450
-Number of Males in Household,NORTH EASTERN,5+ people,218055.858940
-Number of Males in Household,NYANZA,0-2 people,1290243.059110
-Number of Males in Household,NYANZA,3-4 people,1405976.241430
-Number of Males in Household,NYANZA,5+ people,435924.692610
-Number of Males in Household,RIFT VALLEY,0-2 people,2235491.901830
-Number of Males in Household,RIFT VALLEY,3-4 people,2439169.115500
-Number of Males in Household,RIFT VALLEY,5+ people,900476.788320
-Number of Males in Household,WESTERN,0-2 people,923082.627630
-Number of Males in Household,WESTERN,3-4 people,1191276.892680
-Number of Males in Household,WESTERN,5+ people,528777.070780
-Type of Lighting,CENTRAL,Electricity,1169503.061880
-Type of Lighting,CENTRAL,Gas,3112.762090
-Type of Lighting,CENTRAL,Other,51321.370930
-Type of Lighting,CENTRAL,Paraffin,960752.439560
-Type of Lighting,CENTRAL,Solar,237916.145410
-Type of Lighting,COAST,Electricity,606355.928830
-Type of Lighting,COAST,Gas,909.003160
-Type of Lighting,COAST,Other,66067.071020
-Type of Lighting,COAST,Paraffin,1179150.376540
-Type of Lighting,COAST,Solar,157032.794310
-Type of Lighting,EASTERN,Electricity,390231.705020
-Type of Lighting,EASTERN,Gas,10680.572770
-Type of Lighting,EASTERN,Other,222789.123930
-Type of Lighting,EASTERN,Paraffin,1954758.350040
-Type of Lighting,EASTERN,Solar,451368.142760
-Type of Lighting,NAIROBI,Electricity,1651230.772100
-Type of Lighting,NAIROBI,Gas,0.0
-Type of Lighting,NAIROBI,Other,52413.488900
-Type of Lighting,NAIROBI,Paraffin,113893.221500
-Type of Lighting,NAIROBI,Solar,18946.334700
-Type of Lighting,NORTH EASTERN,Electricity,54659.294780
-Type of Lighting,NORTH EASTERN,Gas,88437.998230
-Type of Lighting,NORTH EASTERN,Other,405281.390920
-Type of Lighting,NORTH EASTERN,Paraffin,296300.150410
-Type of Lighting,NORTH EASTERN,Solar,96101.034060
-Type of Lighting,NYANZA,Electricity,429637.977260
-Type of Lighting,NYANZA,Gas,5828.836380
-Type of Lighting,NYANZA,Other,58419.725300
-Type of Lighting,NYANZA,Paraffin,2160136.998470
-Type of Lighting,NYANZA,Solar,587669.120280
-Type of Lighting,RIFT VALLEY,Electricity,1235404.772460
-Type of Lighting,RIFT VALLEY,Gas,7068.971190
-Type of Lighting,RIFT VALLEY,Other,750749.744690
-Type of Lighting,RIFT VALLEY,Paraffin,2365398.266650
-Type of Lighting,RIFT VALLEY,Solar,1410513.383490
-Type of Lighting,WESTERN,Electricity,257964.806440
-Type of Lighting,WESTERN,Gas,3892.000930
-Type of Lighting,WESTERN,Other,56291.103400
-Type of Lighting,WESTERN,Paraffin,1913300.671260
-Type of Lighting,WESTERN,Solar,493584.290210
+Ability in English,Baringo,Competent,99687.181910
+Ability in English,Baringo,Not Competent,111111.204790
+Ability in English,Bomet,Competent,168968.060090
+Ability in English,Bomet,Not Competent,161344.390820
+Ability in English,Bungoma,Competent,254982.171390
+Ability in English,Bungoma,Not Competent,331297.365520
+Ability in English,Busia,Competent,154012.756030
+Ability in English,Busia,Not Competent,159235.890410
+Ability in English,Embu,Competent,102034.218120
+Ability in English,Embu,Not Competent,69248.577990
+Ability in English,Garissa,Competent,33224.926830
+Ability in English,Garissa,Not Competent,55719.305430
+Ability in English,Homa bay,Competent,219483.035010
+Ability in English,Homa bay,Not Competent,179917.749930
+Ability in English,Isiolo,Competent,24137.470220
+Ability in English,Isiolo,Not Competent,28938.344340
+Ability in English,Kajiado,Competent,134847.138520
+Ability in English,Kajiado,Not Competent,106020.836360
+Ability in English,Kakamega,Competent,338678.902920
+Ability in English,Kakamega,Not Competent,339193.846460
+Ability in English,Keiyo-Marakwet,Competent,79855.832140
+Ability in English,Keiyo-Marakwet,Not Competent,63853.415930
+Ability in English,Kericho,Competent,134117.206060
+Ability in English,Kericho,Not Competent,102815.606260
+Ability in English,Kiambu,Competent,409276.655830
+Ability in English,Kiambu,Not Competent,210372.275010
+Ability in English,Kilifi,Competent,185327.880050
+Ability in English,Kilifi,Not Competent,209666.535910
+Ability in English,Kirinyaga,Competent,121599.625700
+Ability in English,Kirinyaga,Not Competent,57845.048900
+Ability in English,Kisii,Competent,264262.835570
+Ability in English,Kisii,Not Competent,213769.601700
+Ability in English,Kisumu,Competent,233170.338770
+Ability in English,Kisumu,Not Competent,187797.288950
+Ability in English,Kitui,Competent,210267.303320
+Ability in English,Kitui,Not Competent,204394.150590
+Ability in English,Kwale,Competent,95914.649310
+Ability in English,Kwale,Not Competent,155429.646190
+Ability in English,Laikipia,Competent,95074.272080
+Ability in English,Laikipia,Not Competent,58701.197160
+Ability in English,Lamu,Competent,18930.093730
+Ability in English,Lamu,Not Competent,16277.082370
+Ability in English,Machakos,Competent,230577.747400
+Ability in English,Machakos,Not Competent,159272.154580
+Ability in English,Makueni,Competent,189257.995110
+Ability in English,Makueni,Not Competent,141220.239350
+Ability in English,Mandera,Competent,84980.883940
+Ability in English,Mandera,Not Competent,141562.677810
+Ability in English,Marsabit,Competent,28339.379060
+Ability in English,Marsabit,Not Competent,53319.693990
+Ability in English,Meru,Competent,256623.494670
+Ability in English,Meru,Not Competent,226150.497430
+Ability in English,Migori,Competent,177284.485770
+Ability in English,Migori,Not Competent,191596.462950
+Ability in English,Mombasa,Competent,236391.636500
+Ability in English,Mombasa,Not Competent,153203.599300
+Ability in English,Muranga,Competent,209352.709720
+Ability in English,Muranga,Not Competent,124000.605170
+Ability in English,Nairobi,Competent,779167.936800
+Ability in English,Nairobi,Not Competent,326258.599500
+Ability in English,Nakuru,Competent,385503.890410
+Ability in English,Nakuru,Not Competent,260546.369200
+Ability in English,Nandi,Competent,156831.551850
+Ability in English,Nandi,Not Competent,115237.312180
+Ability in English,Narok,Competent,128852.838500
+Ability in English,Narok,Not Competent,176619.642580
+Ability in English,Nyamira,Competent,91327.587100
+Ability in English,Nyamira,Not Competent,75067.072310
+Ability in English,Nyandarua,Competent,157243.215300
+Ability in English,Nyandarua,Not Competent,81387.699200
+Ability in English,Nyeri,Competent,176443.145000
+Ability in English,Nyeri,Not Competent,82826.737500
+Ability in English,Samburu,Competent,19249.209600
+Ability in English,Samburu,Not Competent,45362.684220
+Ability in English,Siaya,Competent,168293.602470
+Ability in English,Siaya,Not Competent,187547.631090
+Ability in English,Taita Taveta,Competent,60420.146790
+Ability in English,Taita Taveta,Not Competent,44772.038440
+Ability in English,Tana River,Competent,35568.932210
+Ability in English,Tana River,Not Competent,54541.179870
+Ability in English,Tharaka-Nithi,Competent,69944.222280
+Ability in English,Tharaka-Nithi,Not Competent,53546.961750
+Ability in English,Trans Nzoia,Competent,177834.718600
+Ability in English,Trans Nzoia,Not Competent,154700.597430
+Ability in English,Turkana,Competent,71014.035810
+Ability in English,Turkana,Not Competent,129028.049850
+Ability in English,Uasin Gishu,Competent,170476.936030
+Ability in English,Uasin Gishu,Not Competent,129477.117430
+Ability in English,Vihiga,Competent,127195.594330
+Ability in English,Vihiga,Not Competent,120930.149530
+Ability in English,Wajir,Competent,82205.457620
+Ability in English,Wajir,Not Competent,108317.387230
+Ability in English,West Pokot,Competent,61635.076680
+Ability in English,West Pokot,Not Competent,115522.941590
+Ability in Mathematics,Baringo,Competent,108852.539880
+Ability in Mathematics,Baringo,Not Competent,100658.766030
+Ability in Mathematics,Bomet,Competent,192001.393980
+Ability in Mathematics,Bomet,Not Competent,133415.501510
+Ability in Mathematics,Bungoma,Competent,279160.575590
+Ability in Mathematics,Bungoma,Not Competent,297681.918510
+Ability in Mathematics,Busia,Competent,158306.695320
+Ability in Mathematics,Busia,Not Competent,150237.059910
+Ability in Mathematics,Embu,Competent,113230.261090
+Ability in Mathematics,Embu,Not Competent,54982.081330
+Ability in Mathematics,Garissa,Competent,30289.537200
+Ability in Mathematics,Garissa,Not Competent,52649.685970
+Ability in Mathematics,Homa bay,Competent,232855.330270
+Ability in Mathematics,Homa bay,Not Competent,163482.874560
+Ability in Mathematics,Isiolo,Competent,21699.900600
+Ability in Mathematics,Isiolo,Not Competent,29635.007210
+Ability in Mathematics,Kajiado,Competent,124263.969730
+Ability in Mathematics,Kajiado,Not Competent,113191.137190
+Ability in Mathematics,Kakamega,Competent,351256.062710
+Ability in Mathematics,Kakamega,Not Competent,321448.528990
+Ability in Mathematics,Keiyo-Marakwet,Competent,85456.564390
+Ability in Mathematics,Keiyo-Marakwet,Not Competent,56393.291860
+Ability in Mathematics,Kericho,Competent,141986.751380
+Ability in Mathematics,Kericho,Not Competent,94718.653840
+Ability in Mathematics,Kiambu,Competent,383731.613100
+Ability in Mathematics,Kiambu,Not Competent,228073.403360
+Ability in Mathematics,Kilifi,Competent,201522.332250
+Ability in Mathematics,Kilifi,Not Competent,188282.176020
+Ability in Mathematics,Kirinyaga,Competent,117063.120600
+Ability in Mathematics,Kirinyaga,Not Competent,58314.679000
+Ability in Mathematics,Kisii,Competent,275170.664600
+Ability in Mathematics,Kisii,Not Competent,201070.142160
+Ability in Mathematics,Kisumu,Competent,226524.897560
+Ability in Mathematics,Kisumu,Not Competent,189943.526890
+Ability in Mathematics,Kitui,Competent,243953.600990
+Ability in Mathematics,Kitui,Not Competent,167319.456760
+Ability in Mathematics,Kwale,Competent,112222.550750
+Ability in Mathematics,Kwale,Not Competent,134986.270510
+Ability in Mathematics,Laikipia,Competent,94424.127090
+Ability in Mathematics,Laikipia,Not Competent,57475.184780
+Ability in Mathematics,Lamu,Competent,19629.398950
+Ability in Mathematics,Lamu,Not Competent,15036.859750
+Ability in Mathematics,Machakos,Competent,230993.166410
+Ability in Mathematics,Machakos,Not Competent,154945.380490
+Ability in Mathematics,Makueni,Competent,202939.437320
+Ability in Mathematics,Makueni,Not Competent,125265.368250
+Ability in Mathematics,Mandera,Competent,77687.365830
+Ability in Mathematics,Mandera,Not Competent,143522.801100
+Ability in Mathematics,Marsabit,Competent,29212.248390
+Ability in Mathematics,Marsabit,Not Competent,51047.724240
+Ability in Mathematics,Meru,Competent,269814.917270
+Ability in Mathematics,Meru,Not Competent,201998.808970
+Ability in Mathematics,Migori,Competent,190727.348600
+Ability in Mathematics,Migori,Not Competent,174297.320770
+Ability in Mathematics,Mombasa,Competent,235753.851500
+Ability in Mathematics,Mombasa,Not Competent,150304.703700
+Ability in Mathematics,Muranga,Competent,218076.117430
+Ability in Mathematics,Muranga,Not Competent,114454.675330
+Ability in Mathematics,Nairobi,Competent,688237.935400
+Ability in Mathematics,Nairobi,Not Competent,385451.406500
+Ability in Mathematics,Nakuru,Competent,393902.287800
+Ability in Mathematics,Nakuru,Not Competent,240165.372540
+Ability in Mathematics,Nandi,Competent,162030.578860
+Ability in Mathematics,Nandi,Not Competent,105679.025220
+Ability in Mathematics,Narok,Competent,134164.050710
+Ability in Mathematics,Narok,Not Competent,165919.806060
+Ability in Mathematics,Nyamira,Competent,99257.650670
+Ability in Mathematics,Nyamira,Not Competent,66085.461080
+Ability in Mathematics,Nyandarua,Competent,160771.425200
+Ability in Mathematics,Nyandarua,Not Competent,77003.445300
+Ability in Mathematics,Nyeri,Competent,177589.548000
+Ability in Mathematics,Nyeri,Not Competent,80355.257900
+Ability in Mathematics,Samburu,Competent,21422.349930
+Ability in Mathematics,Samburu,Not Competent,41552.042860
+Ability in Mathematics,Siaya,Competent,182415.223200
+Ability in Mathematics,Siaya,Not Competent,167016.240590
+Ability in Mathematics,Taita Taveta,Competent,62621.341470
+Ability in Mathematics,Taita Taveta,Not Competent,42306.541800
+Ability in Mathematics,Tana River,Competent,31681.301600
+Ability in Mathematics,Tana River,Not Competent,56001.330420
+Ability in Mathematics,Tharaka-Nithi,Competent,77336.650060
+Ability in Mathematics,Tharaka-Nithi,Not Competent,43721.788960
+Ability in Mathematics,Trans Nzoia,Competent,185516.410950
+Ability in Mathematics,Trans Nzoia,Not Competent,141489.471390
+Ability in Mathematics,Turkana,Competent,60820.196700
+Ability in Mathematics,Turkana,Not Competent,127259.699290
+Ability in Mathematics,Uasin Gishu,Competent,172182.041320
+Ability in Mathematics,Uasin Gishu,Not Competent,117195.544270
+Ability in Mathematics,Vihiga,Competent,129403.161620
+Ability in Mathematics,Vihiga,Not Competent,115465.083100
+Ability in Mathematics,Wajir,Competent,80857.951510
+Ability in Mathematics,Wajir,Not Competent,103677.639700
+Ability in Mathematics,West Pokot,Competent,59903.693400
+Ability in Mathematics,West Pokot,Not Competent,117246.780740
+Ability in Swahili,Baringo,Competent,104903.418450
+Ability in Swahili,Baringo,Not Competent,102818.768070
+Ability in Swahili,Bomet,Competent,181847.239150
+Ability in Swahili,Bomet,Not Competent,142729.889500
+Ability in Swahili,Bungoma,Competent,285833.986520
+Ability in Swahili,Bungoma,Not Competent,286106.066430
+Ability in Swahili,Busia,Competent,167870.384050
+Ability in Swahili,Busia,Not Competent,139980.400540
+Ability in Swahili,Embu,Competent,109017.522200
+Ability in Swahili,Embu,Not Competent,59822.959930
+Ability in Swahili,Garissa,Competent,32291.070250
+Ability in Swahili,Garissa,Not Competent,53114.837320
+Ability in Swahili,Homa bay,Competent,220303.694180
+Ability in Swahili,Homa bay,Not Competent,172259.616660
+Ability in Swahili,Isiolo,Competent,25504.773760
+Ability in Swahili,Isiolo,Not Competent,25104.456290
+Ability in Swahili,Kajiado,Competent,138045.142440
+Ability in Swahili,Kajiado,Not Competent,96642.420620
+Ability in Swahili,Kakamega,Competent,368960.961440
+Ability in Swahili,Kakamega,Not Competent,301940.339200
+Ability in Swahili,Keiyo-Marakwet,Competent,86508.894840
+Ability in Swahili,Keiyo-Marakwet,Not Competent,54018.387040
+Ability in Swahili,Kericho,Competent,144128.168010
+Ability in Swahili,Kericho,Not Competent,92675.762050
+Ability in Swahili,Kiambu,Competent,412534.058670
+Ability in Swahili,Kiambu,Not Competent,200191.996940
+Ability in Swahili,Kilifi,Competent,217185.351520
+Ability in Swahili,Kilifi,Not Competent,171281.524740
+Ability in Swahili,Kirinyaga,Competent,127014.396900
+Ability in Swahili,Kirinyaga,Not Competent,49853.521500
+Ability in Swahili,Kisii,Competent,279153.968350
+Ability in Swahili,Kisii,Not Competent,190616.625780
+Ability in Swahili,Kisumu,Competent,235167.362630
+Ability in Swahili,Kisumu,Not Competent,177474.774520
+Ability in Swahili,Kitui,Competent,227937.923790
+Ability in Swahili,Kitui,Not Competent,183646.331570
+Ability in Swahili,Kwale,Competent,115211.181470
+Ability in Swahili,Kwale,Not Competent,131692.673050
+Ability in Swahili,Laikipia,Competent,98788.335980
+Ability in Swahili,Laikipia,Not Competent,52557.941120
+Ability in Swahili,Lamu,Competent,21053.083520
+Ability in Swahili,Lamu,Not Competent,13715.559880
+Ability in Swahili,Machakos,Competent,238934.773110
+Ability in Swahili,Machakos,Not Competent,146489.018390
+Ability in Swahili,Makueni,Competent,202373.782530
+Ability in Swahili,Makueni,Not Competent,126247.440530
+Ability in Swahili,Mandera,Competent,83705.386740
+Ability in Swahili,Mandera,Not Competent,135821.705680
+Ability in Swahili,Marsabit,Competent,29389.719560
+Ability in Swahili,Marsabit,Not Competent,50578.701510
+Ability in Swahili,Meru,Competent,276217.175210
+Ability in Swahili,Meru,Not Competent,193788.941120
+Ability in Swahili,Migori,Competent,184748.025580
+Ability in Swahili,Migori,Not Competent,177039.190130
+Ability in Swahili,Mombasa,Competent,252219.644000
+Ability in Swahili,Mombasa,Not Competent,133227.875800
+Ability in Swahili,Muranga,Competent,219056.912070
+Ability in Swahili,Muranga,Not Competent,113289.228690
+Ability in Swahili,Nairobi,Competent,767772.100200
+Ability in Swahili,Nairobi,Not Competent,307295.447300
+Ability in Swahili,Nakuru,Competent,403770.309170
+Ability in Swahili,Nakuru,Not Competent,230722.213090
+Ability in Swahili,Nandi,Competent,167099.792980
+Ability in Swahili,Nandi,Not Competent,100307.792060
+Ability in Swahili,Narok,Competent,139916.121120
+Ability in Swahili,Narok,Not Competent,161580.028590
+Ability in Swahili,Nyamira,Competent,97606.502220
+Ability in Swahili,Nyamira,Not Competent,67381.136590
+Ability in Swahili,Nyandarua,Competent,169263.324500
+Ability in Swahili,Nyandarua,Not Competent,68602.744500
+Ability in Swahili,Nyeri,Competent,177631.362700
+Ability in Swahili,Nyeri,Not Competent,81282.160600
+Ability in Swahili,Samburu,Competent,21529.905360
+Ability in Swahili,Samburu,Not Competent,40674.279960
+Ability in Swahili,Siaya,Competent,180290.527120
+Ability in Swahili,Siaya,Not Competent,166876.780320
+Ability in Swahili,Taita Taveta,Competent,67456.058650
+Ability in Swahili,Taita Taveta,Not Competent,37392.505740
+Ability in Swahili,Tana River,Competent,40770.783790
+Ability in Swahili,Tana River,Not Competent,47008.563480
+Ability in Swahili,Tharaka-Nithi,Competent,75257.894940
+Ability in Swahili,Tharaka-Nithi,Not Competent,45936.809860
+Ability in Swahili,Trans Nzoia,Competent,194755.818550
+Ability in Swahili,Trans Nzoia,Not Competent,129641.352340
+Ability in Swahili,Turkana,Competent,71499.485960
+Ability in Swahili,Turkana,Not Competent,118168.595950
+Ability in Swahili,Uasin Gishu,Competent,175901.141710
+Ability in Swahili,Uasin Gishu,Not Competent,110188.232750
+Ability in Swahili,Vihiga,Competent,138280.587120
+Ability in Swahili,Vihiga,Not Competent,105448.397460
+Ability in Swahili,Wajir,Competent,82442.426900
+Ability in Swahili,Wajir,Not Competent,101527.142090
+Ability in Swahili,West Pokot,Competent,67165.221460
+Ability in Swahili,West Pokot,Not Competent,108895.516890
+House Wall Material,Baringo,Iron sheet,36270.299320
+House Wall Material,Baringo,Mud,183517.136990
+House Wall Material,Baringo,Polythene,155.141900
+House Wall Material,Baringo,Stone/Bricks,28048.906920
+House Wall Material,Baringo,Timber,77677.855240
+House Wall Material,Bomet,Iron sheet,11526.494600
+House Wall Material,Bomet,Mud,303358.748080
+House Wall Material,Bomet,Polythene,0.0
+House Wall Material,Bomet,Stone/Bricks,63448.053650
+House Wall Material,Bomet,Timber,97489.028840
+House Wall Material,Bungoma,Iron sheet,22889.928360
+House Wall Material,Bungoma,Mud,741998.985690
+House Wall Material,Bungoma,Polythene,1839.988750
+House Wall Material,Bungoma,Stone/Bricks,109057.625060
+House Wall Material,Bungoma,Timber,2630.457890
+House Wall Material,Busia,Iron sheet,21097.803440
+House Wall Material,Busia,Mud,370725.436000
+House Wall Material,Busia,Polythene,840.731370
+House Wall Material,Busia,Stone/Bricks,74897.796410
+House Wall Material,Busia,Timber,1307.587300
+House Wall Material,Embu,Iron sheet,4326.602890
+House Wall Material,Embu,Mud,81089.832320
+House Wall Material,Embu,Polythene,672.070500
+House Wall Material,Embu,Stone/Bricks,105113.321090
+House Wall Material,Embu,Timber,62258.308000
+House Wall Material,Garissa,Iron sheet,11178.821070
+House Wall Material,Garissa,Mud,123507.625460
+House Wall Material,Garissa,Polythene,9959.702380
+House Wall Material,Garissa,Stone/Bricks,11766.122410
+House Wall Material,Garissa,Timber,16911.718700
+House Wall Material,Homa bay,Iron sheet,22599.321650
+House Wall Material,Homa bay,Mud,459522.639160
+House Wall Material,Homa bay,Polythene,934.911900
+House Wall Material,Homa bay,Stone/Bricks,98951.577970
+House Wall Material,Homa bay,Timber,0.0
+House Wall Material,Isiolo,Iron sheet,2805.987810
+House Wall Material,Isiolo,Mud,46365.532220
+House Wall Material,Isiolo,Polythene,3843.316460
+House Wall Material,Isiolo,Stone/Bricks,10721.241630
+House Wall Material,Isiolo,Timber,19864.549520
+House Wall Material,Kajiado,Iron sheet,101901.838000
+House Wall Material,Kajiado,Mud,144739.881490
+House Wall Material,Kajiado,Polythene,2483.812980
+House Wall Material,Kajiado,Stone/Bricks,126253.998040
+House Wall Material,Kajiado,Timber,22533.370000
+House Wall Material,Kakamega,Iron sheet,31773.414820
+House Wall Material,Kakamega,Mud,839162.746650
+House Wall Material,Kakamega,Polythene,852.723440
+House Wall Material,Kakamega,Stone/Bricks,137463.480180
+House Wall Material,Kakamega,Timber,2304.169800
+House Wall Material,Keiyo-Marakwet,Iron sheet,18143.201610
+House Wall Material,Keiyo-Marakwet,Mud,109705.187120
+House Wall Material,Keiyo-Marakwet,Polythene,0.0
+House Wall Material,Keiyo-Marakwet,Stone/Bricks,45740.685590
+House Wall Material,Keiyo-Marakwet,Timber,51774.744530
+House Wall Material,Kericho,Iron sheet,20509.944600
+House Wall Material,Kericho,Mud,182840.255390
+House Wall Material,Kericho,Polythene,94.621090
+House Wall Material,Kericho,Stone/Bricks,73424.673420
+House Wall Material,Kericho,Timber,85242.927800
+House Wall Material,Kiambu,Iron sheet,286018.365290
+House Wall Material,Kiambu,Mud,30215.506920
+House Wall Material,Kiambu,Polythene,2985.824160
+House Wall Material,Kiambu,Stone/Bricks,491634.772020
+House Wall Material,Kiambu,Timber,116923.117890
+House Wall Material,Kilifi,Iron sheet,7653.532030
+House Wall Material,Kilifi,Mud,418108.089960
+House Wall Material,Kilifi,Polythene,358.032700
+House Wall Material,Kilifi,Stone/Bricks,198218.867820
+House Wall Material,Kilifi,Timber,4433.868770
+House Wall Material,Kirinyaga,Iron sheet,17129.534100
+House Wall Material,Kirinyaga,Mud,48432.313000
+House Wall Material,Kirinyaga,Polythene,0.0
+House Wall Material,Kirinyaga,Stone/Bricks,128337.003500
+House Wall Material,Kirinyaga,Timber,75553.953800
+House Wall Material,Kisii,Iron sheet,44889.328950
+House Wall Material,Kisii,Mud,526968.253850
+House Wall Material,Kisii,Polythene,0.0
+House Wall Material,Kisii,Stone/Bricks,114859.785040
+House Wall Material,Kisii,Timber,2051.718800
+House Wall Material,Kisumu,Iron sheet,27317.196240
+House Wall Material,Kisumu,Mud,435853.483810
+House Wall Material,Kisumu,Polythene,0.0
+House Wall Material,Kisumu,Stone/Bricks,131431.726590
+House Wall Material,Kisumu,Timber,1520.004750
+House Wall Material,Kitui,Iron sheet,8629.212860
+House Wall Material,Kitui,Mud,151836.311230
+House Wall Material,Kitui,Polythene,1628.140860
+House Wall Material,Kitui,Stone/Bricks,427030.332610
+House Wall Material,Kitui,Timber,0.0
+House Wall Material,Kwale,Iron sheet,21256.289040
+House Wall Material,Kwale,Mud,254247.557340
+House Wall Material,Kwale,Polythene,0.0
+House Wall Material,Kwale,Stone/Bricks,111285.862450
+House Wall Material,Kwale,Timber,210.434200
+House Wall Material,Laikipia,Iron sheet,10270.060890
+House Wall Material,Laikipia,Mud,75962.687600
+House Wall Material,Laikipia,Polythene,45.172560
+House Wall Material,Laikipia,Stone/Bricks,30631.652340
+House Wall Material,Laikipia,Timber,120202.229760
+House Wall Material,Lamu,Iron sheet,471.150840
+House Wall Material,Lamu,Mud,41662.536440
+House Wall Material,Lamu,Polythene,0.0
+House Wall Material,Lamu,Stone/Bricks,15153.213490
+House Wall Material,Lamu,Timber,0.0
+House Wall Material,Machakos,Iron sheet,41551.369550
+House Wall Material,Machakos,Mud,27574.656750
+House Wall Material,Machakos,Polythene,494.265700
+House Wall Material,Machakos,Stone/Bricks,505078.664000
+House Wall Material,Machakos,Timber,3720.993000
+House Wall Material,Makueni,Iron sheet,14614.270560
+House Wall Material,Makueni,Mud,53789.683020
+House Wall Material,Makueni,Polythene,444.303700
+House Wall Material,Makueni,Stone/Bricks,401159.462020
+House Wall Material,Makueni,Timber,624.730500
+House Wall Material,Mandera,Iron sheet,19078.645030
+House Wall Material,Mandera,Mud,346567.111060
+House Wall Material,Mandera,Polythene,28583.730230
+House Wall Material,Mandera,Stone/Bricks,36049.315600
+House Wall Material,Mandera,Timber,8054.177780
+House Wall Material,Marsabit,Iron sheet,10378.438450
+House Wall Material,Marsabit,Mud,103518.109050
+House Wall Material,Marsabit,Polythene,11644.889150
+House Wall Material,Marsabit,Stone/Bricks,9581.763050
+House Wall Material,Marsabit,Timber,1828.996770
+House Wall Material,Meru,Iron sheet,5536.487400
+House Wall Material,Meru,Mud,81237.179500
+House Wall Material,Meru,Polythene,420.125700
+House Wall Material,Meru,Stone/Bricks,99313.509150
+House Wall Material,Meru,Timber,523585.980100
+House Wall Material,Migori,Iron sheet,14275.916600
+House Wall Material,Migori,Mud,393290.204190
+House Wall Material,Migori,Polythene,0.0
+House Wall Material,Migori,Stone/Bricks,142771.542430
+House Wall Material,Migori,Timber,1890.306110
+House Wall Material,Mombasa,Iron sheet,10625.675100
+House Wall Material,Mombasa,Mud,100658.369600
+House Wall Material,Mombasa,Polythene,0.0
+House Wall Material,Mombasa,Stone/Bricks,485324.286700
+House Wall Material,Mombasa,Timber,5859.957300
+House Wall Material,Muranga,Iron sheet,131853.891590
+House Wall Material,Muranga,Mud,70887.570700
+House Wall Material,Muranga,Polythene,252.111000
+House Wall Material,Muranga,Stone/Bricks,187699.299270
+House Wall Material,Muranga,Timber,107137.101330
+House Wall Material,Nairobi,Iron sheet,413906.749200
+House Wall Material,Nairobi,Mud,141563.628100
+House Wall Material,Nairobi,Polythene,0.0
+House Wall Material,Nairobi,Stone/Bricks,1253157.111100
+House Wall Material,Nairobi,Timber,10037.716100
+House Wall Material,Nakuru,Iron sheet,43688.088500
+House Wall Material,Nakuru,Mud,378600.547650
+House Wall Material,Nakuru,Polythene,9195.156400
+House Wall Material,Nakuru,Stone/Bricks,380673.266970
+House Wall Material,Nakuru,Timber,168817.882370
+House Wall Material,Nandi,Iron sheet,7276.306840
+House Wall Material,Nandi,Mud,288004.062930
+House Wall Material,Nandi,Polythene,324.446800
+House Wall Material,Nandi,Stone/Bricks,94494.753290
+House Wall Material,Nandi,Timber,18928.508020
+House Wall Material,Narok,Iron sheet,22880.043840
+House Wall Material,Narok,Mud,381840.309030
+House Wall Material,Narok,Polythene,645.070860
+House Wall Material,Narok,Stone/Bricks,40708.029880
+House Wall Material,Narok,Timber,47824.528100
+House Wall Material,Nyamira,Iron sheet,11104.437240
+House Wall Material,Nyamira,Mud,185148.381890
+House Wall Material,Nyamira,Polythene,0.0
+House Wall Material,Nyamira,Stone/Bricks,44942.728970
+House Wall Material,Nyamira,Timber,1598.468860
+House Wall Material,Nyandarua,Iron sheet,20465.524100
+House Wall Material,Nyandarua,Mud,100369.732000
+House Wall Material,Nyandarua,Polythene,1083.652100
+House Wall Material,Nyandarua,Stone/Bricks,45561.980300
+House Wall Material,Nyandarua,Timber,160928.144000
+House Wall Material,Nyeri,Iron sheet,24318.691900
+House Wall Material,Nyeri,Mud,12925.640000
+House Wall Material,Nyeri,Polythene,0.0
+House Wall Material,Nyeri,Stone/Bricks,88556.923200
+House Wall Material,Nyeri,Timber,248771.377300
+House Wall Material,Samburu,Iron sheet,4516.189860
+House Wall Material,Samburu,Mud,79245.773320
+House Wall Material,Samburu,Polythene,1808.345280
+House Wall Material,Samburu,Stone/Bricks,13026.621090
+House Wall Material,Samburu,Timber,10901.572040
+House Wall Material,Siaya,Iron sheet,7635.247740
+House Wall Material,Siaya,Mud,444279.444260
+House Wall Material,Siaya,Polythene,368.361640
+House Wall Material,Siaya,Stone/Bricks,97939.407450
+House Wall Material,Siaya,Timber,2336.996020
+House Wall Material,Taita Taveta,Iron sheet,2949.748100
+House Wall Material,Taita Taveta,Mud,64692.509200
+House Wall Material,Taita Taveta,Polythene,0.0
+House Wall Material,Taita Taveta,Stone/Bricks,95807.568220
+House Wall Material,Taita Taveta,Timber,195.214560
+House Wall Material,Tana River,Iron sheet,9426.232530
+House Wall Material,Tana River,Mud,130226.427820
+House Wall Material,Tana River,Polythene,964.863990
+House Wall Material,Tana River,Stone/Bricks,10670.941840
+House Wall Material,Tana River,Timber,275.922600
+House Wall Material,Tharaka-Nithi,Iron sheet,3039.776660
+House Wall Material,Tharaka-Nithi,Mud,82333.815230
+House Wall Material,Tharaka-Nithi,Polythene,462.900870
+House Wall Material,Tharaka-Nithi,Stone/Bricks,25169.934480
+House Wall Material,Tharaka-Nithi,Timber,70787.779490
+House Wall Material,Trans Nzoia,Iron sheet,5000.717080
+House Wall Material,Trans Nzoia,Mud,387495.214120
+House Wall Material,Trans Nzoia,Polythene,684.390880
+House Wall Material,Trans Nzoia,Stone/Bricks,101628.617830
+House Wall Material,Trans Nzoia,Timber,2751.607770
+House Wall Material,Turkana,Iron sheet,10208.680960
+House Wall Material,Turkana,Mud,345938.274080
+House Wall Material,Turkana,Polythene,31320.363700
+House Wall Material,Turkana,Stone/Bricks,9597.026330
+House Wall Material,Turkana,Timber,4344.171290
+House Wall Material,Uasin Gishu,Iron sheet,20218.321900
+House Wall Material,Uasin Gishu,Mud,267202.818240
+House Wall Material,Uasin Gishu,Polythene,0.0
+House Wall Material,Uasin Gishu,Stone/Bricks,159796.437870
+House Wall Material,Uasin Gishu,Timber,27332.301240
+House Wall Material,Vihiga,Iron sheet,5970.681260
+House Wall Material,Vihiga,Mud,285066.541480
+House Wall Material,Vihiga,Polythene,471.370880
+House Wall Material,Vihiga,Stone/Bricks,55986.637550
+House Wall Material,Vihiga,Timber,938.786480
+House Wall Material,Wajir,Iron sheet,7947.966960
+House Wall Material,Wajir,Mud,239805.258180
+House Wall Material,Wajir,Polythene,9661.167010
+House Wall Material,Wajir,Stone/Bricks,35781.710170
+House Wall Material,Wajir,Timber,7805.604730
+House Wall Material,West Pokot,Iron sheet,11420.910320
+House Wall Material,West Pokot,Mud,267469.661270
+House Wall Material,West Pokot,Polythene,0.0
+House Wall Material,West Pokot,Stone/Bricks,22387.670090
+House Wall Material,West Pokot,Timber,5171.386540
+Household Education Level,Baringo,None,104658.567300
+Household Education Level,Baringo,Post secondary,34242.678560
+Household Education Level,Baringo,Some primary,124832.469180
+Household Education Level,Baringo,Some secondary,58062.886130
+Household Education Level,Bomet,None,27226.528720
+Household Education Level,Bomet,Post secondary,42629.308470
+Household Education Level,Bomet,Some primary,275251.247770
+Household Education Level,Bomet,Some secondary,127085.027040
+Household Education Level,Bungoma,None,43649.069360
+Household Education Level,Bungoma,Post secondary,57080.148720
+Household Education Level,Bungoma,Some primary,492062.036320
+Household Education Level,Bungoma,Some secondary,260612.829300
+Household Education Level,Busia,None,47654.190170
+Household Education Level,Busia,Post secondary,22587.572500
+Household Education Level,Busia,Some primary,290282.393820
+Household Education Level,Busia,Some secondary,89774.043860
+Household Education Level,Embu,None,45700.648360
+Household Education Level,Embu,Post secondary,14214.966560
+Household Education Level,Embu,Some primary,150412.917930
+Household Education Level,Embu,Some secondary,38392.506250
+Household Education Level,Garissa,None,156468.533410
+Household Education Level,Garissa,Post secondary,799.590090
+Household Education Level,Garissa,Some primary,3796.066830
+Household Education Level,Garissa,Some secondary,1903.359540
+Household Education Level,Homa bay,None,44502.428370
+Household Education Level,Homa bay,Post secondary,31127.748870
+Household Education Level,Homa bay,Some primary,387622.787570
+Household Education Level,Homa bay,Some secondary,102619.404550
+Household Education Level,Isiolo,None,46966.958220
+Household Education Level,Isiolo,Post secondary,3286.803000
+Household Education Level,Isiolo,Some primary,21111.898670
+Household Education Level,Isiolo,Some secondary,8831.068460
+Household Education Level,Kajiado,None,145193.054510
+Household Education Level,Kajiado,Post secondary,51594.141180
+Household Education Level,Kajiado,Some primary,104284.659250
+Household Education Level,Kajiado,Some secondary,83557.056910
+Household Education Level,Kakamega,None,99988.144860
+Household Education Level,Kakamega,Post secondary,61555.490960
+Household Education Level,Kakamega,Some primary,578804.379590
+Household Education Level,Kakamega,Some secondary,245571.676100
+Household Education Level,Keiyo-Marakwet,None,16230.450140
+Household Education Level,Keiyo-Marakwet,Post secondary,20729.656750
+Household Education Level,Keiyo-Marakwet,Some primary,133900.542680
+Household Education Level,Keiyo-Marakwet,Some secondary,51517.773500
+Household Education Level,Kericho,None,14091.881800
+Household Education Level,Kericho,Post secondary,33266.059380
+Household Education Level,Kericho,Some primary,223127.632050
+Household Education Level,Kericho,Some secondary,84703.547790
+Household Education Level,Kiambu,None,30528.661790
+Household Education Level,Kiambu,Post secondary,174120.884300
+Household Education Level,Kiambu,Some primary,344943.950900
+Household Education Level,Kiambu,Some secondary,353930.200920
+Household Education Level,Kilifi,None,205196.362830
+Household Education Level,Kilifi,Post secondary,30135.836950
+Household Education Level,Kilifi,Some primary,299255.875000
+Household Education Level,Kilifi,Some secondary,73962.090730
+Household Education Level,Kirinyaga,None,35899.165800
+Household Education Level,Kirinyaga,Post secondary,18072.588200
+Household Education Level,Kirinyaga,Some primary,144242.316300
+Household Education Level,Kirinyaga,Some secondary,63553.748100
+Household Education Level,Kisii,None,49652.238930
+Household Education Level,Kisii,Post secondary,47973.743350
+Household Education Level,Kisii,Some primary,357033.275530
+Household Education Level,Kisii,Some secondary,216398.157640
+Household Education Level,Kisumu,None,47278.461800
+Household Education Level,Kisumu,Post secondary,42230.773340
+Household Education Level,Kisumu,Some primary,349339.424740
+Household Education Level,Kisumu,Some secondary,145799.011530
+Household Education Level,Kitui,None,96928.838290
+Household Education Level,Kitui,Post secondary,20818.068930
+Household Education Level,Kitui,Some primary,387141.681850
+Household Education Level,Kitui,Some secondary,76534.176230
+Household Education Level,Kwale,None,146864.424660
+Household Education Level,Kwale,Post secondary,13383.121830
+Household Education Level,Kwale,Some primary,168859.057680
+Household Education Level,Kwale,Some secondary,43740.508370
+Household Education Level,Laikipia,None,50783.307470
+Household Education Level,Laikipia,Post secondary,14633.196680
+Household Education Level,Laikipia,Some primary,110373.286340
+Household Education Level,Laikipia,Some secondary,54293.731120
+Household Education Level,Lamu,None,20654.055360
+Household Education Level,Lamu,Post secondary,1590.356350
+Household Education Level,Lamu,Some primary,26821.846670
+Household Education Level,Lamu,Some secondary,6541.100620
+Household Education Level,Machakos,None,24759.304130
+Household Education Level,Machakos,Post secondary,51178.612420
+Household Education Level,Machakos,Some primary,332046.771730
+Household Education Level,Machakos,Some secondary,154451.396610
+Household Education Level,Makueni,None,28051.608860
+Household Education Level,Makueni,Post secondary,25035.611830
+Household Education Level,Makueni,Some primary,304602.012910
+Household Education Level,Makueni,Some secondary,103015.653750
+Household Education Level,Mandera,None,389919.509630
+Household Education Level,Mandera,Post secondary,4072.770170
+Household Education Level,Mandera,Some primary,15009.974390
+Household Education Level,Mandera,Some secondary,4687.520520
+Household Education Level,Marsabit,None,113268.035300
+Household Education Level,Marsabit,Post secondary,1627.404090
+Household Education Level,Marsabit,Some primary,9490.544990
+Household Education Level,Marsabit,Some secondary,3007.328490
+Household Education Level,Meru,None,111157.192550
+Household Education Level,Meru,Post secondary,36490.426900
+Household Education Level,Meru,Some primary,427324.947100
+Household Education Level,Meru,Some secondary,107637.350030
+Household Education Level,Migori,None,41652.702280
+Household Education Level,Migori,Post secondary,29933.528230
+Household Education Level,Migori,Some primary,374953.109820
+Household Education Level,Migori,Some secondary,83653.549820
+Household Education Level,Mombasa,None,78834.173900
+Household Education Level,Mombasa,Post secondary,58144.626600
+Household Education Level,Mombasa,Some primary,269660.651400
+Household Education Level,Mombasa,Some secondary,168563.636000
+Household Education Level,Muranga,None,21451.266800
+Household Education Level,Muranga,Post secondary,28357.155790
+Household Education Level,Muranga,Some primary,312144.331460
+Household Education Level,Muranga,Some secondary,133664.246470
+Household Education Level,Nairobi,None,97282.511800
+Household Education Level,Nairobi,Post secondary,459420.477400
+Household Education Level,Nairobi,Some primary,530491.639000
+Household Education Level,Nairobi,Some secondary,706969.239000
+Household Education Level,Nakuru,None,57065.207910
+Household Education Level,Nakuru,Post secondary,101044.491320
+Household Education Level,Nakuru,Some primary,508063.953810
+Household Education Level,Nakuru,Some secondary,303160.641820
+Household Education Level,Nandi,None,21552.478490
+Household Education Level,Nandi,Post secondary,38589.389850
+Household Education Level,Nandi,Some primary,245118.205800
+Household Education Level,Nandi,Some secondary,93272.708030
+Household Education Level,Narok,None,185939.700180
+Household Education Level,Narok,Post secondary,29742.410350
+Household Education Level,Narok,Some primary,194507.621280
+Household Education Level,Narok,Some secondary,64605.372760
+Household Education Level,Nyamira,None,13830.947620
+Household Education Level,Nyamira,Post secondary,18884.511320
+Household Education Level,Nyamira,Some primary,114511.653020
+Household Education Level,Nyamira,Some secondary,89477.201140
+Household Education Level,Nyandarua,None,13437.684100
+Household Education Level,Nyandarua,Post secondary,20936.054500
+Household Education Level,Nyandarua,Some primary,223242.464300
+Household Education Level,Nyandarua,Some secondary,67035.781100
+Household Education Level,Nyeri,None,23252.122800
+Household Education Level,Nyeri,Post secondary,40468.411400
+Household Education Level,Nyeri,Some primary,191500.495600
+Household Education Level,Nyeri,Some secondary,114850.884800
+Household Education Level,Samburu,None,73829.657120
+Household Education Level,Samburu,Post secondary,5100.872510
+Household Education Level,Samburu,Some primary,21838.655320
+Household Education Level,Samburu,Some secondary,5797.929410
+Household Education Level,Siaya,None,53541.186550
+Household Education Level,Siaya,Post secondary,16120.403830
+Household Education Level,Siaya,Some primary,377371.293560
+Household Education Level,Siaya,Some secondary,91644.162150
+Household Education Level,Taita Taveta,None,11267.775050
+Household Education Level,Taita Taveta,Post secondary,13254.007590
+Household Education Level,Taita Taveta,Some primary,100374.292360
+Household Education Level,Taita Taveta,Some secondary,37256.963890
+Household Education Level,Tana River,None,76144.095270
+Household Education Level,Tana River,Post secondary,3185.766260
+Household Education Level,Tana River,Some primary,48345.556580
+Household Education Level,Tana River,Some secondary,15118.872640
+Household Education Level,Tharaka-Nithi,None,16474.687090
+Household Education Level,Tharaka-Nithi,Post secondary,9356.906410
+Household Education Level,Tharaka-Nithi,Some primary,123850.153000
+Household Education Level,Tharaka-Nithi,Some secondary,28760.698320
+Household Education Level,Trans Nzoia,None,38618.194050
+Household Education Level,Trans Nzoia,Post secondary,29711.131210
+Household Education Level,Trans Nzoia,Some primary,291648.172090
+Household Education Level,Trans Nzoia,Some secondary,129775.203960
+Household Education Level,Turkana,None,332542.070390
+Household Education Level,Turkana,Post secondary,5569.495270
+Household Education Level,Turkana,Some primary,36256.394030
+Household Education Level,Turkana,Some secondary,5586.685120
+Household Education Level,Uasin Gishu,None,32565.307340
+Household Education Level,Uasin Gishu,Post secondary,67648.166800
+Household Education Level,Uasin Gishu,Some primary,218970.822810
+Household Education Level,Uasin Gishu,Some secondary,145815.815040
+Household Education Level,Vihiga,None,34119.913660
+Household Education Level,Vihiga,Post secondary,15928.651690
+Household Education Level,Vihiga,Some primary,220457.258830
+Household Education Level,Vihiga,Some secondary,67797.381400
+Household Education Level,Wajir,None,274926.026330
+Household Education Level,Wajir,Post secondary,1740.485300
+Household Education Level,Wajir,Some primary,12068.994040
+Household Education Level,Wajir,Some secondary,1985.268740
+Household Education Level,West Pokot,None,152492.433570
+Household Education Level,West Pokot,Post secondary,18767.643840
+Household Education Level,West Pokot,Some primary,100545.279850
+Household Education Level,West Pokot,Some secondary,21757.599140
+Meals Per Day,Baringo,1,6884.762630
+Meals Per Day,Baringo,2,70854.857620
+Meals Per Day,Baringo,3,239392.481610
+Meals Per Day,Bomet,1,1262.129840
+Meals Per Day,Bomet,2,5044.419620
+Meals Per Day,Bomet,3,448285.552070
+Meals Per Day,Bungoma,1,14671.050340
+Meals Per Day,Bungoma,2,59766.920590
+Meals Per Day,Bungoma,3,775199.752940
+Meals Per Day,Busia,1,10005.566670
+Meals Per Day,Busia,2,136639.777790
+Meals Per Day,Busia,3,308346.643470
+Meals Per Day,Embu,1,1407.914500
+Meals Per Day,Embu,2,20471.560980
+Meals Per Day,Embu,3,222546.735120
+Meals Per Day,Garissa,1,210.514930
+Meals Per Day,Garissa,2,19527.214590
+Meals Per Day,Garissa,3,141521.132980
+Meals Per Day,Homa bay,1,10456.794660
+Meals Per Day,Homa bay,2,85042.948740
+Meals Per Day,Homa bay,3,471392.485250
+Meals Per Day,Isiolo,1,3681.362230
+Meals Per Day,Isiolo,2,24071.451980
+Meals Per Day,Isiolo,3,53711.891410
+Meals Per Day,Kajiado,1,5473.724470
+Meals Per Day,Kajiado,2,54774.636270
+Meals Per Day,Kajiado,3,315221.495940
+Meals Per Day,Kakamega,1,15738.266430
+Meals Per Day,Kakamega,2,183100.305620
+Meals Per Day,Kakamega,3,788714.291310
+Meals Per Day,Keiyo-Marakwet,1,1364.785380
+Meals Per Day,Keiyo-Marakwet,2,4857.836460
+Meals Per Day,Keiyo-Marakwet,3,211650.093250
+Meals Per Day,Kericho,1,1759.418890
+Meals Per Day,Kericho,2,8186.533260
+Meals Per Day,Kericho,3,338511.480660
+Meals Per Day,Kiambu,1,12451.109790
+Meals Per Day,Kiambu,2,127699.465830
+Meals Per Day,Kiambu,3,755745.740800
+Meals Per Day,Kilifi,1,11629.643770
+Meals Per Day,Kilifi,2,101796.823810
+Meals Per Day,Kilifi,3,500302.889090
+Meals Per Day,Kirinyaga,1,1576.658200
+Meals Per Day,Kirinyaga,2,29748.401900
+Meals Per Day,Kirinyaga,3,233843.531100
+Meals Per Day,Kisii,1,10282.465630
+Meals Per Day,Kisii,2,48609.920800
+Meals Per Day,Kisii,3,611670.348120
+Meals Per Day,Kisumu,1,10619.217040
+Meals Per Day,Kisumu,2,117108.259180
+Meals Per Day,Kisumu,3,450513.678830
+Meals Per Day,Kitui,1,22435.092390
+Meals Per Day,Kitui,2,95521.683550
+Meals Per Day,Kitui,3,463230.721330
+Meals Per Day,Kwale,1,3849.002440
+Meals Per Day,Kwale,2,21723.439500
+Meals Per Day,Kwale,3,353012.512300
+Meals Per Day,Laikipia,1,2732.257620
+Meals Per Day,Laikipia,2,44617.590650
+Meals Per Day,Laikipia,3,182237.835760
+Meals Per Day,Lamu,1,608.871840
+Meals Per Day,Lamu,2,7636.147970
+Meals Per Day,Lamu,3,47364.161310
+Meals Per Day,Machakos,1,4966.926340
+Meals Per Day,Machakos,2,37058.561480
+Meals Per Day,Machakos,3,525112.354480
+Meals Per Day,Makueni,1,16889.872480
+Meals Per Day,Makueni,2,85120.622720
+Meals Per Day,Makueni,3,354288.047600
+Meals Per Day,Mandera,1,7515.254390
+Meals Per Day,Mandera,2,175179.678020
+Meals Per Day,Mandera,3,229238.558580
+Meals Per Day,Marsabit,1,13410.371920
+Meals Per Day,Marsabit,2,53070.585090
+Meals Per Day,Marsabit,3,62013.205450
+Meals Per Day,Meru,1,14154.689800
+Meals Per Day,Meru,2,86388.863440
+Meals Per Day,Meru,3,598244.317000
+Meals Per Day,Migori,1,7502.364810
+Meals Per Day,Migori,2,70631.645450
+Meals Per Day,Migori,3,454113.355420
+Meals Per Day,Mombasa,1,15760.850100
+Meals Per Day,Mombasa,2,130149.792000
+Meals Per Day,Mombasa,3,444929.770400
+Meals Per Day,Muranga,1,4286.779800
+Meals Per Day,Muranga,2,47104.631310
+Meals Per Day,Muranga,3,439709.968480
+Meals Per Day,Nairobi,1,43825.876300
+Meals Per Day,Nairobi,2,325128.192500
+Meals Per Day,Nairobi,3,1400527.570300
+Meals Per Day,Nakuru,1,7194.411100
+Meals Per Day,Nakuru,2,88773.512660
+Meals Per Day,Nakuru,3,858791.882660
+Meals Per Day,Nandi,1,1904.768190
+Meals Per Day,Nandi,2,17775.448630
+Meals Per Day,Nandi,3,377393.989200
+Meals Per Day,Narok,1,3106.091260
+Meals Per Day,Narok,2,24047.106580
+Meals Per Day,Narok,3,448362.964830
+Meals Per Day,Nyamira,1,3215.148420
+Meals Per Day,Nyamira,2,29724.860060
+Meals Per Day,Nyamira,3,204604.966880
+Meals Per Day,Nyandarua,1,5031.342700
+Meals Per Day,Nyandarua,2,29278.478100
+Meals Per Day,Nyandarua,3,284270.734800
+Meals Per Day,Nyeri,1,4975.017400
+Meals Per Day,Nyeri,2,26918.404800
+Meals Per Day,Nyeri,3,334551.003600
+Meals Per Day,Samburu,1,1446.790530
+Meals Per Day,Samburu,2,16133.589740
+Meals Per Day,Samburu,3,86034.430080
+Meals Per Day,Siaya,1,8580.964410
+Meals Per Day,Siaya,2,81558.689060
+Meals Per Day,Siaya,3,453459.120030
+Meals Per Day,Taita Taveta,1,5147.270480
+Meals Per Day,Taita Taveta,2,32883.069420
+Meals Per Day,Taita Taveta,3,122251.757460
+Meals Per Day,Tana River,1,7018.358890
+Meals Per Day,Tana River,2,47759.890540
+Meals Per Day,Tana River,3,92868.802510
+Meals Per Day,Tharaka-Nithi,1,3330.589560
+Meals Per Day,Tharaka-Nithi,2,23368.448750
+Meals Per Day,Tharaka-Nithi,3,150420.942070
+Meals Per Day,Trans Nzoia,1,7627.477890
+Meals Per Day,Trans Nzoia,2,33576.711870
+Meals Per Day,Trans Nzoia,3,446507.539000
+Meals Per Day,Turkana,1,155526.326700
+Meals Per Day,Turkana,2,164852.426960
+Meals Per Day,Turkana,3,51842.978130
+Meals Per Day,Uasin Gishu,1,3463.250600
+Meals Per Day,Uasin Gishu,2,22125.663700
+Meals Per Day,Uasin Gishu,3,434551.960040
+Meals Per Day,Vihiga,1,5019.726300
+Meals Per Day,Vihiga,2,64169.520970
+Meals Per Day,Vihiga,3,272106.558130
+Meals Per Day,Wajir,1,6157.663400
+Meals Per Day,Wajir,2,49755.979430
+Meals Per Day,Wajir,3,229190.458760
+Meals Per Day,West Pokot,1,10077.390300
+Meals Per Day,West Pokot,2,95383.294020
+Meals Per Day,West Pokot,3,188700.021370
+Number of Children in Household,Baringo,0-2 people,75017.496520
+Number of Children in Household,Baringo,3-4 people,148204.910140
+Number of Children in Household,Baringo,5+ people,108988.372280
+Number of Children in Household,Bomet,0-2 people,132664.933280
+Number of Children in Household,Bomet,3-4 people,222631.187710
+Number of Children in Household,Bomet,5+ people,125599.778250
+Number of Children in Household,Bungoma,0-2 people,163312.098350
+Number of Children in Household,Bungoma,3-4 people,371801.708890
+Number of Children in Household,Bungoma,5+ people,349298.031310
+Number of Children in Household,Busia,0-2 people,100067.463240
+Number of Children in Household,Busia,3-4 people,210461.421300
+Number of Children in Household,Busia,5+ people,161522.444020
+Number of Children in Household,Embu,0-2 people,148830.684440
+Number of Children in Household,Embu,3-4 people,80747.229400
+Number of Children in Household,Embu,5+ people,26068.344960
+Number of Children in Household,Garissa,0-2 people,27275.986420
+Number of Children in Household,Garissa,3-4 people,68943.895110
+Number of Children in Household,Garissa,5+ people,79266.916190
+Number of Children in Household,Homa bay,0-2 people,148210.489330
+Number of Children in Household,Homa bay,3-4 people,266796.618300
+Number of Children in Household,Homa bay,5+ people,170331.586410
+Number of Children in Household,Isiolo,0-2 people,24974.736980
+Number of Children in Household,Isiolo,3-4 people,38349.386290
+Number of Children in Household,Isiolo,5+ people,21140.858310
+Number of Children in Household,Kajiado,0-2 people,158242.903520
+Number of Children in Household,Kajiado,3-4 people,165314.576930
+Number of Children in Household,Kajiado,5+ people,78032.282410
+Number of Children in Household,Kakamega,0-2 people,253652.328270
+Number of Children in Household,Kakamega,3-4 people,454887.678270
+Number of Children in Household,Kakamega,5+ people,309582.043660
+Number of Children in Household,Keiyo-Marakwet,0-2 people,53564.580650
+Number of Children in Household,Keiyo-Marakwet,3-4 people,98806.714220
+Number of Children in Household,Keiyo-Marakwet,5+ people,79838.406110
+Number of Children in Household,Kericho,0-2 people,89988.979660
+Number of Children in Household,Kericho,3-4 people,160419.077330
+Number of Children in Household,Kericho,5+ people,114043.833600
+Number of Children in Household,Kiambu,0-2 people,530926.234630
+Number of Children in Household,Kiambu,3-4 people,348155.120390
+Number of Children in Household,Kiambu,5+ people,61821.783900
+Number of Children in Household,Kilifi,0-2 people,137858.069060
+Number of Children in Household,Kilifi,3-4 people,239995.685060
+Number of Children in Household,Kilifi,5+ people,255995.084710
+Number of Children in Household,Kirinyaga,0-2 people,184409.550800
+Number of Children in Household,Kirinyaga,3-4 people,77871.026400
+Number of Children in Household,Kirinyaga,5+ people,7172.227200
+Number of Children in Household,Kisii,0-2 people,226869.208990
+Number of Children in Household,Kisii,3-4 people,345174.561900
+Number of Children in Household,Kisii,5+ people,124081.818350
+Number of Children in Household,Kisumu,0-2 people,186492.853860
+Number of Children in Household,Kisumu,3-4 people,280599.526720
+Number of Children in Household,Kisumu,5+ people,134960.987690
+Number of Children in Household,Kitui,0-2 people,149919.042660
+Number of Children in Household,Kitui,3-4 people,265259.352440
+Number of Children in Household,Kitui,5+ people,178088.629300
+Number of Children in Household,Kwale,0-2 people,76666.674050
+Number of Children in Household,Kwale,3-4 people,154113.428980
+Number of Children in Household,Kwale,5+ people,162501.922230
+Number of Children in Household,Laikipia,0-2 people,99469.101520
+Number of Children in Household,Laikipia,3-4 people,97943.120640
+Number of Children in Household,Laikipia,5+ people,42852.253840
+Number of Children in Household,Lamu,0-2 people,18348.486260
+Number of Children in Household,Lamu,3-4 people,26151.595020
+Number of Children in Household,Lamu,5+ people,12886.486010
+Number of Children in Household,Machakos,0-2 people,270192.181110
+Number of Children in Household,Machakos,3-4 people,227080.468390
+Number of Children in Household,Machakos,5+ people,86330.123160
+Number of Children in Household,Makueni,0-2 people,151875.756190
+Number of Children in Household,Makueni,3-4 people,221950.043130
+Number of Children in Household,Makueni,5+ people,101896.101420
+Number of Children in Household,Mandera,0-2 people,59508.252370
+Number of Children in Household,Mandera,3-4 people,188998.445100
+Number of Children in Household,Mandera,5+ people,201724.530970
+Number of Children in Household,Marsabit,0-2 people,31951.510710
+Number of Children in Household,Marsabit,3-4 people,60007.360200
+Number of Children in Household,Marsabit,5+ people,45854.685690
+Number of Children in Household,Meru,0-2 people,323019.192510
+Number of Children in Household,Meru,3-4 people,277235.475170
+Number of Children in Household,Meru,5+ people,115641.757450
+Number of Children in Household,Migori,0-2 people,113993.569510
+Number of Children in Household,Migori,3-4 people,247004.033500
+Number of Children in Household,Migori,5+ people,194389.401660
+Number of Children in Household,Mombasa,0-2 people,273590.319700
+Number of Children in Household,Mombasa,3-4 people,245039.111400
+Number of Children in Household,Mombasa,5+ people,87183.995700
+Number of Children in Household,Muranga,0-2 people,242224.832990
+Number of Children in Household,Muranga,3-4 people,226031.167690
+Number of Children in Household,Muranga,5+ people,36215.718670
+Number of Children in Household,Nairobi,0-2 people,980991.511800
+Number of Children in Household,Nairobi,3-4 people,665693.246500
+Number of Children in Household,Nairobi,5+ people,189799.058900
+Number of Children in Household,Nakuru,0-2 people,363348.492210
+Number of Children in Household,Nakuru,3-4 people,445588.710230
+Number of Children in Household,Nakuru,5+ people,191670.346000
+Number of Children in Household,Nandi,0-2 people,120227.531740
+Number of Children in Household,Nandi,3-4 people,201339.326240
+Number of Children in Household,Nandi,5+ people,93972.742810
+Number of Children in Household,Narok,0-2 people,124843.579660
+Number of Children in Household,Narok,3-4 people,216256.037430
+Number of Children in Household,Narok,5+ people,155777.562420
+Number of Children in Household,Nyamira,0-2 people,98314.296960
+Number of Children in Household,Nyamira,3-4 people,112855.522960
+Number of Children in Household,Nyamira,5+ people,36786.883760
+Number of Children in Household,Nyandarua,0-2 people,130674.049200
+Number of Children in Household,Nyandarua,3-4 people,157414.892900
+Number of Children in Household,Nyandarua,5+ people,41872.419000
+Number of Children in Household,Nyeri,0-2 people,235961.417600
+Number of Children in Household,Nyeri,3-4 people,125665.312500
+Number of Children in Household,Nyeri,5+ people,16190.026000
+Number of Children in Household,Samburu,0-2 people,23068.723890
+Number of Children in Household,Samburu,3-4 people,47819.413430
+Number of Children in Household,Samburu,5+ people,40221.962640
+Number of Children in Household,Siaya,0-2 people,148996.957650
+Number of Children in Household,Siaya,3-4 people,258271.240580
+Number of Children in Household,Siaya,5+ people,147563.099560
+Number of Children in Household,Taita Taveta,0-2 people,65287.629060
+Number of Children in Household,Taita Taveta,3-4 people,80432.186470
+Number of Children in Household,Taita Taveta,5+ people,19532.270180
+Number of Children in Household,Tana River,0-2 people,29025.800230
+Number of Children in Household,Tana River,3-4 people,58455.172470
+Number of Children in Household,Tana River,5+ people,66451.257270
+Number of Children in Household,Tharaka-Nithi,0-2 people,94826.363330
+Number of Children in Household,Tharaka-Nithi,3-4 people,69387.510840
+Number of Children in Household,Tharaka-Nithi,5+ people,19201.100440
+Number of Children in Household,Trans Nzoia,0-2 people,121813.535140
+Number of Children in Household,Trans Nzoia,3-4 people,222359.159810
+Number of Children in Household,Trans Nzoia,5+ people,157092.078910
+Number of Children in Household,Turkana,0-2 people,72279.770920
+Number of Children in Household,Turkana,3-4 people,171620.591640
+Number of Children in Household,Turkana,5+ people,161845.882780
+Number of Children in Household,Uasin Gishu,0-2 people,188447.567700
+Number of Children in Household,Uasin Gishu,3-4 people,209447.801890
+Number of Children in Household,Uasin Gishu,5+ people,79936.453660
+Number of Children in Household,Vihiga,0-2 people,92405.552430
+Number of Children in Household,Vihiga,3-4 people,156364.876150
+Number of Children in Household,Vihiga,5+ people,101677.226350
+Number of Children in Household,Wajir,0-2 people,43942.708610
+Number of Children in Household,Wajir,3-4 people,126572.670410
+Number of Children in Household,Wajir,5+ people,144546.463220
+Number of Children in Household,West Pokot,0-2 people,55716.970790
+Number of Children in Household,West Pokot,3-4 people,124924.501050
+Number of Children in Household,West Pokot,5+ people,127893.886880
+Number of Females in Household,Baringo,0-2 people,109400.913890
+Number of Females in Household,Baringo,3-4 people,151876.543640
+Number of Females in Household,Baringo,5+ people,65064.173860
+Number of Females in Household,Bomet,0-2 people,172703.786110
+Number of Females in Household,Bomet,3-4 people,216547.075300
+Number of Females in Household,Bomet,5+ people,88148.135510
+Number of Females in Household,Bungoma,0-2 people,247300.269020
+Number of Females in Household,Bungoma,3-4 people,391919.252510
+Number of Females in Household,Bungoma,5+ people,227386.966070
+Number of Females in Household,Busia,0-2 people,145469.158510
+Number of Females in Household,Busia,3-4 people,204364.811030
+Number of Females in Household,Busia,5+ people,115481.344810
+Number of Females in Household,Embu,0-2 people,129304.232930
+Number of Females in Household,Embu,3-4 people,93790.156360
+Number of Females in Household,Embu,5+ people,27091.081910
+Number of Females in Household,Garissa,0-2 people,65442.124680
+Number of Females in Household,Garissa,3-4 people,69619.024720
+Number of Females in Household,Garissa,5+ people,33439.511170
+Number of Females in Household,Homa bay,0-2 people,210459.854210
+Number of Females in Household,Homa bay,3-4 people,278751.949420
+Number of Females in Household,Homa bay,5+ people,89104.147440
+Number of Females in Household,Isiolo,0-2 people,31437.016090
+Number of Females in Household,Isiolo,3-4 people,39007.566690
+Number of Females in Household,Isiolo,5+ people,12365.888010
+Number of Females in Household,Kajiado,0-2 people,174595.399940
+Number of Females in Household,Kajiado,3-4 people,174984.630830
+Number of Females in Household,Kajiado,5+ people,43042.462050
+Number of Females in Household,Kakamega,0-2 people,319052.580210
+Number of Females in Household,Kakamega,3-4 people,465054.507060
+Number of Females in Household,Kakamega,5+ people,209903.191300
+Number of Females in Household,Keiyo-Marakwet,0-2 people,62267.026030
+Number of Females in Household,Keiyo-Marakwet,3-4 people,111061.332450
+Number of Females in Household,Keiyo-Marakwet,5+ people,55787.888010
+Number of Females in Household,Kericho,0-2 people,132054.418380
+Number of Females in Household,Kericho,3-4 people,171433.687030
+Number of Females in Household,Kericho,5+ people,55173.585550
+Number of Females in Household,Kiambu,0-2 people,516662.988110
+Number of Females in Household,Kiambu,3-4 people,352975.928070
+Number of Females in Household,Kiambu,5+ people,53902.715380
+Number of Females in Household,Kilifi,0-2 people,162072.838520
+Number of Females in Household,Kilifi,3-4 people,257087.024960
+Number of Females in Household,Kilifi,5+ people,206190.191130
+Number of Females in Household,Kirinyaga,0-2 people,171145.276300
+Number of Females in Household,Kirinyaga,3-4 people,82218.787300
+Number of Females in Household,Kirinyaga,5+ people,12712.410100
+Number of Females in Household,Kisii,0-2 people,278757.980980
+Number of Females in Household,Kisii,3-4 people,309014.238870
+Number of Females in Household,Kisii,5+ people,98128.318680
+Number of Females in Household,Kisumu,0-2 people,250823.121610
+Number of Females in Household,Kisumu,3-4 people,253576.794800
+Number of Females in Household,Kisumu,5+ people,87168.001440
+Number of Females in Household,Kitui,0-2 people,189593.100240
+Number of Females in Household,Kitui,3-4 people,260816.773530
+Number of Females in Household,Kitui,5+ people,134045.983650
+Number of Females in Household,Kwale,0-2 people,96212.162420
+Number of Females in Household,Kwale,3-4 people,167623.340300
+Number of Females in Household,Kwale,5+ people,118679.531460
+Number of Females in Household,Laikipia,0-2 people,106276.004720
+Number of Females in Household,Laikipia,3-4 people,100586.963310
+Number of Females in Household,Laikipia,5+ people,30506.744460
+Number of Females in Household,Lamu,0-2 people,20758.043120
+Number of Females in Household,Lamu,3-4 people,22518.011890
+Number of Females in Household,Lamu,5+ people,12602.959060
+Number of Females in Household,Machakos,0-2 people,244173.654420
+Number of Females in Household,Machakos,3-4 people,249176.266850
+Number of Females in Household,Machakos,5+ people,83393.982310
+Number of Females in Household,Makueni,0-2 people,173876.403380
+Number of Females in Household,Makueni,3-4 people,212741.124160
+Number of Females in Household,Makueni,5+ people,81302.056170
+Number of Females in Household,Mandera,0-2 people,153317.849230
+Number of Females in Household,Mandera,3-4 people,209042.488140
+Number of Females in Household,Mandera,5+ people,75638.653510
+Number of Females in Household,Marsabit,0-2 people,50985.855880
+Number of Females in Household,Marsabit,3-4 people,60129.907000
+Number of Females in Household,Marsabit,5+ people,23633.517320
+Number of Females in Household,Meru,0-2 people,326695.726040
+Number of Females in Household,Meru,3-4 people,295857.143610
+Number of Females in Household,Meru,5+ people,85437.493970
+Number of Females in Household,Migori,0-2 people,174444.570330
+Number of Females in Household,Migori,3-4 people,261770.094390
+Number of Females in Household,Migori,5+ people,111888.823510
+Number of Females in Household,Mombasa,0-2 people,250660.191900
+Number of Females in Household,Mombasa,3-4 people,242605.153000
+Number of Females in Household,Mombasa,5+ people,106688.184600
+Number of Females in Household,Muranga,0-2 people,243185.106370
+Number of Females in Household,Muranga,3-4 people,215994.474560
+Number of Females in Household,Muranga,5+ people,40110.348120
+Number of Females in Household,Nairobi,0-2 people,885894.297600
+Number of Females in Household,Nairobi,3-4 people,715685.991400
+Number of Females in Household,Nairobi,5+ people,204823.238900
+Number of Females in Household,Nakuru,0-2 people,402335.133150
+Number of Females in Household,Nakuru,3-4 people,439136.903970
+Number of Females in Household,Nakuru,5+ people,140525.945260
+Number of Females in Household,Nandi,0-2 people,147785.213230
+Number of Females in Household,Nandi,3-4 people,192317.024060
+Number of Females in Household,Nandi,5+ people,66310.703810
+Number of Females in Household,Narok,0-2 people,184357.935090
+Number of Females in Household,Narok,3-4 people,229283.080290
+Number of Females in Household,Narok,5+ people,77066.537660
+Number of Females in Household,Nyamira,0-2 people,103024.051660
+Number of Females in Household,Nyamira,3-4 people,109718.032200
+Number of Females in Household,Nyamira,5+ people,28699.089060
+Number of Females in Household,Nyandarua,0-2 people,163724.446000
+Number of Females in Household,Nyandarua,3-4 people,134599.866400
+Number of Females in Household,Nyandarua,5+ people,27118.873700
+Number of Females in Household,Nyeri,0-2 people,224941.828600
+Number of Females in Household,Nyeri,3-4 people,124820.996100
+Number of Females in Household,Nyeri,5+ people,26348.483000
+Number of Females in Household,Samburu,0-2 people,43861.987750
+Number of Females in Household,Samburu,3-4 people,48409.133720
+Number of Females in Household,Samburu,5+ people,15280.659230
+Number of Females in Household,Siaya,0-2 people,194713.770890
+Number of Females in Household,Siaya,3-4 people,248413.630660
+Number of Females in Household,Siaya,5+ people,100833.558640
+Number of Females in Household,Taita Taveta,0-2 people,72605.232000
+Number of Females in Household,Taita Taveta,3-4 people,69763.158980
+Number of Females in Household,Taita Taveta,5+ people,21752.442980
+Number of Females in Household,Tana River,0-2 people,49885.846480
+Number of Females in Household,Tana River,3-4 people,64479.534240
+Number of Females in Household,Tana River,5+ people,34824.184890
+Number of Females in Household,Tharaka-Nithi,0-2 people,86287.934230
+Number of Females in Household,Tharaka-Nithi,3-4 people,76706.020160
+Number of Females in Household,Tharaka-Nithi,5+ people,16367.525580
+Number of Females in Household,Trans Nzoia,0-2 people,149885.333570
+Number of Females in Household,Trans Nzoia,3-4 people,231955.283370
+Number of Females in Household,Trans Nzoia,5+ people,115564.657680
+Number of Females in Household,Turkana,0-2 people,138690.636470
+Number of Females in Household,Turkana,3-4 people,168085.451150
+Number of Females in Household,Turkana,5+ people,83252.816350
+Number of Females in Household,Uasin Gishu,0-2 people,198098.717580
+Number of Females in Household,Uasin Gishu,3-4 people,194686.921860
+Number of Females in Household,Uasin Gishu,5+ people,76415.116300
+Number of Females in Household,Vihiga,0-2 people,105893.682160
+Number of Females in Household,Vihiga,3-4 people,163926.725160
+Number of Females in Household,Vihiga,5+ people,75166.881250
+Number of Females in Household,Wajir,0-2 people,112016.535750
+Number of Females in Household,Wajir,3-4 people,134375.694450
+Number of Females in Household,Wajir,5+ people,54541.118000
+Number of Females in Household,West Pokot,0-2 people,90661.056400
+Number of Females in Household,West Pokot,3-4 people,151384.440380
+Number of Females in Household,West Pokot,5+ people,59934.778010
+Number of Males in Household,Baringo,0-2 people,107202.940850
+Number of Males in Household,Baringo,3-4 people,150204.207730
+Number of Males in Household,Baringo,5+ people,64888.909550
+Number of Males in Household,Bomet,0-2 people,180191.148030
+Number of Males in Household,Bomet,3-4 people,216679.625950
+Number of Males in Household,Bomet,5+ people,72288.269790
+Number of Males in Household,Bungoma,0-2 people,258797.576250
+Number of Males in Household,Bungoma,3-4 people,384160.780690
+Number of Males in Household,Bungoma,5+ people,219427.249160
+Number of Males in Household,Busia,0-2 people,163672.799010
+Number of Males in Household,Busia,3-4 people,210275.197280
+Number of Males in Household,Busia,5+ people,86890.791420
+Number of Males in Household,Embu,0-2 people,132424.919460
+Number of Males in Household,Embu,3-4 people,87853.507650
+Number of Males in Household,Embu,5+ people,18299.097880
+Number of Males in Household,Garissa,0-2 people,55776.444370
+Number of Males in Household,Garissa,3-4 people,70226.576320
+Number of Males in Household,Garissa,5+ people,41306.691260
+Number of Males in Household,Homa bay,0-2 people,214966.826770
+Number of Males in Household,Homa bay,3-4 people,268145.778770
+Number of Males in Household,Homa bay,5+ people,81788.316700
+Number of Males in Household,Isiolo,0-2 people,33804.264400
+Number of Males in Household,Isiolo,3-4 people,36232.349720
+Number of Males in Household,Isiolo,5+ people,11713.201310
+Number of Males in Household,Kajiado,0-2 people,187976.646510
+Number of Males in Household,Kajiado,3-4 people,153314.946900
+Number of Males in Household,Kajiado,5+ people,40169.485030
+Number of Males in Household,Kakamega,0-2 people,361855.029850
+Number of Males in Household,Kakamega,3-4 people,449267.092560
+Number of Males in Household,Kakamega,5+ people,171364.871870
+Number of Males in Household,Keiyo-Marakwet,0-2 people,88454.992890
+Number of Males in Household,Keiyo-Marakwet,3-4 people,102007.358180
+Number of Males in Household,Keiyo-Marakwet,5+ people,35387.005420
+Number of Males in Household,Kericho,0-2 people,132440.885740
+Number of Males in Household,Kericho,3-4 people,160513.046440
+Number of Males in Household,Kericho,5+ people,61486.325330
+Number of Males in Household,Kiambu,0-2 people,525443.864550
+Number of Males in Household,Kiambu,3-4 people,317380.245820
+Number of Males in Household,Kiambu,5+ people,46993.975030
+Number of Males in Household,Kilifi,0-2 people,194922.174190
+Number of Males in Household,Kilifi,3-4 people,259047.645700
+Number of Males in Household,Kilifi,5+ people,164278.242620
+Number of Males in Household,Kirinyaga,0-2 people,167486.952300
+Number of Males in Household,Kirinyaga,3-4 people,73733.295300
+Number of Males in Household,Kirinyaga,5+ people,12200.825700
+Number of Males in Household,Kisii,0-2 people,302499.851810
+Number of Males in Household,Kisii,3-4 people,299727.907020
+Number of Males in Household,Kisii,5+ people,72097.383120
+Number of Males in Household,Kisumu,0-2 people,243795.956300
+Number of Males in Household,Kisumu,3-4 people,262625.562290
+Number of Males in Household,Kisumu,5+ people,76440.845340
+Number of Males in Household,Kitui,0-2 people,233031.816140
+Number of Males in Household,Kitui,3-4 people,250456.889950
+Number of Males in Household,Kitui,5+ people,83857.255840
+Number of Males in Household,Kwale,0-2 people,105203.450960
+Number of Males in Household,Kwale,3-4 people,166248.219740
+Number of Males in Household,Kwale,5+ people,107512.891000
+Number of Males in Household,Laikipia,0-2 people,119597.456340
+Number of Males in Household,Laikipia,3-4 people,82494.021900
+Number of Males in Household,Laikipia,5+ people,27660.712470
+Number of Males in Household,Lamu,0-2 people,21431.036160
+Number of Males in Household,Lamu,3-4 people,22660.382710
+Number of Males in Household,Lamu,5+ people,10860.952150
+Number of Males in Household,Machakos,0-2 people,290143.446200
+Number of Males in Household,Machakos,3-4 people,224165.989060
+Number of Males in Household,Machakos,5+ people,50115.374920
+Number of Males in Household,Makueni,0-2 people,197267.406050
+Number of Males in Household,Makueni,3-4 people,184259.537680
+Number of Males in Household,Makueni,5+ people,70805.689740
+Number of Males in Household,Mandera,0-2 people,118954.349540
+Number of Males in Household,Mandera,3-4 people,207444.876540
+Number of Males in Household,Mandera,5+ people,113502.610800
+Number of Males in Household,Marsabit,0-2 people,49216.354000
+Number of Males in Household,Marsabit,3-4 people,55998.272930
+Number of Males in Household,Marsabit,5+ people,25822.639850
+Number of Males in Household,Meru,0-2 people,345150.252440
+Number of Males in Household,Meru,3-4 people,271807.261110
+Number of Males in Household,Meru,5+ people,77776.602420
+Number of Males in Household,Migori,0-2 people,184881.350200
+Number of Males in Household,Migori,3-4 people,249836.885540
+Number of Males in Household,Migori,5+ people,104812.114010
+Number of Males in Household,Mombasa,0-2 people,282969.770900
+Number of Males in Household,Mombasa,3-4 people,230426.260600
+Number of Males in Household,Mombasa,5+ people,74082.124800
+Number of Males in Household,Muranga,0-2 people,282315.487020
+Number of Males in Household,Muranga,3-4 people,167105.522320
+Number of Males in Household,Muranga,5+ people,25645.913470
+Number of Males in Household,Nairobi,0-2 people,1108839.017900
+Number of Males in Household,Nairobi,3-4 people,535141.797200
+Number of Males in Household,Nairobi,5+ people,109688.434200
+Number of Males in Household,Nakuru,0-2 people,438654.495940
+Number of Males in Household,Nakuru,3-4 people,403510.789680
+Number of Males in Household,Nakuru,5+ people,112427.218050
+Number of Males in Household,Nandi,0-2 people,162188.388190
+Number of Males in Household,Nandi,3-4 people,183686.306250
+Number of Males in Household,Nandi,5+ people,56684.834380
+Number of Males in Household,Narok,0-2 people,172843.747750
+Number of Males in Household,Narok,3-4 people,225460.747260
+Number of Males in Household,Narok,5+ people,87760.270410
+Number of Males in Household,Nyamira,0-2 people,118665.276590
+Number of Males in Household,Nyamira,3-4 people,97082.483880
+Number of Males in Household,Nyamira,5+ people,20363.589910
+Number of Males in Household,Nyandarua,0-2 people,164438.210700
+Number of Males in Household,Nyandarua,3-4 people,133945.490300
+Number of Males in Household,Nyandarua,5+ people,21862.979900
+Number of Males in Household,Nyeri,0-2 people,223270.150500
+Number of Males in Household,Nyeri,3-4 people,121015.528700
+Number of Males in Household,Nyeri,5+ people,11708.938600
+Number of Males in Household,Samburu,0-2 people,43482.127740
+Number of Males in Household,Samburu,3-4 people,44990.295900
+Number of Males in Household,Samburu,5+ people,17783.564400
+Number of Males in Household,Siaya,0-2 people,225433.797440
+Number of Males in Household,Siaya,3-4 people,228557.623930
+Number of Males in Household,Siaya,5+ people,80422.443530
+Number of Males in Household,Taita Taveta,0-2 people,78395.654500
+Number of Males in Household,Taita Taveta,3-4 people,66150.282040
+Number of Males in Household,Taita Taveta,5+ people,15787.482760
+Number of Males in Household,Tana River,0-2 people,45821.846800
+Number of Males in Household,Tana River,3-4 people,68647.170970
+Number of Males in Household,Tana River,5+ people,33938.260020
+Number of Males in Household,Tharaka-Nithi,0-2 people,91946.453750
+Number of Males in Household,Tharaka-Nithi,3-4 people,68731.301910
+Number of Males in Household,Tharaka-Nithi,5+ people,15169.871430
+Number of Males in Household,Trans Nzoia,0-2 people,171377.739710
+Number of Males in Household,Trans Nzoia,3-4 people,208694.533960
+Number of Males in Household,Trans Nzoia,5+ people,110238.353320
+Number of Males in Household,Turkana,0-2 people,129267.833230
+Number of Males in Household,Turkana,3-4 people,180611.435100
+Number of Males in Household,Turkana,5+ people,79622.131850
+Number of Males in Household,Uasin Gishu,0-2 people,214642.450600
+Number of Males in Household,Uasin Gishu,3-4 people,186046.600330
+Number of Males in Household,Uasin Gishu,5+ people,62358.091090
+Number of Males in Household,Vihiga,0-2 people,138757.222520
+Number of Males in Household,Vihiga,3-4 people,147573.822150
+Number of Males in Household,Vihiga,5+ people,51094.158330
+Number of Males in Household,Wajir,0-2 people,86478.977130
+Number of Males in Household,Wajir,3-4 people,154239.488590
+Number of Males in Household,Wajir,5+ people,63246.556880
+Number of Males in Household,West Pokot,0-2 people,87171.048310
+Number of Males in Household,West Pokot,3-4 people,140955.199920
+Number of Males in Household,West Pokot,5+ people,71721.617230
+Type of Lighting,Baringo,Electricity,48458.645390
+Type of Lighting,Baringo,Gas,0.0
+Type of Lighting,Baringo,Other,77006.826980
+Type of Lighting,Baringo,Paraffin,152719.668440
+Type of Lighting,Baringo,Solar,54025.638130
+Type of Lighting,Bomet,Electricity,44931.165590
+Type of Lighting,Bomet,Gas,469.882100
+Type of Lighting,Bomet,Other,37602.077190
+Type of Lighting,Bomet,Paraffin,198128.076210
+Type of Lighting,Bomet,Solar,199764.698150
+Type of Lighting,Bungoma,Electricity,53439.188610
+Type of Lighting,Bungoma,Gas,709.605870
+Type of Lighting,Bungoma,Other,20285.043950
+Type of Lighting,Bungoma,Paraffin,612961.471500
+Type of Lighting,Bungoma,Solar,197016.528620
+Type of Lighting,Busia,Electricity,46986.569690
+Type of Lighting,Busia,Gas,629.651290
+Type of Lighting,Busia,Other,14798.487330
+Type of Lighting,Busia,Paraffin,328423.750520
+Type of Lighting,Busia,Solar,81212.869730
+Type of Lighting,Embu,Electricity,44071.827580
+Type of Lighting,Embu,Gas,507.754700
+Type of Lighting,Embu,Other,6191.063390
+Type of Lighting,Embu,Paraffin,168351.041400
+Type of Lighting,Embu,Solar,36524.571730
+Type of Lighting,Garissa,Electricity,5056.801220
+Type of Lighting,Garissa,Gas,22274.424310
+Type of Lighting,Garissa,Other,75847.808760
+Type of Lighting,Garissa,Paraffin,59234.656950
+Type of Lighting,Garissa,Solar,13073.106480
+Type of Lighting,Homa bay,Electricity,36972.422450
+Type of Lighting,Homa bay,Gas,614.258160
+Type of Lighting,Homa bay,Other,11736.676610
+Type of Lighting,Homa bay,Paraffin,354872.279180
+Type of Lighting,Homa bay,Solar,181143.057640
+Type of Lighting,Isiolo,Electricity,19811.845620
+Type of Lighting,Isiolo,Gas,3348.920070
+Type of Lighting,Isiolo,Other,20861.624760
+Type of Lighting,Isiolo,Paraffin,34074.330780
+Type of Lighting,Isiolo,Solar,6368.260350
+Type of Lighting,Kajiado,Electricity,164033.118700
+Type of Lighting,Kajiado,Gas,475.046640
+Type of Lighting,Kajiado,Other,17660.427130
+Type of Lighting,Kajiado,Paraffin,175563.673370
+Type of Lighting,Kajiado,Solar,43857.497020
+Type of Lighting,Kakamega,Electricity,107182.214470
+Type of Lighting,Kakamega,Gas,834.038670
+Type of Lighting,Kakamega,Other,15340.520510
+Type of Lighting,Kakamega,Paraffin,710582.322290
+Type of Lighting,Kakamega,Solar,184182.954260
+Type of Lighting,Keiyo-Marakwet,Electricity,24663.433090
+Type of Lighting,Keiyo-Marakwet,Gas,0.0
+Type of Lighting,Keiyo-Marakwet,Other,21953.601990
+Type of Lighting,Keiyo-Marakwet,Paraffin,86764.638610
+Type of Lighting,Keiyo-Marakwet,Solar,98828.027290
+Type of Lighting,Kericho,Electricity,58158.485950
+Type of Lighting,Kericho,Gas,1040.831960
+Type of Lighting,Kericho,Other,8930.547230
+Type of Lighting,Kericho,Paraffin,139737.981270
+Type of Lighting,Kericho,Solar,156584.044180
+Type of Lighting,Kiambu,Electricity,690531.890760
+Type of Lighting,Kiambu,Gas,2289.434890
+Type of Lighting,Kiambu,Other,25943.858810
+Type of Lighting,Kiambu,Paraffin,195757.415760
+Type of Lighting,Kiambu,Solar,26380.538700
+Type of Lighting,Kilifi,Electricity,86767.583440
+Type of Lighting,Kilifi,Gas,0.0
+Type of Lighting,Kilifi,Other,21922.825060
+Type of Lighting,Kilifi,Paraffin,474115.770530
+Type of Lighting,Kilifi,Solar,51042.659800
+Type of Lighting,Kirinyaga,Electricity,86254.915000
+Type of Lighting,Kirinyaga,Gas,0.0
+Type of Lighting,Kirinyaga,Other,2284.922600
+Type of Lighting,Kirinyaga,Paraffin,135053.821200
+Type of Lighting,Kirinyaga,Solar,45859.145600
+Type of Lighting,Kisii,Electricity,95731.521000
+Type of Lighting,Kisii,Gas,1309.747310
+Type of Lighting,Kisii,Other,15895.068280
+Type of Lighting,Kisii,Paraffin,504779.983690
+Type of Lighting,Kisii,Solar,78409.268960
+Type of Lighting,Kisumu,Electricity,175975.792920
+Type of Lighting,Kisumu,Gas,997.673880
+Type of Lighting,Kisumu,Other,13350.011100
+Type of Lighting,Kisumu,Paraffin,341188.994910
+Type of Lighting,Kisumu,Solar,70540.895460
+Type of Lighting,Kitui,Electricity,19666.898530
+Type of Lighting,Kitui,Gas,592.184980
+Type of Lighting,Kitui,Other,41232.752640
+Type of Lighting,Kitui,Paraffin,432583.087100
+Type of Lighting,Kitui,Solar,99192.101150
+Type of Lighting,Kwale,Electricity,50325.131750
+Type of Lighting,Kwale,Gas,648.004500
+Type of Lighting,Kwale,Other,17479.893590
+Type of Lighting,Kwale,Paraffin,296141.897060
+Type of Lighting,Kwale,Solar,28687.098360
+Type of Lighting,Laikipia,Electricity,49251.803110
+Type of Lighting,Laikipia,Gas,50.191760
+Type of Lighting,Laikipia,Other,6932.319000
+Type of Lighting,Laikipia,Paraffin,133698.923870
+Type of Lighting,Laikipia,Solar,50331.238260
+Type of Lighting,Lamu,Electricity,9415.163740
+Type of Lighting,Lamu,Gas,0.0
+Type of Lighting,Lamu,Other,714.276680
+Type of Lighting,Lamu,Paraffin,31602.739500
+Type of Lighting,Lamu,Solar,15654.387370
+Type of Lighting,Machakos,Electricity,106198.688760
+Type of Lighting,Machakos,Gas,1379.300290
+Type of Lighting,Machakos,Other,13723.601360
+Type of Lighting,Machakos,Paraffin,386492.217060
+Type of Lighting,Machakos,Solar,75808.965190
+Type of Lighting,Makueni,Electricity,25650.725000
+Type of Lighting,Makueni,Gas,1069.134240
+Type of Lighting,Makueni,Other,14456.496020
+Type of Lighting,Makueni,Paraffin,343925.079260
+Type of Lighting,Makueni,Solar,90620.466220
+Type of Lighting,Mandera,Electricity,23990.170520
+Type of Lighting,Mandera,Gas,29731.110700
+Type of Lighting,Mandera,Other,209311.843910
+Type of Lighting,Mandera,Paraffin,152199.104990
+Type of Lighting,Mandera,Solar,34998.998320
+Type of Lighting,Marsabit,Electricity,13630.039910
+Type of Lighting,Marsabit,Gas,3413.728100
+Type of Lighting,Marsabit,Other,73479.283930
+Type of Lighting,Marsabit,Paraffin,30684.845680
+Type of Lighting,Marsabit,Solar,16605.658980
+Type of Lighting,Meru,Electricity,139207.420020
+Type of Lighting,Meru,Gas,144.640900
+Type of Lighting,Meru,Other,34891.372660
+Type of Lighting,Meru,Paraffin,445383.477460
+Type of Lighting,Meru,Solar,96269.514090
+Type of Lighting,Migori,Electricity,55206.615570
+Type of Lighting,Migori,Gas,1397.883850
+Type of Lighting,Migori,Other,8647.389720
+Type of Lighting,Migori,Paraffin,383839.365150
+Type of Lighting,Migori,Solar,106295.750380
+Type of Lighting,Mombasa,Electricity,415682.127300
+Type of Lighting,Mombasa,Gas,0.0
+Type of Lighting,Mombasa,Other,11736.397600
+Type of Lighting,Mombasa,Paraffin,170136.048500
+Type of Lighting,Mombasa,Solar,8258.853400
+Type of Lighting,Muranga,Electricity,146101.055520
+Type of Lighting,Muranga,Gas,0.0
+Type of Lighting,Muranga,Other,7830.151120
+Type of Lighting,Muranga,Paraffin,314301.824200
+Type of Lighting,Muranga,Solar,36238.688510
+Type of Lighting,Nairobi,Electricity,1651230.772100
+Type of Lighting,Nairobi,Gas,0.0
+Type of Lighting,Nairobi,Other,52413.488900
+Type of Lighting,Nairobi,Paraffin,113893.221500
+Type of Lighting,Nairobi,Solar,18946.334700
+Type of Lighting,Nakuru,Electricity,427175.680050
+Type of Lighting,Nakuru,Gas,207.065600
+Type of Lighting,Nakuru,Other,30781.034100
+Type of Lighting,Nakuru,Paraffin,323629.352040
+Type of Lighting,Nakuru,Solar,218814.416650
+Type of Lighting,Nandi,Electricity,64394.241340
+Type of Lighting,Nandi,Gas,1006.194350
+Type of Lighting,Nandi,Other,20486.376650
+Type of Lighting,Nandi,Paraffin,180575.758520
+Type of Lighting,Nandi,Solar,149077.029930
+Type of Lighting,Narok,Electricity,36691.248530
+Type of Lighting,Narok,Gas,2461.474790
+Type of Lighting,Narok,Other,50850.701580
+Type of Lighting,Narok,Paraffin,230116.073350
+Type of Lighting,Narok,Solar,176757.681260
+Type of Lighting,Nyamira,Electricity,44800.763790
+Type of Lighting,Nyamira,Gas,156.409900
+Type of Lighting,Nyamira,Other,3066.299610
+Type of Lighting,Nyamira,Paraffin,179710.888930
+Type of Lighting,Nyamira,Solar,20222.341450
+Type of Lighting,Nyandarua,Electricity,62570.984500
+Type of Lighting,Nyandarua,Gas,823.327200
+Type of Lighting,Nyandarua,Other,10258.988400
+Type of Lighting,Nyandarua,Paraffin,168811.161500
+Type of Lighting,Nyandarua,Solar,87496.899500
+Type of Lighting,Nyeri,Electricity,184044.216100
+Type of Lighting,Nyeri,Gas,0.0
+Type of Lighting,Nyeri,Other,5003.450000
+Type of Lighting,Nyeri,Paraffin,146828.216900
+Type of Lighting,Nyeri,Solar,41940.873100
+Type of Lighting,Samburu,Electricity,9028.687870
+Type of Lighting,Samburu,Gas,76.551180
+Type of Lighting,Samburu,Other,41503.242110
+Type of Lighting,Samburu,Paraffin,43361.445520
+Type of Lighting,Samburu,Solar,17140.173280
+Type of Lighting,Siaya,Electricity,20950.861530
+Type of Lighting,Siaya,Gas,1352.863280
+Type of Lighting,Siaya,Other,5724.279980
+Type of Lighting,Siaya,Paraffin,395745.486610
+Type of Lighting,Siaya,Solar,131057.806390
+Type of Lighting,Taita Taveta,Electricity,35078.229460
+Type of Lighting,Taita Taveta,Gas,109.747950
+Type of Lighting,Taita Taveta,Other,1888.964870
+Type of Lighting,Taita Taveta,Paraffin,95028.808900
+Type of Lighting,Taita Taveta,Solar,33146.334530
+Type of Lighting,Tana River,Electricity,9087.693140
+Type of Lighting,Tana River,Gas,151.250710
+Type of Lighting,Tana River,Other,12324.713220
+Type of Lighting,Tana River,Paraffin,112125.112050
+Type of Lighting,Tana River,Solar,20243.460850
+Type of Lighting,Tharaka-Nithi,Electricity,21994.259600
+Type of Lighting,Tharaka-Nithi,Gas,224.909490
+Type of Lighting,Tharaka-Nithi,Other,17952.929170
+Type of Lighting,Tharaka-Nithi,Paraffin,113264.271300
+Type of Lighting,Tharaka-Nithi,Solar,29978.605050
+Type of Lighting,Trans Nzoia,Electricity,100369.968130
+Type of Lighting,Trans Nzoia,Gas,282.712600
+Type of Lighting,Trans Nzoia,Other,10513.384930
+Type of Lighting,Trans Nzoia,Paraffin,308725.640050
+Type of Lighting,Trans Nzoia,Solar,81373.068150
+Type of Lighting,Turkana,Electricity,4699.807790
+Type of Lighting,Turkana,Gas,260.810370
+Type of Lighting,Turkana,Other,305995.666130
+Type of Lighting,Turkana,Paraffin,75171.098850
+Type of Lighting,Turkana,Solar,19618.862200
+Type of Lighting,Uasin Gishu,Electricity,191043.731600
+Type of Lighting,Uasin Gishu,Gas,230.592800
+Type of Lighting,Uasin Gishu,Other,9324.114300
+Type of Lighting,Uasin Gishu,Paraffin,160160.181380
+Type of Lighting,Uasin Gishu,Solar,117073.203170
+Type of Lighting,Vihiga,Electricity,50356.833670
+Type of Lighting,Vihiga,Gas,1718.705100
+Type of Lighting,Vihiga,Other,5867.051610
+Type of Lighting,Vihiga,Paraffin,261333.126950
+Type of Lighting,Vihiga,Solar,31171.937600
+Type of Lighting,Wajir,Electricity,25612.323040
+Type of Lighting,Wajir,Gas,36432.463220
+Type of Lighting,Wajir,Other,120121.738250
+Type of Lighting,Wajir,Paraffin,84866.388470
+Type of Lighting,Wajir,Solar,48028.929260
+Type of Lighting,West Pokot,Electricity,12504.755320
+Type of Lighting,West Pokot,Gas,507.617040
+Type of Lighting,West Pokot,Other,111209.425370
+Type of Lighting,West Pokot,Paraffin,157045.755170
+Type of Lighting,West Pokot,Solar,27267.805820
