@@ -1,657 +1,257 @@
 Question,Location Name,Answer,Count
-Ability in English,CENTRAL,Competent,25184.196939
-Ability in English,CENTRAL,Not Competent,14047.498655
-Ability in English,COAST,Competent,27198.673327
-Ability in English,COAST,Not Competent,32391.031077
-Ability in English,EASTERN,Competent,49894.875076
-Ability in English,EASTERN,Not Competent,50915.577689
-Ability in English,NAIROBI,Competent,5486.832724
-Ability in English,NAIROBI,Not Competent,2333.468458
-Ability in English,NORTH EASTERN,Competent,14877.73939
-Ability in English,NORTH EASTERN,Not Competent,26183.758916
-Ability in English,NYANZA,Competent,50095.411789
-Ability in English,NYANZA,Not Competent,45048.71453
-Ability in English,RIFT VALLEY,Competent,103459.973818
-Ability in English,RIFT VALLEY,Not Competent,119759.607328
-Ability in English,WESTERN,Competent,43128.466641
-Ability in English,WESTERN,Not Competent,48324.658162
-Ability in Mathematics,CENTRAL,Competent,24232.740229
-Ability in Mathematics,CENTRAL,Not Competent,14690.2042
-Ability in Mathematics,COAST,Competent,28565.301246
-Ability in Mathematics,COAST,Not Competent,30171.37733
-Ability in Mathematics,EASTERN,Competent,53918.336887
-Ability in Mathematics,EASTERN,Not Competent,45249.424928
-Ability in Mathematics,NAIROBI,Competent,4789.886321
-Ability in Mathematics,NAIROBI,Not Competent,2799.071048
-Ability in Mathematics,NORTH EASTERN,Competent,13992.477396
-Ability in Mathematics,NORTH EASTERN,Not Competent,25332.175178
-Ability in Mathematics,NYANZA,Competent,52538.551128
-Ability in Mathematics,NYANZA,Not Competent,41637.785101
-Ability in Mathematics,RIFT VALLEY,Competent,107505.764606
-Ability in Mathematics,RIFT VALLEY,Not Competent,112602.021919
-Ability in Mathematics,WESTERN,Competent,45363.199391
-Ability in Mathematics,WESTERN,Not Competent,44725.146242
-Ability in Swahili,CENTRAL,Competent,25793.997917
-Ability in Swahili,CENTRAL,Not Competent,13099.587581
-Ability in Swahili,COAST,Competent,31418.622187
-Ability in Swahili,COAST,Not Competent,27254.821444
-Ability in Swahili,EASTERN,Competent,53283.670731
-Ability in Swahili,EASTERN,Not Competent,45771.804587
-Ability in Swahili,NAIROBI,Competent,5415.409202
-Ability in Swahili,NAIROBI,Not Competent,2226.810338
-Ability in Swahili,NORTH EASTERN,Competent,14666.950923
-Ability in Swahili,NORTH EASTERN,Not Competent,24296.440099
-Ability in Swahili,NYANZA,Competent,52254.567607
-Ability in Swahili,NYANZA,Not Competent,40995.173576
-Ability in Swahili,RIFT VALLEY,Competent,110325.149509
-Ability in Swahili,RIFT VALLEY,Not Competent,108705.067266
-Ability in Swahili,WESTERN,Competent,47385.350771
-Ability in Swahili,WESTERN,Not Competent,42245.031061
-House Wall Material,CENTRAL,Iron sheet,9402.473503
-House Wall Material,CENTRAL,Mud,5381.09486
-House Wall Material,CENTRAL,Polythene,130.73332
-House Wall Material,CENTRAL,Stone/Bricks,31612.972494
-House Wall Material,CENTRAL,Timber,11241.007003
-House Wall Material,COAST,Iron sheet,3321.52723
-House Wall Material,COAST,Mud,57481.161179
-House Wall Material,COAST,Polythene,131.96694
-House Wall Material,COAST,Stone/Bricks,33231.469913
-House Wall Material,COAST,Timber,365.143528
-House Wall Material,EASTERN,Iron sheet,4813.869317
-House Wall Material,EASTERN,Mud,57770.97677
-House Wall Material,EASTERN,Polythene,2647.653666
-House Wall Material,EASTERN,Stone/Bricks,64343.111007
-House Wall Material,EASTERN,Timber,20861.113119
-House Wall Material,NAIROBI,Iron sheet,2763.250979
-House Wall Material,NAIROBI,Mud,900.159089
-House Wall Material,NAIROBI,Polythene,0
-House Wall Material,NAIROBI,Stone/Bricks,9016.299552
-House Wall Material,NAIROBI,Timber,81.016444
-House Wall Material,NORTH EASTERN,Iron sheet,2410.849625
-House Wall Material,NORTH EASTERN,Mud,52350.631542
-House Wall Material,NORTH EASTERN,Polythene,2323.417234
-House Wall Material,NORTH EASTERN,Stone/Bricks,8116.286719
-House Wall Material,NORTH EASTERN,Timber,2221.646888
-House Wall Material,NYANZA,Iron sheet,6077.336516
-House Wall Material,NYANZA,Mud,106271.960449
-House Wall Material,NYANZA,Polythene,37.816564
-House Wall Material,NYANZA,Stone/Bricks,27158.195505
-House Wall Material,NYANZA,Timber,408.71176
-House Wall Material,RIFT VALLEY,Iron sheet,19428.142037
-House Wall Material,RIFT VALLEY,Mud,252221.585997
-House Wall Material,RIFT VALLEY,Polythene,2337.328298
-House Wall Material,RIFT VALLEY,Stone/Bricks,45725.39905
-House Wall Material,RIFT VALLEY,Timber,36459.800519
-House Wall Material,WESTERN,Iron sheet,3901.419881
-House Wall Material,WESTERN,Mud,111565.326691
-House Wall Material,WESTERN,Polythene,277.173309
-House Wall Material,WESTERN,Stone/Bricks,19231.908308
-House Wall Material,WESTERN,Timber,414.134644
-Household Education Level,CENTRAL,None,2557.154026
-Household Education Level,CENTRAL,Post secondary,8213.96938
-Household Education Level,CENTRAL,Some primary,26564.996948
-Household Education Level,CENTRAL,Some secondary,19356.434329
-Household Education Level,COAST,None,30189.38945
-Household Education Level,COAST,Post secondary,4272.538747
-Household Education Level,COAST,Some primary,43659.251291
-Household Education Level,COAST,Some secondary,13150.553723
-Household Education Level,EASTERN,None,43181.172066
-Household Education Level,EASTERN,Post secondary,6021.523296
-Household Education Level,EASTERN,Some primary,77440.480632
-Household Education Level,EASTERN,Some secondary,19136.470475
-Household Education Level,NAIROBI,None,645.274178
-Household Education Level,NAIROBI,Post secondary,2767.08133
-Household Education Level,NAIROBI,Some primary,4530.401429
-Household Education Level,NAIROBI,Some secondary,4773.921081
-Household Education Level,NORTH EASTERN,None,61399.976312
-Household Education Level,NORTH EASTERN,Post secondary,491.713705
-Household Education Level,NORTH EASTERN,Some primary,2116.631745
-Household Education Level,NORTH EASTERN,Some secondary,595.269912
-Household Education Level,NYANZA,None,11060.55097
-Household Education Level,NYANZA,Post secondary,8694.022025
-Household Education Level,NYANZA,Some primary,83928.084625
-Household Education Level,NYANZA,Some secondary,32484.442027
-Household Education Level,RIFT VALLEY,None,118893.87177
-Household Education Level,RIFT VALLEY,Post secondary,24162.844531
-Household Education Level,RIFT VALLEY,Some primary,145708.645565
-Household Education Level,RIFT VALLEY,Some secondary,57680.860836
-Household Education Level,WESTERN,None,11155.767658
-Household Education Level,WESTERN,Post secondary,7464.203766
-Household Education Level,WESTERN,Some primary,80455.43918
-Household Education Level,WESTERN,Some secondary,32296.497329
-Meals Per Day,CENTRAL,1,923.749063
-Meals Per Day,CENTRAL,2,7828.83425
-Meals Per Day,CENTRAL,3,47497.525286
-Meals Per Day,COAST,1,2128.873665
-Meals Per Day,COAST,2,16473.333173
-Meals Per Day,COAST,3,73694.932609
-Meals Per Day,EASTERN,1,6117.923507
-Meals Per Day,EASTERN,2,29831.550936
-Meals Per Day,EASTERN,3,110091.779466
-Meals Per Day,NAIROBI,1,426.284817
-Meals Per Day,NAIROBI,2,2524.516207
-Meals Per Day,NAIROBI,3,9504.795951
-Meals Per Day,NORTH EASTERN,1,712.807662
-Meals Per Day,NORTH EASTERN,2,12426.059506
-Meals Per Day,NORTH EASTERN,3,51113.915603
-Meals Per Day,NYANZA,1,2212.353636
-Meals Per Day,NYANZA,2,17858.742666
-Meals Per Day,NYANZA,3,115653.966027
-Meals Per Day,RIFT VALLEY,1,14157.601932
-Meals Per Day,RIFT VALLEY,2,58027.441047
-Meals Per Day,RIFT VALLEY,3,269850.134254
-Meals Per Day,WESTERN,1,2366.41169
-Meals Per Day,WESTERN,2,23520.018381
-Meals Per Day,WESTERN,3,106062.344363
-Number of Children in Household,CENTRAL,1,10449.386086
-Number of Children in Household,CENTRAL,2,20684.956205
-Number of Children in Household,CENTRAL,3,16328.438659
-Number of Children in Household,CENTRAL,4,6948.160598
-Number of Children in Household,CENTRAL,5,2458.992664
-Number of Children in Household,CENTRAL,6,1075.422251
-Number of Children in Household,CENTRAL,7,309.068883
-Number of Children in Household,CENTRAL,8,173.040575
-Number of Children in Household,CENTRAL,9,19.614561
-Number of Children in Household,CENTRAL,10,0
-Number of Children in Household,CENTRAL,11,0
-Number of Children in Household,CENTRAL,12,0
-Number of Children in Household,CENTRAL,13,0
-Number of Children in Household,CENTRAL,14,0
-Number of Children in Household,CENTRAL,15,0
-Number of Children in Household,COAST,1,7472.248791
-Number of Children in Household,COAST,2,18108.914072
-Number of Children in Household,COAST,3,20205.957197
-Number of Children in Household,COAST,4,18513.191052
-Number of Children in Household,COAST,5,12700.513778
-Number of Children in Household,COAST,6,8419.576807
-Number of Children in Household,COAST,7,5166.298558
-Number of Children in Household,COAST,8,2146.727948
-Number of Children in Household,COAST,9,1543.623145
-Number of Children in Household,COAST,10,627.308821
-Number of Children in Household,COAST,11,131.336014
-Number of Children in Household,COAST,12,172.702796
-Number of Children in Household,COAST,13,153.68471
-Number of Children in Household,COAST,14,58.42784
-Number of Children in Household,COAST,15,212.316985
-Number of Children in Household,EASTERN,1,15301.372153
-Number of Children in Household,EASTERN,2,33457.899137
-Number of Children in Household,EASTERN,3,35597.846594
-Number of Children in Household,EASTERN,4,29721.72417
-Number of Children in Household,EASTERN,5,19039.752466
-Number of Children in Household,EASTERN,6,10040.411243
-Number of Children in Household,EASTERN,7,5401.865976
-Number of Children in Household,EASTERN,8,2290.202156
-Number of Children in Household,EASTERN,9,796.491645
-Number of Children in Household,EASTERN,10,274.249037
-Number of Children in Household,EASTERN,11,44.502252
-Number of Children in Household,EASTERN,12,0
-Number of Children in Household,EASTERN,13,0
-Number of Children in Household,EASTERN,14,0
-Number of Children in Household,EASTERN,15,0
-Number of Children in Household,NAIROBI,1,2533.908586
-Number of Children in Household,NAIROBI,2,4179.614662
-Number of Children in Household,NAIROBI,3,2984.498881
-Number of Children in Household,NAIROBI,4,1801.486903
-Number of Children in Household,NAIROBI,5,869.205379
-Number of Children in Household,NAIROBI,6,298.363667
-Number of Children in Household,NAIROBI,7,210.760146
-Number of Children in Household,NAIROBI,8,0
-Number of Children in Household,NAIROBI,9,0
-Number of Children in Household,NAIROBI,10,0
-Number of Children in Household,NAIROBI,11,0
-Number of Children in Household,NAIROBI,12,16.510223
-Number of Children in Household,NAIROBI,13,0
-Number of Children in Household,NAIROBI,14,0
-Number of Children in Household,NAIROBI,15,0
-Number of Children in Household,NORTH EASTERN,1,1955.223191
-Number of Children in Household,NORTH EASTERN,2,7940.430849
-Number of Children in Household,NORTH EASTERN,3,13219.295757
-Number of Children in Household,NORTH EASTERN,4,14826.632228
-Number of Children in Household,NORTH EASTERN,5,12340.497669
-Number of Children in Household,NORTH EASTERN,6,8890.415706
-Number of Children in Household,NORTH EASTERN,7,4985.103075
-Number of Children in Household,NORTH EASTERN,8,3211.40922
-Number of Children in Household,NORTH EASTERN,9,1210.56973
-Number of Children in Household,NORTH EASTERN,10,567.432739
-Number of Children in Household,NORTH EASTERN,11,66.874792
-Number of Children in Household,NORTH EASTERN,12,0
-Number of Children in Household,NORTH EASTERN,13,0
-Number of Children in Household,NORTH EASTERN,14,0
-Number of Children in Household,NORTH EASTERN,15,0
-Number of Children in Household,NYANZA,1,11399.538332
-Number of Children in Household,NYANZA,2,29392.000197
-Number of Children in Household,NYANZA,3,33895.259538
-Number of Children in Household,NYANZA,4,31478.898816
-Number of Children in Household,NYANZA,5,19071.929113
-Number of Children in Household,NYANZA,6,9204.750949
-Number of Children in Household,NYANZA,7,3991.105577
-Number of Children in Household,NYANZA,8,1497.606899
-Number of Children in Household,NYANZA,9,654.817835
-Number of Children in Household,NYANZA,10,375.034723
-Number of Children in Household,NYANZA,11,0
-Number of Children in Household,NYANZA,12,123.35222
-Number of Children in Household,NYANZA,13,0
-Number of Children in Household,NYANZA,14,0
-Number of Children in Household,NYANZA,15,0
-Number of Children in Household,RIFT VALLEY,1,23232.227456
-Number of Children in Household,RIFT VALLEY,2,62844.319442
-Number of Children in Household,RIFT VALLEY,3,84093.829765
-Number of Children in Household,RIFT VALLEY,4,77828.889968
-Number of Children in Household,RIFT VALLEY,5,52049.987256
-Number of Children in Household,RIFT VALLEY,6,32961.718351
-Number of Children in Household,RIFT VALLEY,7,16417.995291
-Number of Children in Household,RIFT VALLEY,8,7366.882841
-Number of Children in Household,RIFT VALLEY,9,1511.119758
-Number of Children in Household,RIFT VALLEY,10,1352.020471
-Number of Children in Household,RIFT VALLEY,11,444.261851
-Number of Children in Household,RIFT VALLEY,12,254.248953
-Number of Children in Household,RIFT VALLEY,13,0
-Number of Children in Household,RIFT VALLEY,14,84.356304
-Number of Children in Household,RIFT VALLEY,15,160.832735
-Number of Children in Household,WESTERN,1,8157.473353
-Number of Children in Household,WESTERN,2,21475.077929
-Number of Children in Household,WESTERN,3,30194.531368
-Number of Children in Household,WESTERN,4,29629.096064
-Number of Children in Household,WESTERN,5,22460.980867
-Number of Children in Household,WESTERN,6,12534.234
-Number of Children in Household,WESTERN,7,6088.736658
-Number of Children in Household,WESTERN,8,3340.893447
-Number of Children in Household,WESTERN,9,1208.848968
-Number of Children in Household,WESTERN,10,619.147598
-Number of Children in Household,WESTERN,11,215.946968
-Number of Children in Household,WESTERN,12,134.211455
-Number of Children in Household,WESTERN,13,70.460285
-Number of Children in Household,WESTERN,14,0
-Number of Children in Household,WESTERN,15,51.208913
-Number of Females in Household,CENTRAL,1,10368.84276
-Number of Females in Household,CENTRAL,2,22141.45491
-Number of Females in Household,CENTRAL,3,15263.933592
-Number of Females in Household,CENTRAL,4,6146.910843
-Number of Females in Household,CENTRAL,5,2269.725032
-Number of Females in Household,CENTRAL,6,742.622296
-Number of Females in Household,CENTRAL,7,504.122698
-Number of Females in Household,CENTRAL,8,68.580299
-Number of Females in Household,CENTRAL,9,9.53924
-Number of Females in Household,CENTRAL,10,29.827825
-Number of Females in Household,CENTRAL,11,0
-Number of Females in Household,CENTRAL,12,33.974899
-Number of Females in Household,CENTRAL,13,0
-Number of Females in Household,CENTRAL,14,0
-Number of Females in Household,CENTRAL,15,0
-Number of Females in Household,CENTRAL,16,0
-Number of Females in Household,CENTRAL,17,0
-Number of Females in Household,CENTRAL,19,0
-Number of Females in Household,CENTRAL,20,0
-Number of Females in Household,CENTRAL,21,0
-Number of Females in Household,CENTRAL,22,3.38271
-Number of Females in Household,CENTRAL,23,0
-Number of Females in Household,CENTRAL,24,17.760557
-Number of Females in Household,CENTRAL,25,9.05624
-Number of Females in Household,COAST,1,9384.118979
-Number of Females in Household,COAST,2,21501.314277
-Number of Females in Household,COAST,3,23604.398598
-Number of Females in Household,COAST,4,16350.291179
-Number of Females in Household,COAST,5,10424.727706
-Number of Females in Household,COAST,6,5932.750418
-Number of Females in Household,COAST,7,3193.441926
-Number of Females in Household,COAST,8,1182.686666
-Number of Females in Household,COAST,9,801.38683
-Number of Females in Household,COAST,10,656.848424
-Number of Females in Household,COAST,11,200.057564
-Number of Females in Household,COAST,12,201.330874
-Number of Females in Household,COAST,13,0
-Number of Females in Household,COAST,14,110.641573
-Number of Females in Household,COAST,15,79.031495
-Number of Females in Household,COAST,16,0
-Number of Females in Household,COAST,17,0
-Number of Females in Household,COAST,19,0
-Number of Females in Household,COAST,20,35.122825
-Number of Females in Household,COAST,21,0
-Number of Females in Household,COAST,22,0
-Number of Females in Household,COAST,23,4.451646
-Number of Females in Household,COAST,24,0
-Number of Females in Household,COAST,25,0
-Number of Females in Household,EASTERN,1,17316.833668
-Number of Females in Household,EASTERN,2,40018.433905
-Number of Females in Household,EASTERN,3,40579.355618
-Number of Females in Household,EASTERN,4,25681.046816
-Number of Females in Household,EASTERN,5,13416.007336
-Number of Females in Household,EASTERN,6,6988.677514
-Number of Females in Household,EASTERN,7,3210.728565
-Number of Females in Household,EASTERN,8,1270.243502
-Number of Females in Household,EASTERN,9,363.824207
-Number of Females in Household,EASTERN,10,54.185412
-Number of Females in Household,EASTERN,11,62.942701
-Number of Females in Household,EASTERN,12,81.389306
-Number of Females in Household,EASTERN,13,50.570741
-Number of Females in Household,EASTERN,14,0
-Number of Females in Household,EASTERN,15,0
-Number of Females in Household,EASTERN,16,0
-Number of Females in Household,EASTERN,17,25.087732
-Number of Females in Household,EASTERN,19,0
-Number of Females in Household,EASTERN,20,0
-Number of Females in Household,EASTERN,21,15.969709
-Number of Females in Household,EASTERN,22,0
-Number of Females in Household,EASTERN,23,0
-Number of Females in Household,EASTERN,24,12.775765
-Number of Females in Household,EASTERN,25,7.083594
-Number of Females in Household,NAIROBI,1,2004.838161
-Number of Females in Household,NAIROBI,2,4013.941554
-Number of Females in Household,NAIROBI,3,3766.814424
-Number of Females in Household,NAIROBI,4,1688.075501
-Number of Females in Household,NAIROBI,5,891.027521
-Number of Females in Household,NAIROBI,6,253.785025
-Number of Females in Household,NAIROBI,7,124.445433
-Number of Females in Household,NAIROBI,8,8.044004
-Number of Females in Household,NAIROBI,9,0
-Number of Females in Household,NAIROBI,10,33.708379
-Number of Females in Household,NAIROBI,11,0
-Number of Females in Household,NAIROBI,12,0
-Number of Females in Household,NAIROBI,13,0
-Number of Females in Household,NAIROBI,14,0
-Number of Females in Household,NAIROBI,15,0
-Number of Females in Household,NAIROBI,16,16.510223
-Number of Females in Household,NAIROBI,17,0
-Number of Females in Household,NAIROBI,19,0
-Number of Females in Household,NAIROBI,20,0
-Number of Females in Household,NAIROBI,21,0
-Number of Females in Household,NAIROBI,22,0
-Number of Females in Household,NAIROBI,23,0
-Number of Females in Household,NAIROBI,24,0
-Number of Females in Household,NAIROBI,25,0
-Number of Females in Household,NORTH EASTERN,1,6313.339167
-Number of Females in Household,NORTH EASTERN,2,18284.162383
-Number of Females in Household,NORTH EASTERN,3,18368.243452
-Number of Females in Household,NORTH EASTERN,4,12756.368536
-Number of Females in Household,NORTH EASTERN,5,6137.819084
-Number of Females in Household,NORTH EASTERN,6,2986.76705
-Number of Females in Household,NORTH EASTERN,7,1514.009758
-Number of Females in Household,NORTH EASTERN,8,488.353825
-Number of Females in Household,NORTH EASTERN,9,242.052084
-Number of Females in Household,NORTH EASTERN,10,129.42469
-Number of Females in Household,NORTH EASTERN,11,3.303797
-Number of Females in Household,NORTH EASTERN,12,50.82048
-Number of Females in Household,NORTH EASTERN,13,27.100109
-Number of Females in Household,NORTH EASTERN,14,0
-Number of Females in Household,NORTH EASTERN,15,15.039344
-Number of Females in Household,NORTH EASTERN,16,0
-Number of Females in Household,NORTH EASTERN,17,0
-Number of Females in Household,NORTH EASTERN,19,0
-Number of Females in Household,NORTH EASTERN,20,0
-Number of Females in Household,NORTH EASTERN,21,0
-Number of Females in Household,NORTH EASTERN,22,0
-Number of Females in Household,NORTH EASTERN,23,0
-Number of Females in Household,NORTH EASTERN,24,0
-Number of Females in Household,NORTH EASTERN,25,3.207419
-Number of Females in Household,NYANZA,1,15108.260977
-Number of Females in Household,NYANZA,2,38073.388434
-Number of Females in Household,NYANZA,3,37389.920672
-Number of Females in Household,NYANZA,4,25599.108968
-Number of Females in Household,NYANZA,5,12362.744863
-Number of Females in Household,NYANZA,6,6348.004688
-Number of Females in Household,NYANZA,7,2312.758999
-Number of Females in Household,NYANZA,8,1213.575452
-Number of Females in Household,NYANZA,9,350.249991
-Number of Females in Household,NYANZA,10,157.327301
-Number of Females in Household,NYANZA,11,0
-Number of Females in Household,NYANZA,12,0
-Number of Females in Household,NYANZA,13,31.370619
-Number of Females in Household,NYANZA,14,60.65744
-Number of Females in Household,NYANZA,15,0
-Number of Females in Household,NYANZA,16,0
-Number of Females in Household,NYANZA,17,0
-Number of Females in Household,NYANZA,19,0
-Number of Females in Household,NYANZA,20,0
-Number of Females in Household,NYANZA,21,22.287947
-Number of Females in Household,NYANZA,22,0
-Number of Females in Household,NYANZA,23,0
-Number of Females in Household,NYANZA,24,0
-Number of Females in Household,NYANZA,25,0
-Number of Females in Household,RIFT VALLEY,1,33712.150388
-Number of Females in Household,RIFT VALLEY,2,90109.408158
-Number of Females in Household,RIFT VALLEY,3,96064.782594
-Number of Females in Household,RIFT VALLEY,4,69199.575214
-Number of Females in Household,RIFT VALLEY,5,36054.606616
-Number of Females in Household,RIFT VALLEY,6,16576.49417
-Number of Females in Household,RIFT VALLEY,7,6317.839591
-Number of Females in Household,RIFT VALLEY,8,2720.439603
-Number of Females in Household,RIFT VALLEY,9,1269.31142
-Number of Females in Household,RIFT VALLEY,10,765.136958
-Number of Females in Household,RIFT VALLEY,11,342.157965
-Number of Females in Household,RIFT VALLEY,12,135.139266
-Number of Females in Household,RIFT VALLEY,13,35.772149
-Number of Females in Household,RIFT VALLEY,14,54.070973
-Number of Females in Household,RIFT VALLEY,15,0
-Number of Females in Household,RIFT VALLEY,16,2.948145
-Number of Females in Household,RIFT VALLEY,17,0
-Number of Females in Household,RIFT VALLEY,19,28.191473
-Number of Females in Household,RIFT VALLEY,20,0
-Number of Females in Household,RIFT VALLEY,21,0
-Number of Females in Household,RIFT VALLEY,22,0
-Number of Females in Household,RIFT VALLEY,23,49.683516
-Number of Females in Household,RIFT VALLEY,24,0
-Number of Females in Household,RIFT VALLEY,25,12.548642
-Number of Females in Household,WESTERN,1,11773.036436
-Number of Females in Household,WESTERN,2,28475.156542
-Number of Females in Household,WESTERN,3,34812.960774
-Number of Females in Household,WESTERN,4,27295.579304
-Number of Females in Household,WESTERN,5,16199.869705
-Number of Females in Household,WESTERN,6,7949.408616
-Number of Females in Household,WESTERN,7,4423.714542
-Number of Females in Household,WESTERN,8,1562.643365
-Number of Females in Household,WESTERN,9,803.767852
-Number of Females in Household,WESTERN,10,300.045979
-Number of Females in Household,WESTERN,11,121.795313
-Number of Females in Household,WESTERN,12,36.133483
-Number of Females in Household,WESTERN,13,11.743384
-Number of Females in Household,WESTERN,14,0
-Number of Females in Household,WESTERN,15,36.609721
-Number of Females in Household,WESTERN,16,34.730242
-Number of Females in Household,WESTERN,17,0
-Number of Females in Household,WESTERN,19,0
-Number of Females in Household,WESTERN,20,13.946257
-Number of Females in Household,WESTERN,21,3.914461
-Number of Females in Household,WESTERN,22,2.722386
-Number of Females in Household,WESTERN,23,6.151295
-Number of Females in Household,WESTERN,24,11.442269
-Number of Females in Household,WESTERN,25,0
-Number of Males in Household,CENTRAL,1,12546.088426
-Number of Males in Household,CENTRAL,2,20072.331187
-Number of Males in Household,CENTRAL,3,14088.266049
-Number of Males in Household,CENTRAL,4,5911.929111
-Number of Males in Household,CENTRAL,5,1895.329152
-Number of Males in Household,CENTRAL,6,664.247475
-Number of Males in Household,CENTRAL,7,214.931273
-Number of Males in Household,CENTRAL,8,94.645164
-Number of Males in Household,CENTRAL,9,45.165658
-Number of Males in Household,CENTRAL,10,0
-Number of Males in Household,CENTRAL,11,24.429732
-Number of Males in Household,CENTRAL,12,6.955694
-Number of Males in Household,CENTRAL,13,0
-Number of Males in Household,CENTRAL,14,0
-Number of Males in Household,CENTRAL,15,0
-Number of Males in Household,CENTRAL,16,0
-Number of Males in Household,CENTRAL,21,0
-Number of Males in Household,CENTRAL,22,2.555154
-Number of Males in Household,CENTRAL,23,37.699099
-Number of Males in Household,CENTRAL,25,5.536167
-Number of Males in Household,COAST,1,10532.683101
-Number of Males in Household,COAST,2,22086.816574
-Number of Males in Household,COAST,3,22968.830929
-Number of Males in Household,COAST,4,16501.045522
-Number of Males in Household,COAST,5,10148.355723
-Number of Males in Household,COAST,6,4932.16275
-Number of Males in Household,COAST,7,2073.350018
-Number of Males in Household,COAST,8,1393.811878
-Number of Males in Household,COAST,9,989.208711
-Number of Males in Household,COAST,10,296.726796
-Number of Males in Household,COAST,11,182.551827
-Number of Males in Household,COAST,12,92.265079
-Number of Males in Household,COAST,13,81.63878
-Number of Males in Household,COAST,14,33.056774
-Number of Males in Household,COAST,15,123.71101
-Number of Males in Household,COAST,16,97.104272
-Number of Males in Household,COAST,21,0
-Number of Males in Household,COAST,22,0
-Number of Males in Household,COAST,23,0
-Number of Males in Household,COAST,25,0
-Number of Males in Household,EASTERN,1,22298.311531
-Number of Males in Household,EASTERN,2,41114.806075
-Number of Males in Household,EASTERN,3,38701.237188
-Number of Males in Household,EASTERN,4,22488.251184
-Number of Males in Household,EASTERN,5,12166.098264
-Number of Males in Household,EASTERN,6,5465.043447
-Number of Males in Household,EASTERN,7,1944.442868
-Number of Males in Household,EASTERN,8,802.560732
-Number of Males in Household,EASTERN,9,296.16845
-Number of Males in Household,EASTERN,10,152.930179
-Number of Males in Household,EASTERN,11,10.557756
-Number of Males in Household,EASTERN,12,57.319086
-Number of Males in Household,EASTERN,13,0
-Number of Males in Household,EASTERN,14,0
-Number of Males in Household,EASTERN,15,0
-Number of Males in Household,EASTERN,16,0
-Number of Males in Household,EASTERN,21,0
-Number of Males in Household,EASTERN,22,0
-Number of Males in Household,EASTERN,23,32.227163
-Number of Males in Household,EASTERN,25,0
-Number of Males in Household,NAIROBI,1,2771.256424
-Number of Males in Household,NAIROBI,2,4622.520086
-Number of Males in Household,NAIROBI,3,2983.73494
-Number of Males in Household,NAIROBI,4,1425.591203
-Number of Males in Household,NAIROBI,5,301.604092
-Number of Males in Household,NAIROBI,6,147.965962
-Number of Males in Household,NAIROBI,7,107.694999
-Number of Males in Household,NAIROBI,8,16.510223
-Number of Males in Household,NAIROBI,9,0
-Number of Males in Household,NAIROBI,10,0
-Number of Males in Household,NAIROBI,11,0
-Number of Males in Household,NAIROBI,12,0
-Number of Males in Household,NAIROBI,13,0
-Number of Males in Household,NAIROBI,14,0
-Number of Males in Household,NAIROBI,15,0
-Number of Males in Household,NAIROBI,16,0
-Number of Males in Household,NAIROBI,21,0
-Number of Males in Household,NAIROBI,22,0
-Number of Males in Household,NAIROBI,23,0
-Number of Males in Household,NAIROBI,25,0
-Number of Males in Household,NORTH EASTERN,1,4820.063902
-Number of Males in Household,NORTH EASTERN,2,14956.521741
-Number of Males in Household,NORTH EASTERN,3,18660.881112
-Number of Males in Household,NORTH EASTERN,4,13743.609539
-Number of Males in Household,NORTH EASTERN,5,8166.728848
-Number of Males in Household,NORTH EASTERN,6,3992.259901
-Number of Males in Household,NORTH EASTERN,7,1948.185648
-Number of Males in Household,NORTH EASTERN,8,458.548491
-Number of Males in Household,NORTH EASTERN,9,185.245152
-Number of Males in Household,NORTH EASTERN,10,298.80921
-Number of Males in Household,NORTH EASTERN,11,7.776556
-Number of Males in Household,NORTH EASTERN,12,0
-Number of Males in Household,NORTH EASTERN,13,23.126582
-Number of Males in Household,NORTH EASTERN,14,0
-Number of Males in Household,NORTH EASTERN,15,0
-Number of Males in Household,NORTH EASTERN,16,0
-Number of Males in Household,NORTH EASTERN,21,0
-Number of Males in Household,NORTH EASTERN,22,0
-Number of Males in Household,NORTH EASTERN,23,0
-Number of Males in Household,NORTH EASTERN,25,0
-Number of Males in Household,NYANZA,1,17902.518811
-Number of Males in Household,NYANZA,2,38121.322911
-Number of Males in Household,NYANZA,3,38169.371952
-Number of Males in Household,NYANZA,4,22907.488152
-Number of Males in Household,NYANZA,5,11203.408046
-Number of Males in Household,NYANZA,6,4964.109073
-Number of Males in Household,NYANZA,7,2121.091945
-Number of Males in Household,NYANZA,8,617.232661
-Number of Males in Household,NYANZA,9,493.164356
-Number of Males in Household,NYANZA,10,100.524199
-Number of Males in Household,NYANZA,11,31.563664
-Number of Males in Household,NYANZA,12,33.368879
-Number of Males in Household,NYANZA,13,0
-Number of Males in Household,NYANZA,14,0
-Number of Males in Household,NYANZA,15,0
-Number of Males in Household,NYANZA,16,0
-Number of Males in Household,NYANZA,21,0
-Number of Males in Household,NYANZA,22,0
-Number of Males in Household,NYANZA,23,0
-Number of Males in Household,NYANZA,25,0
-Number of Males in Household,RIFT VALLEY,1,39328.707603
-Number of Males in Household,RIFT VALLEY,2,88553.371089
-Number of Males in Household,RIFT VALLEY,3,94184.932986
-Number of Males in Household,RIFT VALLEY,4,65272.60544
-Number of Males in Household,RIFT VALLEY,5,35343.103677
-Number of Males in Household,RIFT VALLEY,6,15772.233279
-Number of Males in Household,RIFT VALLEY,7,5832.601097
-Number of Males in Household,RIFT VALLEY,8,2866.779546
-Number of Males in Household,RIFT VALLEY,9,1144.660513
-Number of Males in Household,RIFT VALLEY,10,562.806633
-Number of Males in Household,RIFT VALLEY,11,276.974392
-Number of Males in Household,RIFT VALLEY,12,173.787852
-Number of Males in Household,RIFT VALLEY,13,6.342582
-Number of Males in Household,RIFT VALLEY,14,19.930204
-Number of Males in Household,RIFT VALLEY,15,0
-Number of Males in Household,RIFT VALLEY,16,0
-Number of Males in Household,RIFT VALLEY,21,0
-Number of Males in Household,RIFT VALLEY,22,0
-Number of Males in Household,RIFT VALLEY,23,5.024179
-Number of Males in Household,RIFT VALLEY,25,0
-Number of Males in Household,WESTERN,1,13986.067664
-Number of Males in Household,WESTERN,2,31129.988693
-Number of Males in Household,WESTERN,3,34723.171701
-Number of Males in Household,WESTERN,4,25075.732654
-Number of Males in Household,WESTERN,5,14394.989805
-Number of Males in Household,WESTERN,6,7357.512941
-Number of Males in Household,WESTERN,7,3691.989483
-Number of Males in Household,WESTERN,8,1145.452169
-Number of Males in Household,WESTERN,9,348.165949
-Number of Males in Household,WESTERN,10,566.464793
-Number of Males in Household,WESTERN,11,26.414036
-Number of Males in Household,WESTERN,12,37.668452
-Number of Males in Household,WESTERN,13,13.946257
-Number of Males in Household,WESTERN,14,0
-Number of Males in Household,WESTERN,15,0
-Number of Males in Household,WESTERN,16,17.41715
-Number of Males in Household,WESTERN,21,3.312237
-Number of Males in Household,WESTERN,22,4.731766
-Number of Males in Household,WESTERN,23,0
-Number of Males in Household,WESTERN,25,0
-Type of Lighting,CENTRAL,Electricity,33243.013794
-Type of Lighting,CENTRAL,Gas,144.046243
-Type of Lighting,CENTRAL,Other,1840.618365
-Type of Lighting,CENTRAL,Paraffin,19226.749538
-Type of Lighting,CENTRAL,Solar,3992.652542
-Type of Lighting,COAST,Electricity,18885.154027
-Type of Lighting,COAST,Gas,101.469139
-Type of Lighting,COAST,Other,4166.738573
-Type of Lighting,COAST,Paraffin,63047.595288
-Type of Lighting,COAST,Solar,9431.871487
-Type of Lighting,EASTERN,Electricity,12549.992073
-Type of Lighting,EASTERN,Gas,886.786647
-Type of Lighting,EASTERN,Other,23474.906323
-Type of Lighting,EASTERN,Paraffin,91824.728475
-Type of Lighting,EASTERN,Solar,23229.90331
-Type of Lighting,NAIROBI,Electricity,11130.758918
-Type of Lighting,NAIROBI,Gas,0
-Type of Lighting,NAIROBI,Other,554.92074
-Type of Lighting,NAIROBI,Paraffin,1075.32533
-Type of Lighting,NAIROBI,Solar,133.34346
-Type of Lighting,NORTH EASTERN,Electricity,4523.974597
-Type of Lighting,NORTH EASTERN,Gas,5989.979638
-Type of Lighting,NORTH EASTERN,Other,29317.185625
-Type of Lighting,NORTH EASTERN,Paraffin,22640.033623
-Type of Lighting,NORTH EASTERN,Solar,6742.711472
-Type of Lighting,NYANZA,Electricity,19002.330834
-Type of Lighting,NYANZA,Gas,249.849368
-Type of Lighting,NYANZA,Other,2739.769028
-Type of Lighting,NYANZA,Paraffin,94660.709383
-Type of Lighting,NYANZA,Solar,24431.635586
-Type of Lighting,RIFT VALLEY,Electricity,42110.303806
-Type of Lighting,RIFT VALLEY,Gas,529.88529
-Type of Lighting,RIFT VALLEY,Other,77628.132948
-Type of Lighting,RIFT VALLEY,Paraffin,154379.145148
-Type of Lighting,RIFT VALLEY,Solar,85955.223251
-Type of Lighting,WESTERN,Electricity,11644.817183
-Type of Lighting,WESTERN,Gas,254.207737
-Type of Lighting,WESTERN,Other,2715.346533
-Type of Lighting,WESTERN,Paraffin,97773.920143
-Type of Lighting,WESTERN,Solar,23792.556278
+Ability in English,CENTRAL,Competent,41.310543
+Ability in English,CENTRAL,Not Competent,24.950559
+Ability in English,COAST,Competent,57.844474
+Ability in English,COAST,Not Competent,76.685400
+Ability in English,EASTERN,Competent,126.656662
+Ability in English,EASTERN,Not Competent,149.201384
+Ability in English,NAIROBI,Competent,1.297583
+Ability in English,NAIROBI,Not Competent,0.549300
+Ability in English,NORTH EASTERN,Competent,75.586196
+Ability in English,NORTH EASTERN,Not Competent,125.495015
+Ability in English,NYANZA,Competent,105.761981
+Ability in English,NYANZA,Not Competent,103.755006
+Ability in English,RIFT VALLEY,Competent,244.767601
+Ability in English,RIFT VALLEY,Not Competent,311.147563
+Ability in English,WESTERN,Competent,120.470427
+Ability in English,WESTERN,Not Competent,131.754110
+Ability in Mathematics,CENTRAL,Competent,40.884541
+Ability in Mathematics,CENTRAL,Not Competent,24.874958
+Ability in Mathematics,COAST,Competent,60.664664
+Ability in Mathematics,COAST,Not Competent,71.472575
+Ability in Mathematics,EASTERN,Competent,132.933485
+Ability in Mathematics,EASTERN,Not Competent,137.536088
+Ability in Mathematics,NAIROBI,Competent,1.141137
+Ability in Mathematics,NAIROBI,Not Competent,0.658916
+Ability in Mathematics,NORTH EASTERN,Competent,73.308596
+Ability in Mathematics,NORTH EASTERN,Not Competent,118.966618
+Ability in Mathematics,NYANZA,Competent,113.915711
+Ability in Mathematics,NYANZA,Not Competent,92.556685
+Ability in Mathematics,RIFT VALLEY,Competent,252.058672
+Ability in Mathematics,RIFT VALLEY,Not Competent,295.176927
+Ability in Mathematics,WESTERN,Competent,125.085360
+Ability in Mathematics,WESTERN,Not Competent,122.794779
+Ability in Swahili,CENTRAL,Competent,42.634926
+Ability in Swahili,CENTRAL,Not Competent,23.011621
+Ability in Swahili,COAST,Competent,67.529443
+Ability in Swahili,COAST,Not Competent,64.495205
+Ability in Swahili,EASTERN,Competent,134.366505
+Ability in Swahili,EASTERN,Not Competent,135.636475
+Ability in Swahili,NAIROBI,Competent,1.280365
+Ability in Swahili,NAIROBI,Not Competent,0.523502
+Ability in Swahili,NORTH EASTERN,Competent,75.167033
+Ability in Swahili,NORTH EASTERN,Not Competent,116.640328
+Ability in Swahili,NYANZA,Competent,112.281517
+Ability in Swahili,NYANZA,Not Competent,92.098742
+Ability in Swahili,RIFT VALLEY,Competent,261.059446
+Ability in Swahili,RIFT VALLEY,Not Competent,284.268941
+Ability in Swahili,WESTERN,Competent,131.660351
+Ability in Swahili,WESTERN,Not Competent,115.256537
+House Wall Material,CENTRAL,Iron sheet,17.998092
+House Wall Material,CENTRAL,Mud,9.680261
+House Wall Material,CENTRAL,Polythene,0.206601
+House Wall Material,CENTRAL,Stone/Bricks,47.993054
+House Wall Material,CENTRAL,Timber,20.217482
+House Wall Material,COAST,Iron sheet,8.433788
+House Wall Material,COAST,Mud,148.810262
+House Wall Material,COAST,Polythene,0.374962
+House Wall Material,COAST,Stone/Bricks,54.665827
+House Wall Material,COAST,Timber,0.722176
+House Wall Material,EASTERN,Iron sheet,18.918414
+House Wall Material,EASTERN,Mud,223.248508
+House Wall Material,EASTERN,Polythene,14.387571
+House Wall Material,EASTERN,Stone/Bricks,126.813435
+House Wall Material,EASTERN,Timber,46.362386
+House Wall Material,NAIROBI,Iron sheet,0.718922
+House Wall Material,NAIROBI,Mud,0.307560
+House Wall Material,NAIROBI,Polythene,0.0
+House Wall Material,NAIROBI,Stone/Bricks,2.001962
+House Wall Material,NAIROBI,Timber,0.020193
+House Wall Material,NORTH EASTERN,Iron sheet,13.428341
+House Wall Material,NORTH EASTERN,Mud,272.293056
+House Wall Material,NORTH EASTERN,Polythene,11.281094
+House Wall Material,NORTH EASTERN,Stone/Bricks,35.884420
+House Wall Material,NORTH EASTERN,Timber,8.473860
+House Wall Material,NYANZA,Iron sheet,11.240341
+House Wall Material,NYANZA,Mud,247.236469
+House Wall Material,NYANZA,Polythene,0.083794
+House Wall Material,NYANZA,Stone/Bricks,56.129733
+House Wall Material,NYANZA,Timber,1.274611
+House Wall Material,RIFT VALLEY,Iron sheet,43.549989
+House Wall Material,RIFT VALLEY,Mud,647.612037
+House Wall Material,RIFT VALLEY,Polythene,7.256577
+House Wall Material,RIFT VALLEY,Stone/Bricks,98.185500
+House Wall Material,RIFT VALLEY,Timber,95.047085
+House Wall Material,WESTERN,Iron sheet,11.541858
+House Wall Material,WESTERN,Mud,306.831247
+House Wall Material,WESTERN,Polythene,0.714962
+House Wall Material,WESTERN,Stone/Bricks,51.966797
+House Wall Material,WESTERN,Timber,1.016569
+Household Education Level,CENTRAL,None,4.771335
+Household Education Level,CENTRAL,Post secondary,10.667149
+Household Education Level,CENTRAL,Some primary,48.496746
+Household Education Level,CENTRAL,Some secondary,30.552054
+Household Education Level,COAST,None,72.533368
+Household Education Level,COAST,Post secondary,8.706846
+Household Education Level,COAST,Some primary,98.077844
+Household Education Level,COAST,Some secondary,26.208846
+Household Education Level,EASTERN,None,192.967378
+Household Education Level,EASTERN,Post secondary,14.632319
+Household Education Level,EASTERN,Some primary,162.743680
+Household Education Level,EASTERN,Some secondary,41.674527
+Household Education Level,NAIROBI,None,0.141660
+Household Education Level,NAIROBI,Post secondary,0.664801
+Household Education Level,NAIROBI,Some primary,1.066274
+Household Education Level,NAIROBI,Some secondary,1.165519
+Household Education Level,NORTH EASTERN,None,309.702347
+Household Education Level,NORTH EASTERN,Post secondary,2.134915
+Household Education Level,NORTH EASTERN,Some primary,11.197312
+Household Education Level,NORTH EASTERN,Some secondary,3.051110
+Household Education Level,NYANZA,None,26.311188
+Household Education Level,NYANZA,Post secondary,19.412089
+Household Education Level,NYANZA,Some primary,191.279605
+Household Education Level,NYANZA,Some secondary,70.405831
+Household Education Level,RIFT VALLEY,None,361.048062
+Household Education Level,RIFT VALLEY,Post secondary,54.836685
+Household Education Level,RIFT VALLEY,Some primary,327.289764
+Household Education Level,RIFT VALLEY,Some secondary,114.807023
+Household Education Level,WESTERN,None,34.120484
+Household Education Level,WESTERN,Post secondary,19.916572
+Household Education Level,WESTERN,Some primary,222.422254
+Household Education Level,WESTERN,Some secondary,84.759206
+Meals Per Day,CENTRAL,1,1.708874
+Meals Per Day,CENTRAL,2,11.883638
+Meals Per Day,CENTRAL,3,80.251236
+Meals Per Day,COAST,1,5.107413
+Meals Per Day,COAST,2,39.507144
+Meals Per Day,COAST,3,163.587936
+Meals Per Day,EASTERN,1,22.055574
+Meals Per Day,EASTERN,2,112.188923
+Meals Per Day,EASTERN,3,280.184253
+Meals Per Day,NAIROBI,1,0.083586
+Meals Per Day,NAIROBI,2,0.577289
+Meals Per Day,NAIROBI,3,2.315362
+Meals Per Day,NORTH EASTERN,1,4.938884
+Meals Per Day,NORTH EASTERN,2,68.685437
+Meals Per Day,NORTH EASTERN,3,250.560693
+Meals Per Day,NYANZA,1,4.973226
+Meals Per Day,NYANZA,2,33.514368
+Meals Per Day,NYANZA,3,268.680576
+Meals Per Day,RIFT VALLEY,1,35.931558
+Meals Per Day,RIFT VALLEY,2,160.476368
+Meals Per Day,RIFT VALLEY,3,657.319614
+Meals Per Day,WESTERN,1,6.600091
+Meals Per Day,WESTERN,2,74.850926
+Meals Per Day,WESTERN,3,281.831729
+Number of Children in Household,CENTRAL,0-2 people,48.983281
+Number of Children in Household,CENTRAL,3-4 people,40.671418
+Number of Children in Household,CENTRAL,5+ people,7.822639
+Number of Children in Household,COAST,0-2 people,51.428073
+Number of Children in Household,COAST,3-4 people,85.962686
+Number of Children in Household,COAST,5+ people,78.594990
+Number of Children in Household,EASTERN,0-2 people,127.771766
+Number of Children in Household,EASTERN,3-4 people,186.171232
+Number of Children in Household,EASTERN,5+ people,120.211380
+Number of Children in Household,NAIROBI,0-2 people,1.635881
+Number of Children in Household,NAIROBI,3-4 people,1.135017
+Number of Children in Household,NAIROBI,5+ people,0.310646
+Number of Children in Household,NORTH EASTERN,0-2 people,53.449809
+Number of Children in Household,NORTH EASTERN,3-4 people,147.360307
+Number of Children in Household,NORTH EASTERN,5+ people,150.117414
+Number of Children in Household,NYANZA,0-2 people,89.954680
+Number of Children in Household,NYANZA,3-4 people,145.990219
+Number of Children in Household,NYANZA,5+ people,82.595184
+Number of Children in Household,RIFT VALLEY,0-2 people,204.898573
+Number of Children in Household,RIFT VALLEY,3-4 people,412.574177
+Number of Children in Household,RIFT VALLEY,5+ people,285.491360
+Number of Children in Household,WESTERN,0-2 people,84.623885
+Number of Children in Household,WESTERN,3-4 people,167.185586
+Number of Children in Household,WESTERN,5+ people,122.224807
+Number of Females in Household,CENTRAL,0-2 people,50.577236
+Number of Females in Household,CENTRAL,3-4 people,37.981870
+Number of Females in Household,CENTRAL,5+ people,7.442683
+Number of Females in Household,COAST,0-2 people,65.908179
+Number of Females in Household,COAST,3-4 people,91.285541
+Number of Females in Household,COAST,5+ people,53.654893
+Number of Females in Household,EASTERN,0-2 people,161.037062
+Number of Females in Household,EASTERN,3-4 people,189.793625
+Number of Females in Household,EASTERN,5+ people,73.557410
+Number of Females in Household,NAIROBI,0-2 people,1.470425
+Number of Females in Household,NAIROBI,3-4 people,1.285430
+Number of Females in Household,NAIROBI,5+ people,0.298842
+Number of Females in Household,NORTH EASTERN,0-2 people,126.946534
+Number of Females in Household,NORTH EASTERN,3-4 people,156.115086
+Number of Females in Household,NORTH EASTERN,5+ people,55.799272
+Number of Females in Household,NYANZA,0-2 people,116.764943
+Number of Females in Household,NYANZA,3-4 people,142.090056
+Number of Females in Household,NYANZA,5+ people,54.700117
+Number of Females in Household,RIFT VALLEY,0-2 people,319.772574
+Number of Females in Household,RIFT VALLEY,3-4 people,411.054754
+Number of Females in Household,RIFT VALLEY,5+ people,150.732315
+Number of Females in Household,WESTERN,0-2 people,113.261554
+Number of Females in Household,WESTERN,3-4 people,172.155580
+Number of Females in Household,WESTERN,5+ people,82.823303
+Number of Males in Household,CENTRAL,0-2 people,51.707573
+Number of Males in Household,CENTRAL,3-4 people,35.042328
+Number of Males in Household,CENTRAL,5+ people,6.339980
+Number of Males in Household,COAST,0-2 people,68.786569
+Number of Males in Household,COAST,3-4 people,90.839409
+Number of Males in Household,COAST,5+ people,48.926492
+Number of Males in Household,EASTERN,0-2 people,174.461477
+Number of Males in Household,EASTERN,3-4 people,175.750685
+Number of Males in Household,EASTERN,5+ people,65.116254
+Number of Males in Household,NAIROBI,0-2 people,1.826375
+Number of Males in Household,NAIROBI,3-4 people,0.994812
+Number of Males in Household,NAIROBI,5+ people,0.132030
+Number of Males in Household,NORTH EASTERN,0-2 people,102.247590
+Number of Males in Household,NORTH EASTERN,3-4 people,164.791066
+Number of Males in Household,NORTH EASTERN,5+ people,72.943314
+Number of Males in Household,NYANZA,0-2 people,124.778456
+Number of Males in Household,NYANZA,3-4 people,138.195212
+Number of Males in Household,NYANZA,5+ people,45.968908
+Number of Males in Household,RIFT VALLEY,0-2 people,324.245298
+Number of Males in Household,RIFT VALLEY,3-4 people,395.799807
+Number of Males in Household,RIFT VALLEY,5+ people,151.758585
+Number of Males in Household,WESTERN,0-2 people,126.935188
+Number of Males in Household,WESTERN,3-4 people,165.415022
+Number of Males in Household,WESTERN,5+ people,71.560814
+Type of Lighting,CENTRAL,Electricity,48.352162
+Type of Lighting,CENTRAL,Gas,0.205205
+Type of Lighting,CENTRAL,Other,3.304897
+Type of Lighting,CENTRAL,Paraffin,38.164285
+Type of Lighting,CENTRAL,Solar,7.450788
+Type of Lighting,COAST,Electricity,27.195574
+Type of Lighting,COAST,Gas,0.240563
+Type of Lighting,COAST,Other,8.913125
+Type of Lighting,COAST,Paraffin,153.292329
+Type of Lighting,COAST,Solar,26.344159
+Type of Lighting,EASTERN,Electricity,41.234579
+Type of Lighting,EASTERN,Gas,6.090087
+Type of Lighting,EASTERN,Other,105.846615
+Type of Lighting,EASTERN,Paraffin,223.490880
+Type of Lighting,EASTERN,Solar,57.492217
+Type of Lighting,NAIROBI,Electricity,2.683430
+Type of Lighting,NAIROBI,Gas,0.0
+Type of Lighting,NAIROBI,Other,0.121546
+Type of Lighting,NAIROBI,Paraffin,0.245043
+Type of Lighting,NAIROBI,Solar,0.031525
+Type of Lighting,NORTH EASTERN,Electricity,20.689106
+Type of Lighting,NORTH EASTERN,Gas,29.016044
+Type of Lighting,NORTH EASTERN,Other,143.573928
+Type of Lighting,NORTH EASTERN,Paraffin,112.284274
+Type of Lighting,NORTH EASTERN,Solar,45.364178
+Type of Lighting,NYANZA,Electricity,35.081223
+Type of Lighting,NYANZA,Gas,0.571280
+Type of Lighting,NYANZA,Other,5.598004
+Type of Lighting,NYANZA,Paraffin,222.873743
+Type of Lighting,NYANZA,Solar,54.415833
+Type of Lighting,RIFT VALLEY,Electricity,76.697049
+Type of Lighting,RIFT VALLEY,Gas,1.532363
+Type of Lighting,RIFT VALLEY,Other,221.595854
+Type of Lighting,RIFT VALLEY,Paraffin,401.472230
+Type of Lighting,RIFT VALLEY,Solar,201.666614
+Type of Lighting,WESTERN,Electricity,32.523197
+Type of Lighting,WESTERN,Gas,0.719068
+Type of Lighting,WESTERN,Other,7.073439
+Type of Lighting,WESTERN,Paraffin,271.503460
+Type of Lighting,WESTERN,Solar,62.215114
