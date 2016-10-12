@@ -105,7 +105,9 @@ function initDash(data, geom, notes) {
 	$('#question').html(questions[0]);
 	createMap(geom);
 	genQuestion(cf.questionsDim.top(Infinity));
-
+	$('#questions').mCustomScrollbar({
+		theme: 'dark'
+	});
 }
 
 // question initialisation
