@@ -12,7 +12,7 @@
 }
 
 #questions {
-    padding-left: 0
+    padding-left: 0;
 }
 
 .axis path,
@@ -29,7 +29,9 @@
 	border-bottom-color:#ddd;
 	border-bottom-style:solid;
     padding: 5px;
-  cursor: pointer;
+    display: flex;
+    align-items: center;
+    cursor: pointer;
 }
 
 .numberlabel {
