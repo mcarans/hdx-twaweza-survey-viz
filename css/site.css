@@ -11,6 +11,9 @@
     font-weight: 400;
 }
 
+#questions {
+    padding-left: 0
+}
 
 .axis path,
 .axis line {
@@ -86,4 +89,8 @@
   margin-right:15px;
   margin-bottom:10px;
   width:150px;
+}
+
+.container {
+    padding: 0
 }
